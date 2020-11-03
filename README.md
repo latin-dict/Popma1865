@@ -1,6 +1,6 @@
 ## Dictionary
 
-[De differentiis verborum](https://latin-dict.github.io/dictionaries/Popma1865.html), Popma (1865)
+Source files of [De differentiis verborum](https://latin-dict.github.io/dictionaries/Popma1865.html), Popma (1865).
 
 ### Files
 
@@ -34,4 +34,3 @@ Open menu:
 Press "Import..." and choose the file.
 
 The new language "Popma1865" will appear in the bottom of the "Language" menu.
-
