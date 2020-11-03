@@ -1,11 +1,15 @@
-# Files
+## Dictionary
+
+[De differentiis verborum](https://latin-dict.github.io/dictionaries/Popma1865.html), Popma (1865)
+
+### Files
 
 * `transcript.txt` - the main file of the dictionary
 * `lexicon.json` - is a supplementary file representing headwords
 * `Notepadpp-UserLang.xml` - syntax highlight for Notepad++
 
 
-# Mark-up
+### Mark-up
 
 * `$$1$$` - every article starts with a unique number corresponding the item in `lexicon.json`.
 * `+Amare+` - headword
@@ -17,7 +21,7 @@
 * `+Pluvia+ V. %Imber%` — percent sign marks links to other articles
 
 
-# Notepad++
+### Notepad++
 
 Use `Notepadpp-UserLang.xml` for syntax highlighting in Notepad++.
 
