@@ -148,9 +148,6 @@
   "16": {
     "page": 11,
     "lemmas": [
-      "accedo<opt> tibi</opt>",
-      "accedo<opt> te</opt>",
-      "accedo<opt> ad te</opt>",
       "accedo<opt>, accedere</opt>",
       "aspiro<opt>, aspirare</opt>",
       "pervenio<opt>, pervenire</opt>"
@@ -378,9 +375,14 @@
   "39": {
     "page": 17,
     "lemmas": [
+      "acta<opt> pl.</opt>",
+      "gesta<opt> pl.</opt>"
+    ],
+    "altkeys": [
       "actum",
       "gestum",
-      "ago<opt>, agere</opt>"
+      "ago",
+      "egi"
     ]
   },
   "40": {
@@ -498,10 +500,6 @@
   "53": {
     "page": 21,
     "lemmas": [
-      "ad<opt> annum</opt>",
-      "in<opt> annum</opt>"
-    ],
-    "altkeys": [
       "ad annum",
       "in annum"
     ]
@@ -1625,7 +1623,7 @@
   "171": {
     "page": 58,
     "lemmas": [
-      "annalis",
+      "annales<opt> pl.</opt>",
       "historia"
     ]
   },
@@ -2526,15 +2524,13 @@
     "page": 77,
     "lemmas": [
       "augurium",
-      "auspicium",
-      "pedestre",
-      "praetermine",
-      "peremne"
+      "auspicium"
     ],
     "altkeys": [
-      "pedestria",
+      "peremnia",
       "peremnium",
-      "peremnia"
+      "peremne",
+      "peremnis"
     ]
   },
   "250": {
@@ -6093,19 +6089,17 @@
     ]
   },
   "598": {
-    "keys": [
-      "dictio oratorvm"
-    ],
     "page": 166,
     "lemmas": [
-      "dictio oratorvm"
+      "dictio",
+      "sermo"
+    ],
+    "altkeys": [
+      "dictionis",
+      "sermonis"
     ]
   },
   "599": {
-    "keys": [
-      "dictvm",
-      "promissvm"
-    ],
     "page": 166,
     "lemmas": [
       "dictum",
@@ -6113,274 +6107,324 @@
     ]
   },
   "600": {
-    "keys": [
-      "dies"
-    ],
     "page": 166,
     "lemmas": [
-      "dies"
+      "dies<opt> masc.</opt>",
+      "dies<opt> fem.</opt>"
+    ],
+    "altkeys": [
+      "diecula"
     ]
   },
   "601": {
-    "keys": [
-      "dies festvs",
-      "fastvs"
-    ],
     "page": 166,
     "lemmas": [
-      "dies festvs",
+      "festus",
       "fastus"
     ]
   },
   "602": {
-    "keys": [
-      "die qvarto"
-    ],
     "page": 166,
     "lemmas": [
-      "die qvarto"
+      "dies"
     ]
   },
   "603": {
-    "keys": [
-      "differre"
-    ],
     "page": 167,
     "lemmas": [
-      "differo"
+      "differo<opt>, differre</opt>",
+      "profero<opt>, proferre</opt>"
+    ],
+    "altkeys": [
+      "distuli",
+      "dilatum",
+      "protuli",
+      "prolatum"
     ]
   },
   "604": {
-    "keys": [
-      "difficilis"
-    ],
     "page": 167,
     "lemmas": [
-      "difficilis"
+      "difficilis",
+      "gravis"
+    ],
+    "altkeys": [
+      "difficillimus"
     ]
   },
   "605": {
-    "keys": [
-      "dignitas"
-    ],
     "page": 167,
     "lemmas": [
-      "dignitas"
+      "dignitas",
+      "existimatio",
+      "venustas"
+    ],
+    "altkeys": [
+      "dignitatis",
+      "existimationis",
+      "existumatio",
+      "existumationis",
+      "venustatis"
     ]
   },
   "606": {
-    "keys": [
-      "diligentia"
-    ],
     "page": 168,
     "lemmas": [
-      "diligentia"
+      "diligentia",
+      "industria",
+      "studium",
+      "cura"
+    ],
+    "altkeys": [
+      "diligenter",
+      "diligentius",
+      "diligentissime",
+      "industrie",
+      "industrius",
+      "industrissime",
+      "studiose",
+      "studiosius",
+      "studiosissime"
     ]
   },
   "607": {
-    "keys": [
-      "dimidivm"
-    ],
     "page": 168,
     "lemmas": [
-      "dimidium"
+      "dimidius",
+      "dimidiatus"
     ]
   },
   "608": {
     "keys": [
-      "directvm v. derectvm"
+      "directus"
     ],
     "page": 168,
     "skip": true
   },
   "609": {
-    "keys": [
-      "discidivm"
-    ],
     "page": 168,
     "lemmas": [
-      "discidium"
+      "discidium",
+      "dissidium"
     ]
   },
   "610": {
-    "keys": [
-      "discordia"
-    ],
     "page": 168,
     "lemmas": [
-      "discordia"
+      "discordia",
+      "bellum"
     ]
   },
   "611": {
-    "keys": [
-      "discrimen"
-    ],
     "page": 168,
     "lemmas": [
       "discrimen"
+    ],
+    "altkeys": [
+      "discriminis"
     ]
   },
   "612": {
-    "keys": [
-      "discriminale"
-    ],
     "page": 169,
     "lemmas": [
+      "discriminale",
+      "acus"
+    ],
+    "altkeys": [
       "discriminalis"
     ]
   },
   "613": {
-    "keys": [
-      "disertvs",
-      "eloqvens"
-    ],
     "page": 169,
     "lemmas": [
       "disertus",
-      "eloquens"
+      "eloquens",
+      "exertus"
+    ],
+    "altkeys": [
+      "eloquentis",
+      "exsertus"
     ]
   },
   "614": {
-    "keys": [
-      "dispvngere",
-      "expvngere"
-    ],
     "page": 169,
     "lemmas": [
-      "dispvngo",
-      "expvngo"
+      "dispungo<opt>, dispungere</opt>",
+      "expungo<opt>, expungere</opt>"
+    ],
+    "altkeys": [
+      "dispunxi",
+      "dispunctum",
+      "expunxi",
+      "expunctum",
+      "dispunctio",
+      "dispunctionis",
+      "expunctio",
+      "expunctionis",
+      "dispunctor",
+      "expunctor"
     ]
   },
   "615": {
-    "keys": [
-      "dispvtare",
-      "disserere"
-    ],
     "page": 169,
     "lemmas": [
-      "dispvto",
-      "disservi"
+      "disputo<opt>, disputare</opt>",
+      "dissero<opt>, disserere</opt>"
+    ],
+    "altkeys": [
+      "disputavi",
+      "disputatum",
+      "disserui",
+      "dissertum"
     ]
   },
   "616": {
-    "keys": [
-      "distrahebe"
-    ],
     "page": 170,
     "lemmas": [
-      "distrahebe"
+      "distraho<opt>, distrahere</opt>",
+      "deduco<opt>, deducere</opt>",
+      "divello<opt>, divellere</opt>"
+    ],
+    "altkeys": [
+      "distraxi",
+      "distractum",
+      "deduxi",
+      "deductum",
+      "divelli",
+      "divolsi",
+      "divulsi",
+      "divulsum",
+      "divolsum"
     ]
   },
   "617": {
-    "keys": [
-      "ditio",
-      "regio"
-    ],
     "page": 170,
     "lemmas": [
       "ditio",
       "regio"
+    ],
+    "altkeys": [
+      "dicio",
+      "ditionis",
+      "dicionis",
+      "regionis"
     ]
   },
   "618": {
-    "keys": [
-      "div"
-    ],
     "page": 170,
     "lemmas": [
-      "diu"
+      "diu",
+      "dudum",
+      "pridem",
+      "jamdudum",
+      "jam olim"
+    ],
+    "altkeys": [
+      "diutius",
+      "diutissime",
+      "jam dudum"
     ]
   },
   "619": {
-    "keys": [
-      "divellere"
-    ],
     "page": 170,
     "lemmas": [
-      "divelli"
+      "divello<opt>, divellere</opt>",
+      "devello<opt>, devellere</opt>"
+    ],
+    "altkeys": [
+      "divelli",
+      "divolsi",
+      "divulsi",
+      "divulsum",
+      "divolsum",
+      "develli",
+      "devolsum",
+      "διασπάω",
+      "ἀποτίλλω"
     ]
   },
   "620": {
-    "keys": [
-      "diversorivm",
-      "hospitivm",
-      "tabernam"
-    ],
     "page": 170,
     "lemmas": [
       "diversorium",
       "hospitium",
       "taberna"
+    ],
+    "altkeys": [
+      "deversorium"
     ]
   },
   "621": {
-    "keys": [
-      "dives"
-    ],
     "page": 171,
     "lemmas": [
-      "dives"
+      "dives",
+      "opulentus",
+      "pecuniosus",
+      "locuples"
+    ],
+    "altkeys": [
+      "divitis",
+      "locupletis"
     ]
   },
   "622": {
-    "keys": [
-      "dividimvs"
-    ],
     "page": 171,
     "lemmas": [
-      "divido"
+      "divido<opt>, dividere</opt>",
+      "partior<opt>, partiri</opt>"
+    ],
+    "altkeys": [
+      "divisi",
+      "divisum",
+      "partio",
+      "partivi",
+      "partitum"
     ]
   },
   "623": {
-    "keys": [
-      "dividvvm"
-    ],
     "page": 171,
     "lemmas": [
-      "dividvvs"
+      "dividuus",
+      "dimidius"
     ]
   },
   "624": {
-    "keys": [
-      "divinitvs"
-    ],
     "page": 171,
     "lemmas": [
-      "divinitus"
+      "divinitus",
+      "divine"
     ]
   },
   "625": {
-    "keys": [
-      "divitiae"
-    ],
     "page": 171,
     "lemmas": [
-      "divitiae"
+      "divitiae",
+      "possessio",
+      "opes"
+    ],
+    "altkeys": [
+      "divitia",
+      "possessionis",
+      "ops",
+      "opis"
     ]
   },
   "626": {
-    "keys": [
-      "divortivm"
-    ],
     "page": 171,
     "lemmas": [
-      "divortium"
+      "divortium",
+      "repudium"
     ]
   },
   "627": {
-    "keys": [
-      "divrnvm"
-    ],
     "page": 172,
     "lemmas": [
-      "divrnvs"
+      "diurnus",
+      "diuturnus",
+      "diutinus"
     ]
   },
   "628": {
-    "keys": [
-      "divtinvs",
-      "longvs"
-    ],
     "page": 172,
     "lemmas": [
       "diutinus",
@@ -6388,19 +6432,25 @@
     ]
   },
   "629": {
-    "keys": [
-      "doctvs"
-    ],
     "page": 172,
     "lemmas": [
-      "doctus"
+      "doctus",
+      "eruditus",
+      "litteratus",
+      "sapiens"
+    ],
+    "altkeys": [
+      "sapientis",
+      "doctrina",
+      "eruditio",
+      "eruditionis",
+      "doceo",
+      "docui",
+      "erudio",
+      "erudivi"
     ]
   },
   "630": {
-    "keys": [
-      "doctvs",
-      "peritvs"
-    ],
     "page": 173,
     "lemmas": [
       "doctus",
@@ -6408,574 +6458,784 @@
     ]
   },
   "631": {
-    "keys": [
-      "doctvs",
-      "prvdens"
-    ],
     "page": 173,
     "lemmas": [
       "doctus",
       "prudens"
+    ],
+    "altkeys": [
+      "prudentis",
+      "prudentum"
     ]
   },
   "632": {
-    "keys": [
-      "dolor"
-    ],
     "page": 173,
     "lemmas": [
-      "dolor"
+      "dolor",
+      "moeror"
+    ],
+    "altkeys": [
+      "doloris",
+      "moeroris",
+      "maeror",
+      "maeroris"
     ]
   },
   "633": {
-    "keys": [
-      "dolorem",
-      "laborem"
-    ],
     "page": 174,
     "lemmas": [
+      "dolor",
+      "labor"
+    ],
+    "altkeys": [
       "doloris",
-      "laboris"
+      "laboris",
+      "labos"
     ]
   },
   "634": {
-    "keys": [
-      "dolor"
-    ],
     "page": 174,
     "lemmas": [
-      "dolor"
+      "dolor",
+      "tristitia"
+    ],
+    "altkeys": [
+      "doloris"
     ]
   },
   "635": {
-    "keys": [
-      "dolvs"
-    ],
     "page": 174,
     "lemmas": [
       "dolus",
       "fraus"
+    ],
+    "altkeys": [
+      "fraudis",
+      "fraudo",
+      "fraudavi",
+      "fraudatum"
     ]
   },
   "636": {
-    "keys": [
-      "domare"
-    ],
     "page": 175,
     "lemmas": [
-      "domo"
+      "domo<opt>, domare</opt>",
+      "vinco<opt>, vincere</opt>"
+    ],
+    "altkeys": [
+      "domui",
+      "domitum",
+      "vici",
+      "victum"
     ]
   },
   "637": {
-    "keys": [
-      "domicilivm"
-    ],
     "page": 175,
     "lemmas": [
-      "domicilium"
+      "domicilium",
+      "domus",
+      "sedes"
+    ],
+    "altkeys": [
+      "sedis"
     ]
   },
   "638": {
-    "keys": [
-      "dominari"
-    ],
     "page": 175,
     "lemmas": [
-      "dominor"
+      "dominor<opt>, dominari</opt>",
+      "impero<opt>, imperare</opt>",
+      "dominatus",
+      "imperium"
+    ],
+    "altkeys": [
+      "domino",
+      "dominavi",
+      "dominatum",
+      "imperavi",
+      "imperatum",
+      "imperatus",
+      "dominatio",
+      "dominationis"
     ]
   },
   "639": {
-    "keys": [
-      "domvs v. hospitivm"
-    ],
     "page": 175,
+    "lemmas": [
+      "domus"
+    ],
     "skip": true
   },
   "640": {
-    "keys": [
-      "donamvs"
-    ],
     "page": 175,
     "lemmas": [
-      "dono"
+      "dono<opt>, donare</opt>",
+      "largior<opt>, largiri</opt>"
+    ],
+    "altkeys": [
+      "donavi",
+      "donatum",
+      "largio",
+      "largivi",
+      "largitum",
+      "dilargior",
+      "dilargio",
+      "dilargivi",
+      "dilargitum",
+      "dilargitus"
     ]
   },
   "641": {
-    "keys": [
-      "donare"
-    ],
     "page": 176,
     "lemmas": [
-      "dono"
+      "dono<opt>, donare</opt>",
+      "condono<opt>, condonare</opt>"
+    ],
+    "altkeys": [
+      "donavi",
+      "donatum",
+      "condonavi",
+      "condonatum"
     ]
   },
   "642": {
-    "keys": [
-      "donvm",
-      "mvnvs"
-    ],
     "page": 176,
     "lemmas": [
       "donum",
-      "munus"
+      "munus",
+      "donativum",
+      "donarium",
+      "praemium"
+    ],
+    "altkeys": [
+      "muneris"
     ]
   },
   "643": {
-    "keys": [
-      "dvco"
-    ],
     "page": 177,
     "lemmas": [
-      "duco"
+      "duco<opt>, ducere</opt>",
+      "abduco<opt>, abducere</opt>",
+      "adduco<opt>, adducere</opt>",
+      "deduco<opt>, deducere</opt>",
+      "perduco<opt>, perducere</opt>",
+      "produco<opt>, producere</opt>",
+      "subduco<opt>, subducere</opt>",
+      "ducto<opt>, ductare</opt>",
+      "traho<opt>, trahere</opt>"
+    ],
+    "altkeys": [
+      "duxi",
+      "ductum",
+      "adduxi",
+      "adductum",
+      "perduxi",
+      "perductum",
+      "deduxi",
+      "deductum",
+      "abduxi",
+      "abductum",
+      "subduxi",
+      "subductum",
+      "produxi",
+      "productum",
+      "ductavi",
+      "ductatum",
+      "traxi",
+      "tractum"
     ]
   },
   "644": {
-    "keys": [
-      "dvctvs",
-      "imperivm",
-      "aspicivm"
-    ],
     "page": 178,
     "lemmas": [
       "ductus",
       "imperium",
-      "aspicivm"
+      "auspicium",
+      "duco<opt>, ducere</opt>",
+      "ducto<opt>, ductare</opt>",
+      "nubo<opt>, nubere</opt>"
+    ],
+    "altkeys": [
+      "duxi",
+      "ductum",
+      "ductavi",
+      "ductatum",
+      "nupsi",
+      "nuptum"
     ]
   },
   "645": {
-    "keys": [
-      "dvo"
-    ],
     "page": 178,
     "lemmas": [
-      "duo"
+      "duo",
+      "ambo"
+    ],
+    "altkeys": [
+      "duae",
+      "ambae"
     ]
   },
   "646": {
-    "keys": [
-      "dvplicatvm"
-    ],
     "page": 178,
     "lemmas": [
-      "dvplico"
+      "duplicatus",
+      "geminus"
+    ],
+    "altkeys": [
+      "duplico",
+      "duplicavi"
     ]
   },
   "647": {
-    "keys": [
-      "dvre"
-    ],
     "page": 178,
     "lemmas": [
-      "dvrvs"
+      "dure",
+      "duriter"
     ]
   },
   "648": {
-    "keys": [
-      "dvx"
-    ],
     "page": 178,
     "lemmas": [
-      "dux"
+      "dux",
+      "imperator"
+    ],
+    "altkeys": [
+      "ducis",
+      "imperatoris"
     ]
   },
   "649": {
-    "keys": [
-      "eborevm",
-      "eboratvm",
-      "ebvrnvm"
-    ],
     "page": 179,
     "lemmas": [
-      "eborevs",
-      "eboratvs",
-      "ebvrnvs"
+      "eboreus",
+      "eboratus",
+      "eburnus"
+    ],
+    "altkeys": [
+      "eburatus",
+      "eburneus"
     ]
   },
   "650": {
-    "keys": [
-      "ebrivs",
-      "ebriosvs"
-    ],
     "page": 179,
     "lemmas": [
       "ebrius",
-      "ebriosus"
+      "ebriosus",
+      "ebrietas",
+      "ebriositas"
+    ],
+    "altkeys": [
+      "ebrietatis",
+      "ebriositatis"
     ]
   },
   "651": {
-    "keys": [
-      "ecce"
-    ],
     "page": 179,
     "lemmas": [
-      "ecce"
+      "ecce",
+      "en",
+      "hem"
     ]
   },
   "652": {
-    "keys": [
-      "ecclesia"
-    ],
     "page": 179,
     "lemmas": [
-      "ecclesia"
+      "ecclesia",
+      "templum"
+    ],
+    "altkeys": [
+      "eclesia"
     ]
   },
   "653": {
-    "keys": [
-      "ecqvando"
-    ],
     "page": 179,
     "lemmas": [
-      "ecquando"
+      "ecquando",
+      "quando"
+    ],
+    "altkeys": [
+      "quandod"
     ]
   },
   "654": {
-    "keys": [
-      "edicta"
-    ],
     "page": 179,
     "lemmas": [
-      "edictvm"
+      "edictum",
+      "mandatum",
+      "interdictum",
+      "decretum",
+      "interlocutio",
+      "oratio",
+      "jussio",
+      "rescriptum",
+      "edico<opt>, edicere</opt>",
+      "interdico<opt>, interdicere</opt>",
+      "indico<opt>, indicere</opt>"
+    ],
+    "altkeys": [
+      "interlocutionis",
+      "orationis",
+      "jussionis",
+      "edixi",
+      "edictum",
+      "interdixi",
+      "interdictum",
+      "indixi",
+      "indictum"
     ]
   },
   "655": {
-    "keys": [
-      "edimvs"
-    ],
     "page": 181,
     "lemmas": [
-      "edi"
+      "edo<opt>, edere</opt>",
+      "manduco<opt>, manducare</opt>"
+    ],
+    "altkeys": [
+      "edi",
+      "esum",
+      "essum",
+      "esse",
+      "manducavi",
+      "manducatum"
     ]
   },
   "656": {
-    "keys": [
-      "edvcere"
-    ],
     "page": 181,
     "lemmas": [
-      "educo<opt>, educare</opt>"
+      "educo<opt>, educere</opt>",
+      "educo<opt>, educare</opt>",
+      "instituo<opt>, instituere</opt>",
+      "doceo<opt>, docere</opt>"
+    ],
+    "altkeys": [
+      "eduxi",
+      "eductum",
+      "educavi",
+      "educatum",
+      "educatus",
+      "institui",
+      "institutum",
+      "docui",
+      "doctum"
     ]
   },
   "657": {
-    "keys": [
-      "efferri"
-    ],
     "page": 181,
     "lemmas": [
-      "effero"
+      "effero<opt>, efferre</opt>",
+      "ire exequias"
+    ],
+    "altkeys": [
+      "extuli",
+      "elatum",
+      "eo",
+      "ivi",
+      "ii",
+      "itum"
     ]
   },
   "658": {
-    "keys": [
-      "effertvr"
-    ],
     "page": 181,
     "lemmas": [
-      "effero"
+      "effero<opt>, efferre</opt>"
+    ],
+    "altkeys": [
+      "extuli",
+      "elatum",
+      "ecfero",
+      "ectuli",
+      "eclatum"
     ]
   },
   "659": {
-    "keys": [
-      "effigies",
-      "imagine"
-    ],
     "page": 181,
     "lemmas": [
       "effigies",
-      "imaginis"
+      "imago",
+      "exemplum",
+      "idolum"
+    ],
+    "altkeys": [
+      "imaginis",
+      "idolon"
     ]
   },
   "660": {
-    "keys": [
-      "egere"
-    ],
     "page": 182,
     "lemmas": [
-      "egero"
+      "egeo<opt>, egere</opt>",
+      "opus habere"
+    ],
+    "altkeys": [
+      "egui",
+      "opus"
     ]
   },
   "661": {
-    "keys": [
-      "egestas"
-    ],
     "page": 182,
     "lemmas": [
-      "egestas"
+      "egestas",
+      "inopia",
+      "paupertas",
+      "penuria",
+      "indigentia",
+      "mendicitas",
+      "egens",
+      "egenus",
+      "inops",
+      "pauper",
+      "libertinus"
+    ],
+    "altkeys": [
+      "egestatis",
+      "paupertatis",
+      "mendicitatis",
+      "egentis",
+      "inopis",
+      "pauperis"
     ]
   },
   "662": {
-    "keys": [
-      "elaborare",
-      "v. laborare"
-    ],
     "page": 183,
     "lemmas": [
-      "elaboro",
-      "v. laborare"
-    ]
+      "elaboro<opt>, elaborare</opt>"
+    ],
+    "altkeys": [
+      "elaboravi",
+      "elaboratum",
+      "elaboratus"
+    ],
+    "skip": true
   },
   "663": {
-    "keys": [
-      "elevamvs"
-    ],
     "page": 183,
     "lemmas": [
-      "elevo"
+      "elevo<opt>, elevare</opt>",
+      "allevo<opt>, allevare</opt>"
+    ],
+    "altkeys": [
+      "elevavi",
+      "elevatum",
+      "allevavi",
+      "allevatum"
     ]
   },
   "664": {
-    "keys": [
-      "eligo"
-    ],
     "page": 183,
     "lemmas": [
-      "eligo"
+      "eligo<opt>, eligere</opt>",
+      "deligo<opt>, deligere</opt>"
+    ],
+    "altkeys": [
+      "elegi",
+      "electum",
+      "delegi",
+      "delectum"
     ]
   },
   "665": {
-    "keys": [
-      "elingvis"
-    ],
     "page": 183,
     "lemmas": [
-      "elinguis"
+      "elinguis",
+      "elinguatus"
+    ],
+    "altkeys": [
+      "elinguo"
     ]
   },
   "666": {
-    "keys": [
-      "eloquentia"
-    ],
     "page": 183,
     "lemmas": [
-      "eloquentia"
+      "eloquentia",
+      "eloquium"
     ]
   },
   "667": {
-    "keys": [
-      "elvdere",
-      "praelvdere"
-    ],
     "page": 183,
     "lemmas": [
-      "elvdo",
-      "praelvdo"
+      "eludo<opt>, eludere</opt>",
+      "praeludo<opt>, praeludere</opt>"
+    ],
+    "altkeys": [
+      "elusi",
+      "elusum",
+      "praelusi",
+      "praelusum"
     ]
   },
   "668": {
-    "keys": [
-      "elvxit"
-    ],
     "page": 184,
     "lemmas": [
-      "elvxi"
+      "eluceo<opt>, elucere</opt>",
+      "illuceo<opt>, illucere</opt>"
+    ],
+    "altkeys": [
+      "eluxi",
+      "illuxi",
+      "illucesco"
     ]
   },
   "669": {
-    "keys": [
-      "em",
-      "eam"
-    ],
     "page": 184,
     "lemmas": [
       "em",
-      "eam"
+      "eam",
+      "eum",
+      "eorum",
+      "em",
+      "en",
+      "hem"
     ]
   },
   "670": {
-    "keys": [
-      "emendate"
-    ],
     "page": 184,
     "lemmas": [
-      "emendatvs"
+      "emendate",
+      "congrue"
     ]
   },
   "671": {
-    "keys": [
-      "emere"
-    ],
     "page": 184,
     "lemmas": [
-      "emereo"
+      "emo<opt>, emere</opt>",
+      "paro<opt>, parare</opt>"
+    ],
+    "altkeys": [
+      "emi",
+      "emptum",
+      "emtus",
+      "emtum",
+      "emta",
+      "paravi",
+      "paratum",
+      "paratus"
     ]
   },
   "672": {
-    "keys": [
-      "emerita"
-    ],
     "page": 185,
     "lemmas": [
-      "emeritvm"
+      "emeritum",
+      "praemium"
     ]
   },
   "673": {
-    "keys": [
-      "emigrare"
-    ],
     "page": 185,
     "lemmas": [
-      "emigro"
+      "emigro<opt>, emigrare</opt>",
+      "exeo<opt>, exire</opt>"
+    ],
+    "altkeys": [
+      "emigravi",
+      "emigratum",
+      "exivi",
+      "exii",
+      "exitum"
     ]
   },
   "674": {
-    "keys": [
-      "eminere"
-    ],
     "page": 185,
     "lemmas": [
-      "emineo"
+      "emineo<opt>, eminere</opt>",
+      "eniteo<opt>, enitere</opt>"
+    ],
+    "altkeys": [
+      "eminui",
+      "enitui"
     ]
   },
   "675": {
-    "keys": [
-      "emolvmentvm"
-    ],
     "page": 185,
     "lemmas": [
-      "emolumentum"
+      "emolumentum",
+      "utilitas"
+    ],
+    "altkeys": [
+      "utilitatis"
     ]
   },
   "676": {
-    "keys": [
-      "emplastra"
-    ],
     "page": 185,
     "lemmas": [
-      "emplastrvm"
+      "emplastrum",
+      "malagma",
+      "pastillus"
+    ],
+    "altkeys": [
+      "malagmatis"
     ]
   },
   "677": {
-    "keys": [
-      "enicare"
-    ],
     "page": 186,
     "lemmas": [
-      "enico"
+      "enico<opt>, enicare</opt>",
+      "opprimo<opt>, opprimere</opt>"
+    ],
+    "altkeys": [
+      "enicavi",
+      "enicui",
+      "enicatum",
+      "enictum",
+      "eneco",
+      "enecavi",
+      "enecui",
+      "enecatum",
+      "enectum",
+      "oppressi",
+      "oppressum"
     ]
   },
   "678": {
-    "keys": [
-      "eniti",
-      "inniti",
-      "obniti"
-    ],
     "page": 186,
     "lemmas": [
-      "enitvi",
-      "innitor",
-      "obnitor"
+      "enitor<opt>, eniti</opt>",
+      "innitor<opt>, inniti</opt>",
+      "obnitor<opt>, obniti</opt>"
+    ],
+    "altkeys": [
+      "enixus",
+      "enisus",
+      "innixus",
+      "innisus",
+      "obnixus",
+      "obnisus"
     ]
   },
+  "5003": {
+    "lemmas": [
+      "ἔπαινος",
+      "ἐγκώμιον"
+    ],
+    "page": 186
+  },
   "679": {
-    "keys": [
-      "ephebevm v. collegivm"
+    "lemmas": [
+      "ephebeum"
     ],
     "page": 186,
     "skip": true
   },
   "680": {
-    "keys": [
-      "ephemerides",
-      "adversaria",
-      "commentarii"
-    ],
     "page": 186,
     "lemmas": [
+      "ephemeris",
+      "adversaria",
+      "commentarium",
+      "diarium"
+    ],
+    "altkeys": [
       "ephemeridis",
-      "adversarivs",
-      "commentarivm"
+      "commentarius"
     ]
   },
   "681": {
-    "keys": [
-      "epicedivm"
-    ],
     "page": 187,
     "lemmas": [
-      "epicedii"
+      "epicedium",
+      "epitaphium"
+    ],
+    "altkeys": [
+      "epicedion",
+      "epitaphius",
+      "epitaphios",
+      "epitaphion"
     ]
   },
   "682": {
-    "keys": [
-      "epistola"
-    ],
     "page": 187,
     "lemmas": [
-      "epistola"
+      "epistola",
+      "litterae"
+    ],
+    "altkeys": [
+      "littera"
     ]
   },
   "683": {
-    "keys": [
-      "epvlvm"
-    ],
     "page": 187,
     "lemmas": [
-      "epulum"
+      "epulum",
+      "epulae",
+      "daps"
+    ],
+    "altkeys": [
+      "dapis"
     ]
   },
   "684": {
-    "keys": [
-      "eripere"
-    ],
     "page": 187,
     "lemmas": [
-      "eripvi"
+      "eripio<opt>, eripere</opt>",
+      "eximo<opt>, eximere</opt>"
+    ],
+    "altkeys": [
+      "eripui",
+      "ereptum",
+      "exemi",
+      "exemptum"
     ]
   },
   "685": {
-    "keys": [
-      "erga"
-    ],
     "page": 187,
     "lemmas": [
-      "erga"
+      "erga",
+      "in",
+      "adversus",
+      "adversum",
+      "contra"
     ]
   },
   "686": {
-    "keys": [
-      "ergasterivm"
-    ],
     "page": 188,
     "lemmas": [
-      "ergasterium"
+      "ergasterium",
+      "ergastulum"
+    ],
+    "altkeys": [
+      "ἐργαστήριον"
     ]
   },
   "687": {
-    "keys": [
-      "ergastvlvm",
-      "ergastvlvs"
-    ],
     "page": 188,
     "lemmas": [
       "ergastulum",
-      "ergastvlvs"
+      "ergastulus"
     ]
   },
   "688": {
-    "keys": [
-      "erratio"
-    ],
     "page": 188,
     "lemmas": [
-      "erratio"
+      "erratio",
+      "error"
+    ],
+    "altkeys": [
+      "errationis",
+      "erroris"
     ]
   },
   "689": {
-    "keys": [
-      "erro"
-    ],
     "page": 188,
     "lemmas": [
-      "erro"
+      "erro",
+      "fugitivus"
+    ],
+    "altkeys": [
+      "erronis"
     ]
   },
   "690": {
-    "keys": [
-      "errare"
-    ],
     "page": 188,
     "lemmas": [
-      "erro"
+      "erro<opt>, errare</opt>",
+      "vagor<opt>, vagari</opt>"
+    ],
+    "altkeys": [
+      "erravi",
+      "erratum",
+      "erratus",
+      "vagatus",
+      "vago",
+      "vagatum",
+      "vagatus"
     ]
   },
   "691": {
@@ -6985,33 +7245,47 @@
     ],
     "page": 188,
     "lemmas": [
-      "erro",
-      "decipio"
+      "erro<opt>, errare</opt>",
+      "decipior<opt>, decipi</opt>"
+    ],
+    "altkeys": [
+      "erravi",
+      "erratum",
+      "erratus",
+      "decipio",
+      "decepi",
+      "deceptum"
     ]
   },
   "692": {
-    "keys": [
-      "errare"
-    ],
     "page": 188,
     "lemmas": [
-      "erro"
+      "erro<opt>, errare</opt>",
+      "hallucinor<opt>, hallucinari</opt>"
+    ],
+    "altkeys": [
+      "erravi",
+      "erratum",
+      "erratus",
+      "allucinor",
+      "allucinatus",
+      "hallucinatus"
     ]
   },
   "693": {
-    "keys": [
-      "erraticvs"
-    ],
     "page": 188,
     "lemmas": [
-      "erraticus"
+      "erraticus",
+      "erraticius"
+    ],
+    "altkeys": [
+      "erratio",
+      "errationis",
+      "errabundus",
+      "erroneus"
     ]
   },
   "694": {
-    "keys": [
-      "erratvm",
-      "cvlpa"
-    ],
     "page": 188,
     "lemmas": [
       "erratum",
@@ -7019,1268 +7293,1714 @@
     ]
   },
   "695": {
-    "keys": [
-      "erratrix"
-    ],
     "page": 189,
     "lemmas": [
-      "erratrix"
+      "erratrix",
+      "erratica"
+    ],
+    "altkeys": [
+      "errator",
+      "erraticus"
     ]
   },
   "696": {
-    "keys": [
-      "error"
-    ],
     "page": 189,
     "lemmas": [
-      "error"
+      "error",
+      "erratio",
+      "erratum"
+    ],
+    "altkeys": [
+      "erroris",
+      "errationis"
     ]
   },
   "697": {
-    "keys": [
-      "esse",
-      "exstare"
-    ],
     "page": 189,
     "lemmas": [
+      "sum<opt>, esse</opt>",
+      "exsto<opt>, exstare</opt>",
+      "consto<opt>, constare</opt>"
+    ],
+    "altkeys": [
       "esse",
-      "exsto"
+      "es",
+      "est",
+      "sumus",
+      "estis",
+      "sunt",
+      "fui",
+      "futurum",
+      "futurus",
+      "exto",
+      "extiti",
+      "constiti",
+      "constatum"
     ]
   },
   "698": {
-    "keys": [
-      "evnvchvs"
-    ],
     "page": 189,
     "lemmas": [
-      "eunuchus"
+      "eunuchus",
+      "spado"
+    ],
+    "altkeys": [
+      "εὐνοῦχος",
+      "spadonis"
     ]
   },
   "699": {
-    "keys": [
-      "eventvs"
-    ],
     "page": 190,
     "lemmas": [
-      "eventus"
+      "eventus",
+      "exitus"
     ]
   },
   "700": {
-    "keys": [
-      "ex"
-    ],
     "page": 190,
     "lemmas": [
-      "ex"
+      "ex",
+      "de"
     ]
   },
   "701": {
-    "keys": [
-      "exanimatvs"
-    ],
     "page": 190,
     "lemmas": [
-      "exanimo"
+      "exanimatus",
+      "exanimus"
+    ],
+    "altkeys": [
+      "exanimo",
+      "exanimis"
     ]
   },
   "702": {
-    "keys": [
-      "exavctorare"
-    ],
     "page": 190,
     "lemmas": [
-      "exavctoro"
+      "exauctoro<opt>, exauctorare</opt>",
+      "missionem dare"
+    ],
+    "altkeys": [
+      "exauctoravi",
+      "exauctoratum",
+      "missio",
+      "missionis",
+      "exauctoratio",
+      "exauctorationis"
     ]
   },
   "703": {
-    "keys": [
-      "ex bonis"
-    ],
     "page": 191,
     "lemmas": [
-      "ex bonis"
+      "ex bonis",
+      "in bonis"
+    ],
+    "altkeys": [
+      "bonum"
     ]
   },
   "704": {
-    "keys": [
-      "excvbiae"
-    ],
     "page": 192,
     "lemmas": [
-      "excubiae"
+      "excubiae",
+      "vigilia"
+    ],
+    "altkeys": [
+      "excubia"
     ]
   },
   "705": {
-    "keys": [
-      "exemplvm"
-    ],
     "page": 192,
     "lemmas": [
-      "exemplum"
+      "exemplum",
+      "exemplar",
+      "copia",
+      "transcriptum"
+    ],
+    "altkeys": [
+      "exemplaris",
+      "ἀπόγραφον"
     ]
   },
   "706": {
-    "keys": [
-      "exercitvm"
-    ],
     "page": 193,
     "lemmas": [
-      "exercitum"
+      "exercitus",
+      "exercitatus"
+    ],
+    "altkeys": [
+      "exerceo",
+      "exercui",
+      "exercitum",
+      "exercito",
+      "exercitavi",
+      "exercitatum"
     ]
   },
   "707": {
-    "keys": [
-      "exercitvs"
-    ],
     "page": 193,
     "lemmas": [
-      "exercitus"
+      "exercitus",
+      "agmen"
+    ],
+    "altkeys": [
+      "agminis"
     ]
   },
   "708": {
-    "keys": [
-      "existimatio v. aestimatio"
-    ],
     "page": 193,
+    "lemmas": [
+      "existimatio"
+    ],
+    "altkeys": [
+      "existimationis"
+    ],
     "skip": true
   },
   "709": {
-    "keys": [
-      "existimo",
-      "ivdico"
-    ],
     "page": 193,
     "lemmas": [
-      "existimo",
-      "iudico"
+      "existimo<opt>, existimare</opt>",
+      "judico<opt>, judicare</opt>",
+      "existimatio",
+      "judicium"
+    ],
+    "altkeys": [
+      "existimavi",
+      "existimatum",
+      "judicavi",
+      "judicatum",
+      "judicatus",
+      "existimationis"
     ]
   },
   "710": {
-    "keys": [
-      "expergitvs"
-    ],
     "page": 194,
     "lemmas": [
-      "expergitus"
+      "expergitus",
+      "experrectus"
     ]
   },
   "711": {
-    "keys": [
-      "expectamvs"
-    ],
     "page": 194,
     "lemmas": [
-      "expecto"
+      "expecto<opt>, expectare</opt>",
+      "spero<opt>, sperare</opt>",
+      "specto<opt>, spectare</opt>",
+      "expectatio",
+      "spes"
+    ],
+    "altkeys": [
+      "expectavi",
+      "expectatum",
+      "exspecto",
+      "exspectavi",
+      "exspectatum",
+      "speravi",
+      "speratum",
+      "spectavi",
+      "spectatum",
+      "expectationis"
     ]
   },
   "712": {
-    "keys": [
-      "expellere"
-    ],
     "page": 194,
     "lemmas": [
-      "expello"
+      "expello<opt>, expellere</opt>",
+      "repello<opt>, repellere</opt>"
+    ],
+    "altkeys": [
+      "expuli",
+      "expulsum",
+      "reppuli",
+      "repuli",
+      "repulsum"
     ]
   },
   "713": {
-    "keys": [
-      "expertvs"
-    ],
     "page": 194,
     "lemmas": [
-      "expertus"
+      "expertus",
+      "experrectus"
     ]
   },
   "714": {
-    "keys": [
-      "expetendvm",
-      "adexpetendvm"
-    ],
     "page": 194,
     "lemmas": [
-      "expetendvs",
-      "adexpetendvm"
+      "expetendus",
+      "adexpetendus"
     ]
   },
   "715": {
-    "keys": [
-      "expilat"
-    ],
     "page": 194,
     "lemmas": [
-      "expilo"
+      "expilo<opt>, expilare</opt>",
+      "compilo<opt>, compilare</opt>"
+    ],
+    "altkeys": [
+      "expilavi",
+      "expilatum",
+      "compilavi",
+      "compilatum"
     ]
   },
   "716": {
-    "keys": [
-      "expilatores"
-    ],
     "page": 194,
     "lemmas": [
-      "expilatoris"
+      "expilator",
+      "grassator",
+      "saccularius",
+      "apertularius",
+      "directarius"
+    ],
+    "altkeys": [
+      "expilatoris",
+      "grassatoris",
+      "saccularii"
     ]
   },
   "717": {
-    "keys": [
-      "expilo"
-    ],
     "page": 195,
     "lemmas": [
-      "expilo"
+      "pilo<opt>, pilare</opt>",
+      "expilo<opt>, expilare</opt>",
+      "spolio<opt>, spoliare</opt>",
+      "furor<opt>, furari</opt>"
+    ],
+    "altkeys": [
+      "expilavi",
+      "expilatum",
+      "furatus",
+      "pilavi",
+      "pilatum",
+      "pilatus",
+      "spoliavi",
+      "spoliatum",
+      "spoliatus"
     ]
   },
   "718": {
-    "keys": [
-      "expleri"
-    ],
     "page": 195,
     "lemmas": [
-      "expleo"
+      "expleo<opt>, explere</opt>",
+      "satio<opt>, satiare</opt>"
+    ],
+    "altkeys": [
+      "explevi",
+      "expletum",
+      "satiavi",
+      "satiatum",
+      "satiatus"
     ]
   },
   "719": {
-    "keys": [
-      "explorator"
-    ],
     "page": 195,
     "lemmas": [
-      "explorator"
+      "explorator",
+      "speculator"
+    ],
+    "altkeys": [
+      "exploratoris",
+      "speculatoris"
     ]
   },
   "720": {
-    "keys": [
-      "exponere",
-      "explicare"
-    ],
     "page": 195,
     "lemmas": [
-      "expono",
-      "explico"
+      "expono<opt>, exponere</opt>",
+      "explico<opt>, explicare</opt>"
+    ],
+    "altkeys": [
+      "exposui",
+      "expositum",
+      "explicavi",
+      "explicatum",
+      "explicatus"
     ]
   },
   "721": {
-    "keys": [
-      "expostvlare"
-    ],
     "page": 196,
     "lemmas": [
-      "expostvlo"
+      "expostulo<opt>, expostulare</opt>",
+      "postulo<opt>, postulare</opt>"
+    ],
+    "altkeys": [
+      "expostulavi",
+      "expostulatum",
+      "postulavi",
+      "postulatum"
     ]
   },
   "722": {
-    "keys": [
-      "exprobrat"
-    ],
     "page": 196,
     "lemmas": [
-      "exprobro"
+      "exprobro<opt>, exprobrare</opt>",
+      "opprobro<opt>, opprobrare</opt>"
+    ],
+    "altkeys": [
+      "exprobravi",
+      "exprobratum",
+      "opprobravi",
+      "opprobratum",
+      "opprobratus"
     ]
   },
   "723": {
-    "keys": [
-      "expromissor"
-    ],
     "page": 196,
     "lemmas": [
-      "expromissor"
+      "expromissor",
+      "fidejussor",
+      "sponsor",
+      "constitutor",
+      "mandator"
+    ],
+    "altkeys": [
+      "expromissoris",
+      "fidejussoris",
+      "sponsoris",
+      "constitutoris",
+      "mandatoris"
     ]
   },
   "724": {
-    "keys": [
-      "exstrvere"
-    ],
     "page": 196,
     "lemmas": [
-      "exstrvo"
+      "exstruo<opt>, exstruere</opt>",
+      "instruo<opt>, instruere</opt>",
+      "adstruo<opt>, adstruere</opt>",
+      "construo<opt>, construere</opt>",
+      "substruo<opt>, substruere</opt>",
+      "circumstruo<opt>, circumstruere</opt>",
+      "praestruo<opt>, praestruere</opt>",
+      "obstruo<opt>, obstruere</opt>"
+    ],
+    "altkeys": [
+      "exstruxi",
+      "exstructum",
+      "extruo",
+      "extruxi",
+      "extructum",
+      "instruxi",
+      "instructum",
+      "adstruxi",
+      "adstructum",
+      "astruo",
+      "astruxi",
+      "astructum",
+      "construxi",
+      "constructum",
+      "substruxi",
+      "substructum",
+      "circumstruxi",
+      "circumstructum",
+      "praestruxi",
+      "praestructum",
+      "obstruxi",
+      "obstructum"
     ]
   },
   "725": {
-    "keys": [
-      "exsvl",
-      "relegatvs"
-    ],
     "page": 197,
     "lemmas": [
       "exsul",
-      "relego"
+      "relegatus"
+    ],
+    "altkeys": [
+      "exsulis",
+      "exsulo",
+      "exsulavi",
+      "exsulatum",
+      "exulo",
+      "exulavi",
+      "exulatum",
+      "relego",
+      "relegavi",
+      "relegatum"
     ]
   },
   "726": {
-    "keys": [
-      "extingvere"
-    ],
     "page": 197,
     "lemmas": [
-      "extingvo"
+      "extinguo<opt>, extinguere</opt>",
+      "opprimo<opt>, opprimere</opt>"
+    ],
+    "altkeys": [
+      "extinxi",
+      "extinctum",
+      "exstinguo",
+      "exstinxi",
+      "exstinctum",
+      "oppressi",
+      "oppressum"
     ]
   },
   "727": {
-    "keys": [
-      "extranevs"
-    ],
     "page": 197,
     "lemmas": [
-      "extraneus"
+      "extraneus",
+      "exterraneus",
+      "extrarius",
+      "externus",
+      "alienus"
     ]
   },
   "728": {
-    "keys": [
-      "fabvla"
-    ],
     "page": 198,
     "lemmas": [
-      "fabula"
+      "fabula",
+      "historia"
     ]
   },
   "729": {
-    "keys": [
-      "fabvlones",
-      "planipedes"
-    ],
     "page": 198,
     "lemmas": [
-      "fabvlonis",
-      "planipedis"
+      "fabulo",
+      "planipes",
+      "mimus"
+    ],
+    "altkeys": [
+      "fabulonis",
+      "planipedis",
+      "mima"
     ]
   },
   "730": {
-    "keys": [
-      "facere"
-    ],
     "page": 198,
     "lemmas": [
-      "facio"
+      "facio<opt>, facere</opt>",
+      "efficio<opt>, efficere</opt>"
+    ],
+    "altkeys": [
+      "feci",
+      "factum",
+      "effeci",
+      "effectum"
     ]
   },
   "731": {
-    "keys": [
-      "facetvs"
-    ],
     "page": 198,
     "lemmas": [
-      "facetus"
+      "facetus",
+      "lautus",
+      "lepidus",
+      "lautus"
     ]
   },
   "732": {
-    "keys": [
-      "facies"
-    ],
     "page": 198,
     "lemmas": [
-      "facies"
+      "facies",
+      "vultus"
+    ],
+    "altkeys": [
+      "os",
+      "oris"
     ]
   },
   "733": {
-    "keys": [
-      "facilis"
-    ],
     "page": 199,
     "lemmas": [
-      "facilis"
+      "facilis",
+      "clemens",
+      "benevolus",
+      "placidus"
+    ],
+    "altkeys": [
+      "facillimus",
+      "clementis"
     ]
   },
   "734": {
-    "keys": [
-      "facilitas"
-    ],
     "page": 199,
     "lemmas": [
-      "facilitas"
+      "facilitas",
+      "facultas",
+      "ratio"
+    ],
+    "altkeys": [
+      "facilitatis",
+      "facultatis",
+      "rationis"
     ]
   },
   "735": {
-    "keys": [
-      "facinvs",
-      "flagitivm",
-      "scelvs"
-    ],
     "page": 199,
     "lemmas": [
       "facinus",
       "flagitium",
       "scelus"
+    ],
+    "altkeys": [
+      "facinoris",
+      "sceleris",
+      "flagitiosus",
+      "facinorosus"
     ]
   },
   "736": {
-    "keys": [
-      "factio"
-    ],
     "page": 200,
     "lemmas": [
-      "factio"
+      "factio",
+      "seditio"
+    ],
+    "altkeys": [
+      "factionis",
+      "seditionis",
+      "factiosus",
+      "seditiosus"
     ]
   },
   "737": {
-    "keys": [
-      "facvltas"
-    ],
     "page": 200,
     "lemmas": [
-      "facultas"
+      "facultas",
+      "facilitas"
+    ],
+    "altkeys": [
+      "facultatis",
+      "facilitatis"
     ]
   },
   "738": {
-    "keys": [
-      "fallacia"
-    ],
     "page": 200,
     "lemmas": [
-      "fallacia"
+      "fallacia",
+      "dolus"
     ]
   },
   "739": {
-    "keys": [
-      "falsvm"
-    ],
     "page": 200,
     "lemmas": [
-      "falsum"
+      "falsus",
+      "vanus",
+      "fictus"
     ]
   },
   "740": {
-    "keys": [
-      "fama",
-      "gloria"
-    ],
     "page": 200,
     "lemmas": [
       "fama",
-      "gloria"
+      "gloria",
+      "honor"
+    ],
+    "altkeys": [
+      "honoris"
     ]
   },
   "741": {
-    "keys": [
-      "fama",
-      "rvmor"
-    ],
     "page": 200,
     "lemmas": [
       "fama",
       "rumor"
+    ],
+    "altkeys": [
+      "rumoris"
     ]
   },
   "742": {
-    "keys": [
-      "familia"
-    ],
     "page": 201,
     "lemmas": [
-      "familia"
+      "familia",
+      "gens"
+    ],
+    "altkeys": [
+      "gentis"
     ]
   },
   "743": {
-    "keys": [
-      "familiare"
-    ],
     "page": 202,
     "lemmas": [
-      "familiaris"
+      "familiaris",
+      "familiaricus"
     ]
   },
   "744": {
-    "keys": [
-      "familiaritas"
-    ],
     "page": 202,
     "lemmas": [
-      "familiaritas"
+      "familiaritas",
+      "necessitudo",
+      "societas",
+      "collegium",
+      "sodalitas",
+      "necessitas",
+      "gentilitas",
+      "amicitia",
+      "amor",
+      "conjunctio"
+    ],
+    "altkeys": [
+      "familiaritatis",
+      "necessitudinis",
+      "societatis",
+      "sodalitatis",
+      "necessitatis",
+      "gentilitatis",
+      "amoris",
+      "conjunctionis"
     ]
   },
   "745": {
-    "keys": [
-      "famosvs"
-    ],
     "page": 202,
     "lemmas": [
-      "famosus"
+      "famosus",
+      "celebris"
+    ],
+    "altkeys": [
+      "celeber"
     ]
   },
   "746": {
-    "keys": [
-      "famvlvs"
-    ],
     "page": 202,
     "lemmas": [
-      "famulus"
+      "famulus",
+      "servus"
     ]
   },
   "747": {
-    "keys": [
-      "fanvm"
-    ],
     "page": 202,
     "lemmas": [
-      "fanum"
+      "fanum",
+      "templum"
     ]
   },
   "748": {
-    "keys": [
-      "far",
-      "farinam"
-    ],
     "page": 203,
     "lemmas": [
       "far",
       "farina"
+    ],
+    "altkeys": [
+      "farris"
     ]
   },
   "749": {
-    "keys": [
-      "fari",
-      "loqvi"
-    ],
     "page": 203,
     "lemmas": [
-      "for",
-      "loqvor"
+      "for<opt>, fari</opt>",
+      "loquor<opt>, loqui</opt>"
+    ],
+    "altkeys": [
+      "fatus",
+      "locutus",
+      "loquutus"
+    ]
+  },
+  "5004": {
+    "page": 203,
+    "lemmas": [
+      "fas",
+      "jus"
+    ],
+    "altkeys": [
+      "juris"
     ]
   },
   "750": {
-    "keys": [
-      "fascia",
-      "toenia",
-      "lemniscvs"
-    ],
     "page": 203,
     "lemmas": [
       "fascia",
-      "toenia",
-      "lemniscus"
+      "taenia",
+      "lemniscus",
+      "cingulum",
+      "zona",
+      "vinculum"
+    ],
+    "altkeys": [
+      "fascea",
+      "cingulus"
     ]
   },
   "751": {
-    "keys": [
-      "fastvs"
-    ],
     "page": 203,
     "lemmas": [
-      "fastus"
+      "fastus<opt>, -us</opt>",
+      "fastus<opt>, -i</opt>"
     ]
   },
   "752": {
-    "keys": [
-      "fateor. v. confiteor"
-    ],
     "page": 203,
+    "lemmas": [
+      "fateor<opt>, fateri</opt>"
+    ],
+    "altkeys": [
+      "fassus"
+    ],
     "skip": true
   },
   "753": {
-    "keys": [
-      "fatigatvs"
-    ],
     "page": 203,
     "lemmas": [
-      "fatigo"
+      "fatigatus",
+      "fessus"
+    ],
+    "altkeys": [
+      "fatigo",
+      "fatigavi",
+      "fatigatum",
+      "defatigo",
+      "defatigavi",
+      "defatigatum"
     ]
   },
   "754": {
-    "keys": [
-      "fatvm"
-    ],
     "page": 204,
     "lemmas": [
-      "fatum"
+      "fatum",
+      "fortuna"
     ]
   },
   "755": {
-    "keys": [
-      "fatvvs"
-    ],
     "page": 204,
     "lemmas": [
-      "fatuus"
+      "fatuus",
+      "stultus",
+      "stolidus",
+      "insulsus"
     ]
   },
   "756": {
-    "keys": [
-      "feci"
-    ],
     "page": 204,
     "lemmas": [
-      "feci"
+      "facio<opt>, facere</opt>",
+      "commereo<opt>, commerere</opt>",
+      "pecco<opt>, peccare</opt>"
+    ],
+    "altkeys": [
+      "feci",
+      "factum",
+      "commerui",
+      "commeritum",
+      "commereor",
+      "commeritus",
+      "peccavi",
+      "peccatum",
+      "peccatus"
     ]
   },
   "757": {
-    "keys": [
-      "felix"
-    ],
     "page": 204,
     "lemmas": [
-      "felix"
+      "felix",
+      "fortunatus",
+      "prosper",
+      "faustus",
+      "propitius"
+    ],
+    "altkeys": [
+      "felicis",
+      "prosperus"
     ]
   },
   "758": {
-    "keys": [
-      "femina"
-    ],
     "page": 204,
     "lemmas": [
-      "femina"
+      "femen",
+      "femur"
+    ],
+    "altkeys": [
+      "feminis",
+      "femoris",
+      "femus"
     ]
   },
   "759": {
-    "keys": [
-      "feralia"
-    ],
     "page": 205,
     "lemmas": [
-      "feralis"
+      "feralia<opt> pl.</opt>",
+      "feriae<opt> pl.</opt>"
+    ],
+    "altkeys": [
+      "ferale",
+      "feralis",
+      "feria"
     ]
   },
   "760": {
-    "keys": [
-      "ferox"
-    ],
     "page": 205,
     "lemmas": [
-      "ferox"
+      "ferox",
+      "asper"
+    ],
+    "altkeys": [
+      "ferocis",
+      "asperi",
+      "aspri"
     ]
   },
   "761": {
-    "keys": [
-      "ferre"
-    ],
     "page": 205,
     "lemmas": [
-      "ferre"
+      "fero<opt>, ferre</opt>",
+      "porto<opt>, portare</opt>",
+      "ago<opt>, agere</opt>",
+      "adduco<opt>, adducere</opt>",
+      "veho<opt>, vehere</opt>"
+    ],
+    "altkeys": [
+      "tuli",
+      "latum",
+      "ferre",
+      "ferrent",
+      "feruntur",
+      "portavi",
+      "portatum",
+      "egi",
+      "actum",
+      "adduxi",
+      "adductum",
+      "vexi",
+      "vectum"
     ]
   },
   "762": {
-    "keys": [
-      "ferre",
-      "referre"
-    ],
     "page": 205,
     "lemmas": [
+      "fero<opt>, ferre</opt>",
+      "refero<opt>, referre</opt>",
+      "perfero<opt>, perferre</opt>",
+      "sustineo<opt>, sustinere</opt>"
+    ],
+    "altkeys": [
+      "tuli",
+      "latum",
       "ferre",
-      "refero"
+      "ferrent",
+      "feruntur",
+      "retuli",
+      "rettuli",
+      "relatum",
+      "pertuli",
+      "perlatum",
+      "sustinui",
+      "sustentum",
+      "sustentus"
     ]
   },
   "763": {
-    "keys": [
-      "fervs"
-    ],
     "page": 205,
     "lemmas": [
-      "ferus"
+      "ferus",
+      "ferox",
+      "asper"
+    ],
+    "altkeys": [
+      "ferocis",
+      "aspri"
     ]
   },
   "764": {
-    "keys": [
-      "festinare"
-    ],
     "page": 206,
     "lemmas": [
-      "festino"
+      "festino<opt>, festinare</opt>",
+      "propero<opt>, properare</opt>",
+      "maturo<opt>, maturare</opt>"
+    ],
+    "altkeys": [
+      "festinavi",
+      "festinatum",
+      "festinatus",
+      "properavi",
+      "properatum",
+      "maturavi",
+      "maturatum",
+      "maturatus"
     ]
   },
   "765": {
-    "keys": [
-      "festinatio",
-      "celeritas"
-    ],
     "page": 206,
     "lemmas": [
       "festinatio",
       "celeritas"
+    ],
+    "altkeys": [
+      "festinationis",
+      "celeritatis"
     ]
   },
   "766": {
-    "keys": [
-      "festivitas"
-    ],
     "page": 207,
     "lemmas": [
-      "festivitas"
+      "festivitas",
+      "facilitas"
+    ],
+    "altkeys": [
+      "festivitatis",
+      "facilitatis"
     ]
   },
   "767": {
-    "keys": [
-      "festvs dies"
-    ],
     "page": 207,
     "lemmas": [
-      "festvs dies"
+      "dies festi",
+      "feriae"
+    ],
+    "altkeys": [
+      "festum",
+      "feria"
     ]
   },
   "768": {
-    "keys": [
-      "fideivssor"
-    ],
     "page": 207,
     "lemmas": [
-      "fideiussor"
+      "fidejussor",
+      "mandator"
+    ],
+    "altkeys": [
+      "fideiussoris",
+      "mandatoris",
+      "fidejubeo",
+      "fideiussi",
+      "fideiussum",
+      "mando",
+      "mandavi",
+      "mandatum",
+      "fidejussio",
+      "fidejussionis",
+      "mandatio",
+      "mandationis"
     ]
   },
   "769": {
-    "keys": [
-      "fidem habere",
-      "adhibere"
-    ],
     "page": 207,
     "lemmas": [
       "fidem habere",
-      "adhibeo"
+      "fidem adhibere"
+    ],
+    "altkeys": [
+      "fides"
     ]
   },
   "770": {
-    "keys": [
-      "fidens"
-    ],
     "page": 208,
     "lemmas": [
-      "fidens"
+      "fidens",
+      "confidens"
+    ],
+    "altkeys": [
+      "fidentis",
+      "confidentis"
     ]
   },
   "771": {
-    "keys": [
-      "fides"
-    ],
     "page": 208,
     "lemmas": [
-      "fides"
+      "fides",
+      "fidelitas"
+    ],
+    "altkeys": [
+      "fidelitatis",
+      "fidus",
+      "fidelis"
     ]
   },
   "772": {
-    "keys": [
-      "fidvcia"
-    ],
     "page": 208,
     "lemmas": [
-      "fiducia"
+      "fiducia",
+      "confidentia"
     ]
   },
   "773": {
-    "keys": [
-      "fidvs"
-    ],
     "page": 208,
     "lemmas": [
-      "fidus"
+      "fidus",
+      "fidelis"
     ]
   },
   "774": {
-    "keys": [
-      "figvra"
-    ],
     "page": 208,
     "lemmas": [
-      "figura"
+      "figura",
+      "forma",
+      "status"
     ]
   },
   "775": {
-    "keys": [
-      "filii"
-    ],
     "page": 209,
     "lemmas": [
-      "filius"
+      "filius",
+      "liberi"
     ]
   },
   "776": {
-    "keys": [
-      "fingere",
-      "diffingere"
-    ],
     "page": 209,
     "lemmas": [
-      "fingo",
-      "diffingo"
+      "fingo<opt>, fingere</opt>",
+      "diffingo<opt>, diffingere</opt>"
+    ],
+    "altkeys": [
+      "finxi",
+      "fictum",
+      "diffinxi",
+      "diffictum"
     ]
   },
   "777": {
-    "keys": [
-      "fingere"
-    ],
     "page": 209,
     "lemmas": [
-      "fingo"
+      "fingo<opt>, fingere</opt>",
+      "simulo<opt>, simulare</opt>",
+      "effingo<opt>, effingere</opt>",
+      "fio<opt>, feri</opt>",
+      "invenio<opt>, invenire</opt>",
+      "efficio<opt>, efficere</opt>"
+    ],
+    "altkeys": [
+      "fixi",
+      "finctum",
+      "finctus",
+      "simulavi",
+      "simulatum",
+      "effinxi",
+      "effictum",
+      "factum",
+      "inveni",
+      "inventum",
+      "effeci",
+      "effectum"
     ]
   },
   "778": {
-    "keys": [
-      "firmvs"
-    ],
     "page": 209,
     "lemmas": [
-      "firmus"
+      "firmus",
+      "fortis"
     ]
   },
   "779": {
-    "keys": [
-      "fiscvs principis"
-    ],
     "page": 209,
     "lemmas": [
-      "fiscvs principis"
+      "fiscus<opt> principis</opt>",
+      "patrimonium<opt> principis</opt>"
     ]
   },
   "780": {
-    "keys": [
-      "fistvlam",
-      "tibiam"
-    ],
     "page": 209,
     "lemmas": [
-      "fistvla",
+      "fistula",
       "tibia"
+    ],
+    "altkeys": [
+      "πλαγίαυλος"
     ]
   },
   "781": {
-    "keys": [
-      "flagitare"
-    ],
     "page": 210,
     "lemmas": [
-      "flagito"
+      "flagito<opt>, flagitare</opt>",
+      "postulo<opt>, postulare</opt>",
+      "rogo<opt>, rogare</opt>"
+    ],
+    "altkeys": [
+      "flagitavi",
+      "flagitatum",
+      "postulavi",
+      "postulatum",
+      "rogavi",
+      "rogatum",
+      "flagitatio",
+      "flagitationis",
+      "postulatio",
+      "postulationis",
+      "rogatio",
+      "rogationis"
     ]
   },
   "782": {
-    "keys": [
-      "flagellvm"
-    ],
     "page": 211,
     "lemmas": [
-      "flagellum"
+      "flagellum",
+      "virga",
+      "scutica",
+      "fustis",
+      "ferula",
+      "vitis"
     ]
   },
   "783": {
-    "keys": [
-      "flagitivm v. facinvs"
-    ],
     "page": 212,
+    "lemmas": [
+      "flagitium"
+    ],
     "skip": true
   },
   "784": {
-    "keys": [
-      "flagrat"
-    ],
     "page": 212,
     "lemmas": [
-      "flagro"
+      "flagro<opt>, flagrare</opt>",
+      "fragro<opt>, fragrare</opt>"
+    ],
+    "altkeys": [
+      "flagravi",
+      "flagratum",
+      "fragravi",
+      "fragratum"
     ]
   },
   "785": {
-    "keys": [
-      "flavvm"
-    ],
     "page": 212,
     "lemmas": [
-      "flavvs"
+      "flavus",
+      "furvus",
+      "fulvus"
     ]
   },
   "786": {
-    "keys": [
-      "flere"
-    ],
     "page": 212,
     "lemmas": [
-      "fleo"
+      "fleo<opt>, flere</opt>",
+      "lacrymo<opt>, lacrymare</opt>",
+      "gemo<opt>, gemere</opt>",
+      "lamentor<opt>, lamentari</opt>",
+      "miseror<opt>, miserari</opt>",
+      "ploro<opt>, plorare</opt>",
+      "plango<opt>, plangere</opt>",
+      "vociferor<opt>, vociferari</opt>",
+      "queror<opt>, queri</opt>"
+    ],
+    "altkeys": [
+      "flevi",
+      "fletum",
+      "lacrimo",
+      "lacrumo",
+      "lacrymavi",
+      "lacrimavi",
+      "lacrumavi",
+      "lacrymatum",
+      "lacrimatum",
+      "lacrumatum",
+      "lacrymare",
+      "lacrymandum",
+      "gemui",
+      "gemitum",
+      "lamento",
+      "lamentavi",
+      "lamentatum",
+      "misero",
+      "miseravi",
+      "miseratum",
+      "ploravi",
+      "ploratum",
+      "planxi",
+      "planctum",
+      "vocifero",
+      "vociferatum",
+      "vociferatus",
+      "questus"
     ]
   },
   "787": {
-    "keys": [
-      "flvctvo"
-    ],
     "page": 212,
     "lemmas": [
-      "fluctuo"
+      "fluctuo<opt>, fluctuare</opt>",
+      "fluctuor<opt>, fluctuari</opt>"
+    ],
+    "altkeys": [
+      "fluctuavi",
+      "fluctuatum",
+      "fluctuatus"
     ]
   },
   "788": {
-    "keys": [
-      "flvmem"
-    ],
     "page": 212,
     "lemmas": [
-      "flvmem"
+      "flumen",
+      "fluvius"
+    ],
+    "altkeys": [
+      "fluminis"
     ]
   },
   "789": {
-    "keys": [
-      "flvvivs",
-      "flvmen"
-    ],
     "page": 212,
     "lemmas": [
       "fluvius",
-      "flumen"
+      "flumen",
+      "amnis"
+    ],
+    "altkeys": [
+      "fluminis"
     ]
   },
   "790": {
-    "keys": [
-      "foederati v. socii"
-    ],
     "page": 213,
+    "lemmas": [
+      "foederatus"
+    ],
     "skip": true
   },
   "791": {
-    "keys": [
-      "foedvs"
-    ],
     "page": 213,
     "lemmas": [
-      "foedus"
+      "foedus",
+      "pactio",
+      "sponsio"
+    ],
+    "altkeys": [
+      "foederis",
+      "pactionis",
+      "sponsionis"
     ]
   },
   "792": {
-    "keys": [
-      "fenero"
-    ],
     "page": 213,
     "lemmas": [
-      "fenero"
+      "fenero<opt>, fenerare</opt>",
+      "feneror<opt>, fenerari</opt>"
+    ],
+    "altkeys": [
+      "feneravi",
+      "feneratum",
+      "feneratus"
     ]
   },
   "793": {
-    "keys": [
-      "fenvs",
-      "mvtvvm"
-    ],
     "page": 213,
     "lemmas": [
       "fenus",
-      "mvtvvs"
+      "mutuum"
+    ],
+    "altkeys": [
+      "fenoris",
+      "faenus",
+      "faenoris",
+      "foenus",
+      "foenoris"
     ]
   },
   "794": {
-    "keys": [
-      "fenvs",
-      "usvra"
-    ],
     "page": 214,
     "lemmas": [
       "fenus",
       "usura"
+    ],
+    "altkeys": [
+      "fenoris",
+      "faenus",
+      "faenoris",
+      "foenus",
+      "foenoris",
+      "δάνειον",
+      "τόκος"
     ]
   },
   "795": {
-    "keys": [
-      "foetvs"
-    ],
     "page": 214,
     "lemmas": [
-      "foetvs"
+      "foetus",
+      "catulus",
+      "pullus",
+      "hinnulus"
+    ],
+    "altkeys": [
+      "fetus",
+      "hinnuleus"
     ]
   },
   "796": {
-    "keys": [
-      "fora"
-    ],
     "page": 215,
     "lemmas": [
-      "forvm"
+      "forum",
+      "forus"
     ]
   },
   "797": {
-    "keys": [
-      "eorcipes"
-    ],
     "page": 215,
     "lemmas": [
-      "eorcipes"
+      "forceps",
+      "forfex"
+    ],
+    "altkeys": [
+      "forcipis",
+      "forficis"
     ]
   },
   "798": {
-    "keys": [
-      "forica"
-    ],
     "page": 215,
     "lemmas": [
-      "forica"
+      "forica",
+      "latrina"
+    ],
+    "altkeys": [
+      "latrinum",
+      "lavatrina",
+      "foricarius"
     ]
   },
   "799": {
-    "keys": [
-      "forma"
-    ],
     "page": 215,
     "lemmas": [
-      "forma"
+      "forma",
+      "figura",
+      "pulcritudo",
+      "vultus"
+    ],
+    "altkeys": [
+      "pulcritudinis",
+      "voltus"
     ]
   },
   "800": {
-    "keys": [
-      "formosvs"
-    ],
-    "page": 216,
-    "lemmas": [
-      "formosus"
-    ]
-  },
-  "801": {
-    "keys": [
-      "formosvs",
-      "pvlcer"
-    ],
     "page": 216,
     "lemmas": [
       "formosus",
-      "pulcer"
+      "speciosus"
+    ]
+  },
+  "801": {
+    "page": 216,
+    "lemmas": [
+      "formosus",
+      "pulcer",
+      "venustus",
+      "formosus"
+    ],
+    "altkeys": [
+      "pulcri",
+      "pulcher",
+      "pulchri"
     ]
   },
   "802": {
-    "keys": [
-      "fornax"
-    ],
     "page": 216,
     "lemmas": [
-      "fornax"
+      "fornax",
+      "furnus"
+    ],
+    "altkeys": [
+      "fornacis",
+      "fornicarius",
+      "fornicator",
+      "fornicatoris",
+      "furnarius",
+      "ἰπνοκαύστης",
+      "καμινοκαύστης"
     ]
   },
   "803": {
-    "keys": [
-      "fors"
-    ],
     "page": 216,
     "lemmas": [
-      "fors"
+      "fors",
+      "fortuna",
+      "fors fortuna",
+      "casus"
+    ],
+    "altkeys": [
+      "fortis",
+      "cassus",
+      "εἱμαρμένη",
+      "τύχη"
     ]
   },
   "804": {
-    "keys": [
-      "forsitan"
-    ],
     "page": 217,
     "lemmas": [
-      "forsitan"
+      "forsitan",
+      "forte"
     ]
   },
   "805": {
-    "keys": [
-      "fortis"
-    ],
     "page": 217,
     "lemmas": [
-      "fortis"
+      "fortis",
+      "strenuus",
+      "robustus",
+      "validus"
     ]
   },
   "806": {
-    "keys": [
-      "fortitvdo"
-    ],
     "page": 218,
     "lemmas": [
-      "fortitudo"
+      "fortitudo",
+      "patientia"
+    ],
+    "altkeys": [
+      "fortitudinis"
     ]
   },
   "807": {
-    "keys": [
-      "forvm. v. platea"
-    ],
     "page": 218,
+    "lemmas": [
+      "forum"
+    ],
     "skip": true
   },
   "808": {
-    "keys": [
-      "fratres"
-    ],
     "page": 218,
     "lemmas": [
-      "fratris"
+      "frater",
+      "germanus"
+    ],
+    "altkeys": [
+      "fratris",
+      "uterinus"
     ]
   },
   "809": {
-    "keys": [
-      "fravs v. dolvs"
-    ],
     "page": 219,
+    "lemmas": [
+      "fraus"
+    ],
+    "altkeys": [
+      "fraudis"
+    ],
     "skip": true
   },
   "810": {
-    "keys": [
-      "fremere"
-    ],
     "page": 219,
     "lemmas": [
-      "fremvi"
+      "fremo<opt>, fremere</opt>",
+      "frendo<opt>, frendere</opt>"
+    ],
+    "altkeys": [
+      "fremui",
+      "fremitum",
+      "frendeo",
+      "frendui",
+      "fresum",
+      "infrendo"
     ]
   },
   "811": {
-    "keys": [
-      "frondes"
-    ],
     "page": 219,
     "lemmas": [
-      "frondeo"
+      "frons",
+      "folium"
+    ],
+    "altkeys": [
+      "frondis",
+      "fruns",
+      "frundis"
     ]
   },
   "812": {
-    "keys": [
-      "frondevm"
-    ],
     "page": 219,
     "lemmas": [
-      "frondevs"
+      "frondeus",
+      "frondosus"
+    ],
+    "altkeys": [
+      "frundosus"
     ]
   },
   "813": {
-    "keys": [
-      "frvges"
-    ],
     "page": 219,
     "lemmas": [
-      "fruges"
+      "frux",
+      "frumentum"
+    ],
+    "altkeys": [
+      "frux",
+      "frugis"
     ]
   },
   "814": {
-    "keys": [
-      "frvi"
-    ],
     "page": 220,
     "lemmas": [
-      "frvor"
+      "fruor<opt>, frui</opt>",
+      "utor<opt>, uti</opt>"
+    ],
+    "altkeys": [
+      "fructus",
+      "oetor",
+      "usus"
     ]
   },
   "815": {
-    "keys": [
-      "frvstror"
-    ],
     "page": 221,
     "lemmas": [
-      "frustror"
+      "frustror<opt>, frustrari</opt>",
+      "fallor<opt>, falli</opt>"
+    ],
+    "altkeys": [
+      "frustro",
+      "frustravi",
+      "frustratum",
+      "frustratus",
+      "fallo",
+      "fefelli",
+      "falsum"
     ]
   },
   "816": {
-    "keys": [
-      "fvlget"
-    ],
     "page": 221,
     "lemmas": [
-      "fvlgeo"
+      "fulgeo<opt>, fulgere</opt>",
+      "splendeo<opt>, splendere</opt>",
+      "candeo<opt>, candere</opt>",
+      "niteo<opt>, nitere</opt>"
+    ],
+    "altkeys": [
+      "fulgo",
+      "fulsi",
+      "splendui",
+      "candui",
+      "nitui"
     ]
   },
   "817": {
-    "keys": [
-      "fvlmen"
-    ],
     "page": 221,
     "lemmas": [
-      "fulmen"
+      "fulmen",
+      "fulgur",
+      "fulgetra",
+      "tonitruum",
+      "fulguratio",
+      "fulminatio",
+      "fulguritum"
+    ],
+    "altkeys": [
+      "fulminis",
+      "fulguris",
+      "fulgor",
+      "fulgoris",
+      "fulgetrum",
+      "fulgurationis",
+      "fulminationis"
     ]
   },
   "818": {
-    "keys": [
-      "fvltio"
-    ],
     "page": 222,
     "lemmas": [
-      "fvltio"
+      "fultio",
+      "fultura",
+      "fulcrum"
+    ],
+    "altkeys": [
+      "fultionis"
     ]
   },
   "819": {
-    "keys": [
-      "fvndatvm"
-    ],
     "page": 222,
     "lemmas": [
-      "fvndatvs"
+      "fundatus",
+      "constitutus"
     ]
   },
   "820": {
-    "keys": [
-      "fvndere"
-    ],
     "page": 222,
     "lemmas": [
-      "fvndo"
+      "fundo<opt>, fundere</opt>",
+      "effundo<opt>, effundere</opt>",
+      "vergo<opt>, vergere</opt>"
+    ],
+    "altkeys": [
+      "fudi",
+      "fusum",
+      "effudi",
+      "effusum"
     ]
   },
   "821": {
-    "keys": [
-      "fvndvs v. ager"
-    ],
-    "page": 222,
-    "lemmas": []
-  },
-  "822": {
-    "keys": [
-      "fvnestvm"
-    ],
     "page": 222,
     "lemmas": [
-      "fvnestvs"
+      "fundus"
+    ],
+    "skip": true
+  },
+  "822": {
+    "page": 222,
+    "lemmas": [
+      "funestus",
+      "luctuosus"
     ]
   },
   "823": {
-    "keys": [
-      "fvngi"
-    ],
     "page": 222,
     "lemmas": [
-      "fvngvs"
+      "fungor<opt>, fungi</opt>",
+      "defungor<opt>, defungi</opt>",
+      "patior<opt>, pati</opt>"
+    ],
+    "altkeys": [
+      "functus",
+      "defunctus",
+      "passus"
     ]
   },
   "824": {
-    "keys": [
-      "fvnis"
-    ],
     "page": 222,
     "lemmas": [
-      "funis"
+      "funis",
+      "restis",
+      "laqueus"
     ]
   },
   "825": {
-    "keys": [
-      "fvnvs"
-    ],
     "page": 223,
     "lemmas": [
-      "funus"
+      "funus",
+      "exequiae<opt> pl.</opt>",
+      "reliquiae<opt> pl.</opt>",
+      "bustum",
+      "sepulcrum",
+      "umbra funebris"
+    ],
+    "altkeys": [
+      "funeris",
+      "exsequiae",
+      "funebris"
     ]
   },
   "826": {
-    "keys": [
-      "fvrca",
-      "patibvlvm"
-    ],
     "page": 223,
     "lemmas": [
       "furca",
       "patibulum"
+    ],
+    "altkeys": [
+      "patibulus"
     ]
   },
   "827": {
-    "keys": [
-      "fvrfvracvlvm"
-    ],
     "page": 223,
     "lemmas": [
-      "furfuraculum"
+      "furfuraculum",
+      "perforaculum",
+      "terebra"
+    ],
+    "altkeys": [
+      "τέρετρον",
+      "τρύπανον"
     ]
   },
   "828": {
-    "keys": [
-      "fvriosvs"
-    ],
     "page": 224,
     "lemmas": [
-      "furiosus"
+      "furiosus",
+      "insanus",
+      "stultus",
+      "furiatus"
+    ],
+    "altkeys": [
+      "furor",
+      "furoris",
+      "insania",
+      "stultitia"
     ]
   },
   "829": {
-    "keys": [
-      "fvrtim"
-    ],
     "page": 224,
     "lemmas": [
-      "furtim"
+      "furtim",
+      "furaciter",
+      "furtive"
+    ],
+    "altkeys": [
+      "furtivus"
     ]
   },
   "830": {
-    "keys": [
-      "fvsco"
-    ],
     "page": 224,
     "lemmas": [
-      "fusco"
+      "fuscus",
+      "niger"
+    ],
+    "altkeys": [
+      "nigri"
     ]
   },
   "831": {
-    "keys": [
-      "galea",
-      "cassis"
-    ],
     "page": 224,
     "lemmas": [
       "galea",
@@ -8288,216 +9008,282 @@
     ]
   },
   "832": {
-    "keys": [
-      "gallicvs",
-      "gallicanvs"
-    ],
     "page": 224,
     "lemmas": [
-      "gallicus",
-      "gallicanus"
+      "Gallicus",
+      "Gallicanus"
+    ],
+    "altkeys": [
+      "Siculus",
+      "Siciliensis",
+      "Germanicus",
+      "Germanicanus",
+      "Graecus",
+      "Graeciensis",
+      "Romanus",
+      "Romanensis",
+      "Romanicus",
+      "Hispanus",
+      "Hispaniensis"
     ]
   },
   "833": {
-    "keys": [
-      "gallvs"
-    ],
     "page": 225,
     "lemmas": [
-      "gallus"
+      "Gallus",
+      "Gallicus",
+      "Gallicanus"
     ]
   },
   "834": {
-    "keys": [
-      "garvm"
-    ],
     "page": 225,
     "lemmas": [
-      "garum"
+      "garum",
+      "muria"
+    ],
+    "altkeys": [
+      "garon",
+      "garon",
+      "muries"
     ]
   },
   "835": {
-    "keys": [
-      "gavdeo"
-    ],
     "page": 225,
     "lemmas": [
-      "gaudeo"
+      "gaudeo<opt>, gaudere</opt>",
+      "laetor<opt>, laetari</opt>"
+    ],
+    "altkeys": [
+      "gavisus",
+      "laetatus",
+      "laeto",
+      "laetavi",
+      "laetatum"
     ]
   },
   "836": {
-    "keys": [
-      "gavdivm"
-    ],
     "page": 225,
     "lemmas": [
-      "gaudium"
+      "gaudium",
+      "laetitia"
+    ],
+    "altkeys": [
+      "exultatio",
+      "exultationis",
+      "exsultatio",
+      "exsultationis",
+      "gaudeo",
+      "gavisus",
+      "laetor",
+      "laetatus",
+      "laeto",
+      "laetavi",
+      "laetatum"
     ]
   },
   "837": {
-    "keys": [
-      "gemma"
-    ],
     "page": 226,
     "lemmas": [
-      "gemma"
+      "gemma",
+      "margarita",
+      "lapillus"
+    ],
+    "altkeys": [
+      "margaritum"
     ]
   },
   "838": {
-    "keys": [
-      "gena"
-    ],
     "page": 227,
     "lemmas": [
-      "gena"
+      "gena",
+      "cilium",
+      "mala",
+      "bucca"
+    ],
+    "altkeys": [
+      "buccha"
     ]
   },
   "839": {
-    "keys": [
-      "genae"
-    ],
     "page": 227,
     "lemmas": [
-      "gena"
+      "gena",
+      "mala"
     ]
   },
   "840": {
-    "keys": [
-      "generale"
-    ],
     "page": 227,
     "lemmas": [
-      "generalis"
+      "generalis",
+      "universalis",
+      "specialis"
+    ],
+    "altkeys": [
+      "universus"
     ]
   },
   "841": {
-    "keys": [
-      "genero",
-      "pario",
-      "gigno"
-    ],
     "page": 228,
     "lemmas": [
-      "genero",
-      "pario",
-      "gigno"
+      "genero<opt>, generare</opt>",
+      "pario<opt>, parere</opt>",
+      "gigno<opt>, gignere</opt>"
+    ],
+    "altkeys": [
+      "generavi",
+      "generatum",
+      "parire",
+      "peperi",
+      "partum",
+      "paritum",
+      "genui",
+      "genitum"
     ]
   },
   "842": {
-    "keys": [
-      "generosvs"
-    ],
     "page": 228,
     "lemmas": [
       "generosus"
-    ]
+    ],
+    "skip": true
   },
   "843": {
-    "keys": [
-      "genitrix"
-    ],
     "page": 228,
     "lemmas": [
-      "genitrix"
+      "genitrix",
+      "mater",
+      "genitor",
+      "pater"
+    ],
+    "altkeys": [
+      "genetrix",
+      "genitricis",
+      "genetricis",
+      "matris",
+      "genitoris",
+      "patris"
     ]
   },
   "844": {
-    "keys": [
-      "genvs"
-    ],
     "page": 228,
     "lemmas": [
-      "genus"
+      "genus",
+      "gens",
+      "stirps",
+      "familia",
+      "species"
+    ],
+    "altkeys": [
+      "generis",
+      "gentis",
+      "stirpis",
+      "gentilitatis"
     ]
   },
   "845": {
-    "keys": [
-      "gens"
-    ],
     "page": 229,
     "lemmas": [
-      "gens"
+      "gens",
+      "natio"
+    ],
+    "altkeys": [
+      "gentis",
+      "nationis"
     ]
   },
   "846": {
-    "keys": [
-      "gesta"
-    ],
     "page": 230,
     "lemmas": [
-      "gesta"
+      "gesta<opt> pl.</opt>",
+      "acta<opt> pl.</opt>"
+    ],
+    "altkeys": [
+      "gestum",
+      "actum"
     ]
   },
   "847": {
-    "keys": [
-      "gestvs"
-    ],
     "page": 230,
     "lemmas": [
-      "gestus"
+      "gestus",
+      "gestio"
+    ],
+    "altkeys": [
+      "gestionis"
     ]
   },
   "848": {
-    "keys": [
-      "gibbvs"
-    ],
     "page": 230,
     "lemmas": [
-      "gibbus"
+      "gibbus",
+      "struma"
+    ],
+    "altkeys": [
+      "gibba",
+      "gobba"
     ]
   },
   "849": {
-    "keys": [
-      "glacies"
-    ],
     "page": 230,
     "lemmas": [
-      "glacies"
+      "glacies",
+      "nix"
+    ],
+    "altkeys": [
+      "nivis"
     ]
   },
   "850": {
-    "keys": [
-      "gloriam",
-      "claritatem"
-    ],
     "page": 230,
     "lemmas": [
-      "glorivs",
-      "claritatis"
+      "gloria",
+      "claritas",
+      "laus"
+    ],
+    "altkeys": [
+      "claritatis",
+      "laudis",
+      "κλέος",
+      "δόξα"
     ]
   },
   "851": {
-    "keys": [
-      "glorivs"
-    ],
     "page": 230,
     "lemmas": [
-      "glorius"
+      "glorius",
+      "gloriosus",
+      "gloriator",
+      "glorior<opt>, gloriari</opt>"
+    ],
+    "altkeys": [
+      "gloriatoris",
+      "gloriatus"
     ]
   },
   "852": {
-    "keys": [
-      "gnatvs"
-    ],
     "page": 231,
     "lemmas": [
-      "gnatus"
+      "gnatus",
+      "natus"
     ]
   },
   "853": {
-    "keys": [
-      "graecvs"
-    ],
     "page": 231,
     "lemmas": [
-      "graecus"
+      "Graecus",
+      "Graecanicus",
+      "Graeciensis"
+    ],
+    "altkeys": [
+      "graecus",
+      "graeca",
+      "graecum",
+      "graecanicus",
+      "graecanica",
+      "graecanicum"
     ]
   },
   "854": {
-    "keys": [
-      "grammaticvs",
-      "grammatista"
-    ],
     "page": 231,
     "lemmas": [
       "grammaticus",
@@ -8505,347 +9291,468 @@
     ]
   },
   "855": {
-    "keys": [
-      "grandis"
-    ],
     "page": 231,
     "lemmas": [
-      "grandis"
+      "grandis",
+      "magnus",
+      "immanis"
+    ],
+    "altkeys": [
+      "major",
+      "maximus",
+      "grandiusculus",
+      "grandiculus"
     ]
   },
   "856": {
-    "keys": [
-      "gratia"
-    ],
     "page": 232,
     "lemmas": [
       "gratia"
     ]
   },
   "857": {
-    "keys": [
-      "gratias"
-    ],
     "page": 232,
     "lemmas": [
-      "gratia"
+      "gratias agere",
+      "gratiam habere",
+      "gratiam referre",
+      "gratiam reddere",
+      "gratiam facere",
+      "gratificor<opt>, gratificari</opt>",
+      "gratulor<opt>, gratulari</opt>"
+    ],
+    "altkeys": [
+      "gratia",
+      "gratificatus",
+      "gratifico",
+      "gratificavi",
+      "gratulatus",
+      "gratulatum"
     ]
   },
   "858": {
-    "keys": [
-      "gratvlamvr"
-    ],
     "page": 232,
     "lemmas": [
-      "gratvlor"
+      "gratias agere",
+      "gratulor<opt>, gratulari</opt>",
+      "gratificor<opt>, gratificari</opt>"
+    ],
+    "altkeys": [
+      "gratulatus",
+      "gratulatum",
+      "gratificatus",
+      "gratifico",
+      "gratificavi",
+      "gratia"
     ]
   },
   "859": {
-    "keys": [
-      "gratvs"
-    ],
     "page": 232,
     "lemmas": [
-      "gratus"
+      "gratus",
+      "jucundus"
+    ],
+    "altkeys": [
+      "gratia",
+      "jucunditas",
+      "jucunditatis"
     ]
   },
   "860": {
-    "keys": [
-      "gravare"
-    ],
     "page": 233,
     "lemmas": [
-      "gravo"
+      "gravo<opt>, gravare</opt>",
+      "gravor<opt>, gravari</opt>"
+    ],
+    "altkeys": [
+      "gravavi",
+      "gravatum",
+      "gravatus"
     ]
   },
   "861": {
-    "keys": [
-      "gravis"
-    ],
     "page": 233,
     "lemmas": [
-      "gravis"
+      "gravis",
+      "stabilis"
     ]
   },
   "862": {
-    "keys": [
-      "graviter"
-    ],
     "page": 233,
     "lemmas": [
-      "gravis"
+      "graviter",
+      "acerbe"
     ]
   },
   "863": {
-    "keys": [
-      "gremivm"
-    ],
     "page": 233,
     "lemmas": [
-      "gremium"
+      "gremium",
+      "sinus"
     ]
   },
   "864": {
-    "keys": [
-      "gvbernacvlvm"
-    ],
     "page": 234,
     "lemmas": [
-      "gubernaculum"
+      "gubernaculum",
+      "remus"
+    ],
+    "altkeys": [
+      "gubernaclum"
     ]
   },
   "865": {
-    "keys": [
-      "gvstare",
-      "sapere"
-    ],
     "page": 234,
     "lemmas": [
-      "gvsto",
-      "sapvi"
+      "gusto<opt>, gustare</opt>",
+      "sapio<opt>, sapere</opt>"
+    ],
+    "altkeys": [
+      "gustavi",
+      "gustatum",
+      "sapivi",
+      "sapui",
+      "sapii"
     ]
   },
   "866": {
-    "keys": [
-      "gvtta"
-    ],
     "page": 234,
     "lemmas": [
-      "gutta"
+      "gutta",
+      "stilla"
+    ],
+    "altkeys": [
+      "guttai"
     ]
   },
   "867": {
-    "keys": [
-      "gymnasivm v. collegivm"
-    ],
     "page": 234,
+    "lemmas": [
+      "gymnasium"
+    ],
+    "altkeys": [
+      "gumnasium"
+    ],
     "skip": true
   },
   "868": {
-    "keys": [
-      "habena"
-    ],
     "page": 235,
     "lemmas": [
       "habena"
     ]
   },
   "869": {
-    "keys": [
-      "habere"
-    ],
     "page": 235,
     "lemmas": [
-      "habeo"
+      "habeo<opt>, habere</opt>",
+      "teneo<opt>, tenere</opt>",
+      "possideo<opt>, possidere</opt>"
+    ],
+    "altkeys": [
+      "habui",
+      "habitum",
+      "tenui",
+      "tentum",
+      "possedi",
+      "possessum"
     ]
   },
   "870": {
-    "keys": [
-      "habere"
-    ],
     "page": 235,
     "lemmas": [
-      "habeo"
+      "habeo<opt>, habere</opt>",
+      "possideo<opt>, possidere</opt>"
+    ],
+    "altkeys": [
+      "habui",
+      "habitum",
+      "possedi",
+      "possessum"
     ]
   },
   "871": {
-    "keys": [
-      "habitvs"
-    ],
     "page": 235,
     "lemmas": [
-      "habitus"
+      "habitus",
+      "vestitus"
+    ],
+    "altkeys": [
+      "vestis"
     ]
   },
   "872": {
-    "keys": [
-      "has manvs"
-    ],
     "page": 236,
     "lemmas": [
-      "has manvs"
+      "has manus",
+      "hanc manum"
+    ],
+    "altkeys": [
+      "manus"
     ]
   },
   "873": {
-    "keys": [
-      "hasta"
-    ],
     "page": 236,
     "lemmas": [
-      "hasta"
+      "hasta",
+      "jaculum",
+      "tragula"
+    ],
+    "altkeys": [
+      "asta"
     ]
   },
   "874": {
-    "keys": [
-      "hebescit"
-    ],
     "page": 236,
     "lemmas": [
-      "hebesco"
+      "hebesco<opt>, hebescere</opt>",
+      "hebetesco<opt>, hebetere</opt>"
     ]
   },
   "875": {
-    "keys": [
-      "herbidvm"
-    ],
     "page": 236,
     "lemmas": [
-      "herbidvs"
+      "herbidus",
+      "herbosus"
     ]
   },
   "876": {
-    "keys": [
-      "heros"
-    ],
     "page": 236,
     "lemmas": [
-      "heros"
+      "heros",
+      "divus"
+    ],
+    "altkeys": [
+      "herois",
+      "heroidis",
+      "dius",
+      "sanctus"
     ]
   },
   "877": {
-    "keys": [
-      "hevs"
-    ],
     "page": 236,
     "lemmas": [
-      "heus"
+      "heus",
+      "heu"
     ]
   },
   "878": {
-    "keys": [
-      "hiare"
-    ],
     "page": 236,
     "lemmas": [
-      "hio"
+      "hio<opt>, hiare</opt>",
+      "hisco<opt>, hiscere</opt>"
+    ],
+    "altkeys": [
+      "hiavi",
+      "hiatum",
+      "hiatus"
     ]
   },
   "879": {
-    "keys": [
-      "hiberna"
-    ],
     "page": 237,
     "lemmas": [
-      "hiberna"
+      "hiberna<opt> pl.</opt>",
+      "hibernaculum"
+    ],
+    "altkeys": [
+      "hyberna",
+      "hybernaculum"
     ]
   },
   "880": {
-    "keys": [
-      "hic",
-      "haec"
-    ],
     "page": 237,
     "lemmas": [
+      "hic<opt>, haec, hoc</opt>",
+      "iste<opt>, ista, istud</opt>"
+    ],
+    "altkeys": [
+      "hac",
+      "hae",
+      "haec",
+      "haeccine",
+      "haece",
+      "haecine",
+      "hanc",
+      "harum",
+      "has",
+      "hasce",
+      "hi",
       "hic",
-      "haec"
+      "hice",
+      "hicine",
+      "his",
+      "hisce",
+      "hoc",
+      "hocine",
+      "horum",
+      "hos",
+      "hosce",
+      "huic",
+      "hujus",
+      "hujusce",
+      "hunc",
+      "ista",
+      "istae",
+      "istaec",
+      "istam",
+      "istanc",
+      "istarum",
+      "istas",
+      "isti",
+      "istis",
+      "istius",
+      "isto",
+      "istoc",
+      "istorum",
+      "istos",
+      "istud",
+      "istum",
+      "istunc"
     ]
   },
   "881": {
-    "keys": [
-      "hirvndo"
-    ],
     "page": 237,
     "lemmas": [
-      "hirundo"
+      "hirundo",
+      "hirudo"
+    ],
+    "altkeys": [
+      "hirundinis",
+      "hirudinis"
     ]
   },
   "882": {
-    "keys": [
-      "hispanos"
-    ],
     "page": 238,
     "lemmas": [
-      "hispanos"
+      "Hispanus",
+      "Hispaniensis",
+      "Hispania",
+      "Hispanicus"
     ]
   },
   "883": {
-    "keys": [
-      "historia"
-    ],
     "page": 238,
     "lemmas": [
-      "historia"
+      "historia",
+      "annales<opt> pl.</opt>"
+    ],
+    "altkeys": [
+      "annalis"
     ]
   },
   "884": {
-    "keys": [
-      "histrio"
-    ],
     "page": 238,
     "lemmas": [
-      "histrio"
+      "histrio",
+      "mimus"
+    ],
+    "altkeys": [
+      "histrionis",
+      "archimimus",
+      "pantomimus"
     ]
   },
   "885": {
-    "keys": [
-      "homo"
-    ],
     "page": 238,
     "lemmas": [
-      "homo"
+      "homo",
+      "vir"
+    ],
+    "altkeys": [
+      "hominis",
+      "viri"
     ]
   },
   "886": {
-    "keys": [
-      "homonymia"
-    ],
     "page": 239,
     "lemmas": [
-      "homonymia"
+      "homonymia",
+      "synonymia"
+    ],
+    "altkeys": [
+      "aequivocus",
+      "ὁμωνυμία",
+      "συνωνυμία"
     ]
   },
   "887": {
-    "keys": [
-      "honestvm"
-    ],
     "page": 239,
     "lemmas": [
-      "honestvs"
+      "honestus",
+      "liberalis"
     ]
   },
   "888": {
-    "keys": [
-      "honos"
-    ],
     "page": 239,
     "lemmas": [
-      "honos"
+      "honos<opt> (honor)</opt>",
+      "munus",
+      "laus",
+      "feudum",
+      "onus"
+    ],
+    "altkeys": [
+      "honor",
+      "honoris",
+      "muneris",
+      "moenus",
+      "moeneris",
+      "laudis",
+      "laudium",
+      "oneris",
+      "onero",
+      "oneravi",
+      "oneratum",
+      "honoro",
+      "honoravi",
+      "honoratum"
     ]
   },
   "889": {
-    "keys": [
-      "hoplomacvm"
-    ],
     "page": 239,
     "lemmas": [
-      "hoplomacvm"
+      "hoplomachus",
+      "mirmillo"
+    ],
+    "altkeys": [
+      "murmillo",
+      "myrmillo",
+      "mirmillonis",
+      "murmillonis",
+      "myrmillonis",
+      "ὁπλομάχος",
+      "μόρμυλος"
     ]
   },
   "890": {
-    "keys": [
-      "horrendvs"
-    ],
     "page": 240,
     "lemmas": [
-      "horrendus"
+      "horrendus",
+      "horridus",
+      "venerandus"
+    ],
+    "altkeys": [
+      "horridulus",
+      "horridula",
+      "horridulum"
     ]
   },
   "891": {
-    "keys": [
-      "horret"
-    ],
     "page": 240,
     "lemmas": [
-      "horreo"
+      "horreo<opt>, horrere</opt>",
+      "trepido<opt>, trepidare</opt>"
+    ],
+    "altkeys": [
+      "horrui",
+      "trepidavi",
+      "trepidatum"
     ]
   },
   "892": {
-    "keys": [
-      "hortvs"
-    ],
     "page": 240,
     "lemmas": [
-      "hortus"
+      "hortus<opt> sg.</opt>",
+      "horti<opt> pl.</opt>"
     ]
   },
   "893": {
@@ -8854,290 +9761,442 @@
       "hospes",
       "caupo",
       "peregrinus",
-      "advena",
-      "hospitium"
+      "advena"
     ],
     "altkeys": [
       "copo",
       "cupo",
       "hospitis",
-      "cauponis"
+      "cauponis",
+      "hospita"
     ]
   },
   "894": {
-    "keys": [
-      "hospitivm",
-      "diversorivm"
-    ],
     "page": 241,
     "lemmas": [
       "hospitium",
       "diversorium",
+      "familiaritas",
+      "taberna",
+      "caupona",
       "domus"
+    ],
+    "altkeys": [
+      "deversorium",
+      "devorsorium",
+      "familiaritatis"
     ]
   },
   "895": {
-    "keys": [
-      "hostia"
-    ],
     "page": 241,
     "lemmas": [
-      "hostia"
+      "hostia",
+      "victima",
+      "holocaustum",
+      "sacrificium"
+    ],
+    "altkeys": [
+      "fostia",
+      "victuma",
+      "ὁλόκαυστον"
     ]
   },
   "896": {
-    "keys": [
-      "hostis"
-    ],
     "page": 242,
     "lemmas": [
-      "hostis"
+      "hostis",
+      "inimicus"
     ]
   },
   "897": {
-    "keys": [
-      "hvivsce",
-      "hvivsqve"
-    ],
     "page": 242,
     "lemmas": [
-      "huiusce",
-      "hvivs"
+      "hujusce",
+      "hujusque"
     ]
   },
   "898": {
-    "keys": [
-      "hvmatvs"
-    ],
     "page": 242,
     "lemmas": [
-      "hvmo"
+      "humatus",
+      "sepultus"
+    ],
+    "altkeys": [
+      "humatio",
+      "humationis",
+      "sepultura",
+      "humo",
+      "humavi",
+      "humatum",
+      "sepelio",
+      "sepelivi",
+      "sepultum"
     ]
   },
   "899": {
-    "keys": [
-      "hvmanitas",
-      "litterae"
-    ],
     "page": 242,
     "lemmas": [
       "humanitas",
+      "litterae<opt> pl.</opt>"
+    ],
+    "altkeys": [
+      "humanitatis",
       "littera"
     ]
   },
   "900": {
-    "keys": [
-      "hvmaniter"
-    ],
     "page": 243,
     "lemmas": [
-      "humaniter"
+      "humaniter",
+      "humane",
+      "humanitus"
+    ],
+    "altkeys": [
+      "φιλανθρώπως",
+      "ἀνθρωπίνως",
+      "ἀνθρωπείως"
     ]
   },
   "901": {
-    "keys": [
-      "hvmidvm"
-    ],
     "page": 243,
     "lemmas": [
-      "hvmidvs"
+      "humidus",
+      "madidus",
+      "uvidus"
+    ],
+    "altkeys": [
+      "umidus",
+      "uvesco",
+      "ὑγρός",
+      "διερός"
     ]
   },
   "902": {
-    "keys": [
-      "hvmidvm"
-    ],
     "page": 243,
     "lemmas": [
-      "hvmidvs"
+      "humidus",
+      "humectus"
+    ],
+    "altkeys": [
+      "umidus",
+      "umectus"
     ]
   },
   "903": {
-    "keys": [
-      "hvnc",
-      "istvm"
-    ],
     "page": 243,
     "lemmas": [
+      "hic<opt>, haec, hoc</opt>",
+      "iste<opt>, ista, istud</opt>",
+      "ille<opt>, illa, illud</opt>",
+      "is<opt>, ea, id</opt>"
+    ],
+    "altkeys": [
+      "hac",
+      "hae",
+      "haec",
+      "haeccine",
+      "haece",
+      "haecine",
+      "hanc",
+      "harum",
+      "has",
+      "hasce",
+      "hi",
+      "hic",
+      "hice",
+      "hicine",
+      "his",
+      "hisce",
+      "hoc",
+      "hocine",
+      "horum",
+      "hos",
+      "hosce",
+      "huic",
+      "hujus",
+      "hujusce",
       "hunc",
-      "istum"
+      "ista",
+      "istae",
+      "istaec",
+      "istam",
+      "istanc",
+      "istarum",
+      "istas",
+      "isti",
+      "istis",
+      "istius",
+      "isto",
+      "istoc",
+      "istorum",
+      "istos",
+      "istud",
+      "istum",
+      "istunc",
+      "illa",
+      "illae",
+      "illaec",
+      "illam",
+      "illanc",
+      "illarum",
+      "illas",
+      "ille",
+      "illi",
+      "illis",
+      "illius",
+      "illo",
+      "illoc",
+      "illorum",
+      "illos",
+      "illud",
+      "illum",
+      "illunc",
+      "ea",
+      "eae",
+      "eam",
+      "earum",
+      "eas",
+      "ei",
+      "eis",
+      "ejus",
+      "eo",
+      "eorum",
+      "eos",
+      "eum",
+      "id",
+      "ii",
+      "iis",
+      "is"
     ]
   },
   "904": {
-    "keys": [
-      "hymnvs"
-    ],
     "page": 243,
     "lemmas": [
-      "hymnus"
+      "hymnus",
+      "psalmus"
+    ],
+    "altkeys": [
+      "ὕμνος",
+      "ψαλμός"
     ]
   },
   "905": {
-    "keys": [
-      "hypotheca"
-    ],
     "page": 243,
     "lemmas": [
-      "hypotheca"
+      "hypotheca",
+      "pignus"
+    ],
+    "altkeys": [
+      "pignoris",
+      "ὑποθήκη"
     ]
   },
   "906": {
-    "keys": [
-      "iacimvs"
-    ],
     "page": 244,
     "lemmas": [
-      "iacio"
+      "jacio<opt>, jacere</opt>",
+      "objicio<opt>, objicere</opt>"
+    ],
+    "altkeys": [
+      "jeci",
+      "jactum",
+      "objeci",
+      "objectum",
+      "obicio"
     ]
   },
   "907": {
-    "keys": [
-      "iactamvr"
-    ],
     "page": 244,
     "lemmas": [
-      "iacto"
+      "jactor<opt>, jactari</opt>",
+      "fatigor<opt>, fatigari</opt>"
+    ],
+    "altkeys": [
+      "jacto",
+      "jactavi",
+      "jactatum",
+      "fatigo",
+      "fatigavi",
+      "fatigatum"
     ]
   },
   "908": {
-    "keys": [
-      "ianva"
-    ],
     "page": 244,
     "lemmas": [
-      "ianua"
+      "janua",
+      "ostium",
+      "fores<opt> pl.</opt>",
+      "valvae<opt> pl.</opt>"
+    ],
+    "altkeys": [
+      "foris",
+      "valva"
     ]
   },
   "909": {
-    "keys": [
-      "ieivnivm"
-    ],
     "page": 245,
     "lemmas": [
-      "ieiunium"
+      "jejunium",
+      "jejunitas"
+    ],
+    "altkeys": [
+      "jejunitatis"
     ]
   },
   "910": {
-    "keys": [
-      "igitvr"
-    ],
     "page": 245,
     "lemmas": [
-      "igitur"
+      "igitur",
+      "nunc"
     ]
   },
   "911": {
-    "keys": [
-      "ignarvs"
-    ],
     "page": 245,
     "lemmas": [
-      "ignarus"
+      "ignarus",
+      "immemor"
+    ],
+    "altkeys": [
+      "immemoris"
     ]
   },
   "912": {
-    "keys": [
-      "ignavia"
-    ],
     "page": 245,
     "lemmas": [
-      "ignavia"
+      "ignavia",
+      "pigritia",
+      "pigredo",
+      "pigritudo",
+      "inertia",
+      "ignavus",
+      "piger",
+      "iners"
+    ],
+    "altkeys": [
+      "pigrities",
+      "pigredinis",
+      "pigri",
+      "inertis"
     ]
   },
   "913": {
-    "keys": [
-      "ignominia"
-    ],
     "page": 245,
     "lemmas": [
-      "ignominia"
+      "ignominia",
+      "infamia"
+    ],
+    "altkeys": [
+      "ignominium"
     ]
   },
   "914": {
-    "keys": [
-      "ignoratio",
-      "ignorantia"
-    ],
     "page": 245,
     "lemmas": [
       "ignoratio",
       "ignorantia"
+    ],
+    "altkeys": [
+      "ignorationis"
     ]
   },
   "915": {
-    "keys": [
-      "ignorare"
-    ],
     "page": 246,
     "lemmas": [
-      "ignoro"
+      "ignoro<opt>, ignorare</opt>",
+      "nescio<opt>, nescire</opt>"
+    ],
+    "altkeys": [
+      "ignoravi",
+      "ignoratum",
+      "nescivi",
+      "nescitum"
     ]
   },
   "916": {
-    "keys": [
-      "ignoscit"
-    ],
     "page": 246,
     "lemmas": [
-      "ignosco"
+      "ignosco<opt>, ignoscere</opt>",
+      "concedo<opt>, concedere</opt>",
+      "indulgeo<opt>, indulgere</opt>"
+    ],
+    "altkeys": [
+      "ignovi",
+      "ignotum",
+      "concessi",
+      "concessum",
+      "indulsi",
+      "indultum"
     ]
   },
   "917": {
-    "keys": [
-      "illex",
-      "illix"
-    ],
     "page": 246,
     "lemmas": [
       "illex",
       "illix"
+    ],
+    "altkeys": [
+      "illicis",
+      "illegis"
     ]
   },
   "918": {
-    "keys": [
-      "illivs"
-    ],
     "page": 246,
     "lemmas": [
-      "illius"
+      "similis<opt> cum GEN.</opt>",
+      "similis<opt> cum DAT.</opt>"
+    ],
+    "altkeys": [
+      "simillimus"
     ]
   },
   "919": {
-    "keys": [
-      "illvvies"
-    ],
     "page": 247,
     "lemmas": [
-      "illuvies"
+      "illuvies",
+      "ingluvies"
     ]
   },
   "920": {
-    "keys": [
-      "imago",
-      "idolvm"
-    ],
     "page": 247,
     "lemmas": [
       "imago",
-      "idolum"
+      "idolum",
+      "exemplum",
+      "exemplar",
+      "repraesentatio"
+    ],
+    "altkeys": [
+      "imaginis",
+      "idolon",
+      "exemplaris",
+      "repraesentationis",
+      "εἴδωλον"
     ]
   },
   "921": {
-    "keys": [
-      "imber"
-    ],
     "page": 247,
     "lemmas": [
-      "imber"
+      "imber",
+      "nimbus",
+      "pluvia"
+    ],
+    "altkeys": [
+      "imbris"
     ]
   },
   "922": {
-    "keys": [
-      "imbvtvs"
-    ],
     "page": 247,
     "lemmas": [
-      "imbvtvm"
+      "imbutus<opt> litteris</opt>",
+      "instructus<opt> litteris</opt>"
+    ],
+    "altkeys": [
+      "imbuo",
+      "imbui",
+      "imbutum",
+      "instruo",
+      "instruxi",
+      "instructum"
     ]
   },
   "923": {

@@ -66,7 +66,7 @@ $$20$$
 (1) +Accersere+ valet tantum vocare. Hoc observatum non indignum, quod interdum uno #C.# nempe +acerso+ reperiatur. #Terentius# semper utitur +acerso+, nunquam +arcesso+. Officinatores librarii semper fere +accerso+ impresserunt, repugnantibus licet libris manuscriptis; cum tamen #Ciceroni# aliisque eius aequalibus, atque etiam recentioribus, +arcesso+ magis sit usitatum. Utriusque autem eadem est notio. Namque +arcesso+ ponimus pro eo quod est _vocare_ et _accusare_. Praeterea +arcesso+ de rebus, ut libro, vino, idem valet quod peto, aliunde sumo: ut _arcessitum_ #Ciceroni# idem est quod, externum, aliunde petitum ac sumtum, adventitium: cui domesticum respondet. Vid. #Paraei Lex. Critic.# #R.#
 
 $$21$$
-+Accessus+ est aditio, sive appropinquatio; +Accessio+ vero est plerumque quasi adiectio et incrementum, Sive augmentum. Unde +Accessionem adiungere+ est incrementum addere. E contrario vero +Decessio+ significat deminutionem et detractionem. #Cic. de Nat. deor. II. 7#: *Solis ==accessus== discessusque solstitiis brumisque cognoscitur*. #ld. Univers. VI#: *Neque enim ulla ==decessio== fieri poterat, neque ==accessio==*. Sic #Iurisconsulti I. 34. pro D. de contrah. Emt. l. 43. 3. D. acqu. Poss. l. 43. D. de Solut. 26. 34.# #Inst. de Rer. Divis.# personas, aut res, quae aliis adiunguntur et accedunt, vocat +Accessiones+, sive +Accessorium+, eoque verbo in obligationibus et emtionibus crebro utuntur, et medici incrementa morborum nominant +Accessiones+. #Plin. H. N. XXIII. 25#: *Id dandum quidam non nisi in ==accessione== censent, alii in remissione*. Maris autem +Accessus+ et +Recessus+ dicitur, cum ad nos affluit et refluit.
++Accessus+ est aditio, sive appropinquatio; +Accessio+ vero est plerumque quasi adiectio et incrementum, Sive augmentum. Unde +Accessionem adiungere+ est incrementum addere. E contrario vero +Decessio+ significat deminutionem et detractionem. #Cic. de Nat. deor. II. 7#: *Solis ==accessus== discessusque solstitiis brumisque cognoscitur*. #Id. Univers. VI#: *Neque enim ulla ==decessio== fieri poterat, neque ==accessio==*. Sic #Iurisconsulti I. 34. pro D. de contrah. Emt. l. 43. 3. D. acqu. Poss. l. 43. D. de Solut. 26. 34.# #Inst. de Rer. Divis.# personas, aut res, quae aliis adiunguntur et accedunt, vocat +Accessiones+, sive +Accessorium+, eoque verbo in obligationibus et emtionibus crebro utuntur, et medici incrementa morborum nominant +Accessiones+. #Plin. H. N. XXIII. 25#: *Id dandum quidam non nisi in ==accessione== censent, alii in remissione*. Maris autem +Accessus+ et +Recessus+ dicitur, cum ad nos affluit et refluit.
 
 $$22$$
 +Accidit+ id, quod mali fortuito atque ex improviso, vel praeter spem evenit. +Contingit+ id, quod pulcri comitatur, subsequiturque quasi praecedentium causarum eventum. #Sen. Ep. CX#: *Scies plura mala ==contingere== nobis, quam ==accidere==. Quoties enim felicitatis causa et initium fuit, quod calamitas vocabatur? Quoties magna gratulatione excepta res gradum sibi struxit in praeceps, et aliquem iam eminentem allevavit etiamnunc, tamquam ibi adhuc staret, unde tuto caderet?* Frequenter tamen haec verba idem significant, ut in illa vulgari formula, qua mors denotatur: si quid +acciderit+, vel, si quid humanitus +contigerit+. #Suet. Aug. CI#: *Iulius filiam neptemque, si quid his accidisset, vetuit sepulcro suo inferri*. #Scaevola Digest. 20. I. 30. D. de Alim. Leg.#: *Sive in provincia, sive in via aliquid mihi humanitus ==acciderit==*. #Ib.#: *Si quid ei humanitus ==contigerit==, do, lego, darique eis volo*. +Accidere+ aliquid adversi, +Contingere+ aliquid pulcri dicitur. #Fl. Clarus.# +Evenire+ utrumque. #Agroet.# (1)
@@ -1309,55 +1309,13 @@ $$398$$
 +Cogitare+ ex mente #Nonii Marcelli# est dubitare; +Deliberare+ vero est confirmare. Unde #Turpilius#: *Quaeso cogita ac delibera* (1) #It.# *Certum ac deliberatum est, me illis obsequi*.
 (1) Sed "cogitare scelus" minus est, quam "suscipere scelus". _Hoc_ est facti atque operis; _illud_ vero animi. #Bechmannus de O. L.L. p. 7.# reiicit, quod Cicero et alii utrumque longe aliter capiant #Gesnerus thes.# v. cogito. Interdum sane, qui +cogitare+ se dicit nondum constitutum sibi certi quidquam fatetur. Sed non est perpetua haec differentia. Nam +deliberare+ saepe dicitur qui consilium petit, et +cogitat+ de profectione qui proficisci iam ante constituit.
 
-COGNITOR est, qui praesentis causam novit, et eius de- 
-fensioncm suscipit. Procurator, qui absentis nomine 
-auctor est, vel agit. Deinde cognitor, et quidem ex A- 
-sconii mente, est qui causam alicuius novit familia- 
-riter, et praesentem defendit; Procurator autem, qui 
-absentem. Advocatus praesentiam suam commodat in 
-iudicio, et ins suggerit. Patronus verba facit. Cicem 
-Divinat. in Verr. w: Me simili defensorem calamitatum 
-suarum, me ultorem iniuriarum, me cognitorem iuris 
-sui, me auctorem causae tutius esse voluerunt. Hor. Sat. 
-II. 5. 38 (2): Sis cognitor ipse. Licet aliquando cognitor 
-militibus. ut vix triclinium. ubi coenaturus ipse Caesar esset, 
-vacaret. Quo magis est mirandum, Servium eruditutn quippe 
-grammaticum, in commentar. ad Virg. hen. 1. 698, temere ne- 
-are, triclinium ipsum coenationem significare. Ita enim seri— 
-it: Antiqui stibadia (a similitudine Sigmae litterae graecae, 
-quae hac forma scribebatur C. Sigmae appellata) non babe- 
-bant, sed stratis tribus lectis epulabantur. Unde triclinium 
-sterni dicitur. Sic et Cicero sterni triclinia, et in foro sterni 
-iubebat. Unde apparet, errare eos. qui triclinium dicunt ip- 
-sam basilicam, vel coenationem. Haec ille. 
-(4) Sed cogitare scelus minus est, quam suscfpere scelas. 
-fioc est facti atque operis; illud vero animi. Bechmannus 
-de O. L.L. p. 7. reiicit, quod Cicero et alii utrumque longe 
-aliter capiant Gesnerus thes. v. cogito. Interdum sane, qui 
-fateor. Sed non dst perpetua haec differentia. Nam 
-saepe dicitur qui consilium petit, et cogitat de profectione» 
-qui proficisci iam ante constituit. 
-(2) Cognitor secundum Asconium divinat. 4. est. si prae— 
-genus causam novit, et sic tuetur ut suam. Festus ita; Co- 
-gnitor est qui litem alterius suscipit coram eo, cui datus 
-est. Antiquissimus eorum usus, at, quo tempore dari-primum 
-coeperint. nemo indagabit. Vetera romanorum iura quando 
+
++Cognitor+ est, qui praesentis causam novit, et eius defensionem suscipit. +Procurator+, qui absentis nomine auctor est, vel agit. Deinde +cognitor+, et quidem ex #Asconii# mente, est qui causam alicuius novit familiariter, et praesentem defendit; +Procurator+ autem, qui absentem. +Advocatus+ praesentiam suam commodat in iudicio, et ius suggerit. +Patronus+ verba facit. #Cicero Divinat. in Verr. IV#: *Me simili defensorem calamitatum suarum, me ultorem iniuriarum, me ==cognitorem== iuris sui, me auctorem causae tutius esse voluerunt*. #Hor. Sat. II. 5. 38# (1): *Sis ==cognitor== ipse*. Licet aliquando +cognitor+ est, qui aliquem cognoscit, et ut se nosse dicat, pro testimonio producitur. #Cic. Verr. VII. 65#: *Ubi neque noti esse iis, quo venerunt, neque semper cum ==cognitoribus== esse possunt*. Interdum etiam, qui quaestiones publicas exercet, id est, quaesitor. Unde cognitura pro +cognitoris+ quaestu. #Svet. Vitell. II#: *Sectionibus et ==cognituris== uberius compendium nactus*.
+(1) +Cognitor+ secundum #Asconium divinat. 4.# est, si praesentis causam novit, et sic tuetur ut suam. #Festus# ita: *==Cognitor== est qui litem alterius suscipit coram eo, cui datus est*. Antiquissimus eorum usus, at, quo tempore dari primum coeperint, nemo indagabit. Vetera romanorum iura quando 
 quis pensitaverit accuratius. quibus permissum non erat, ut 
 alterius nomine quis ageret, aut per extraneam sibi aquireret 
 personam, mox ille sentiet, cognitorum usum nullum in foro 
-esse potuisse. Postquam autem populus in dies politior aereC 
-Google 
-Digitizers by 
-
-
-no 
-est, qui aliquem cognoscit, et ut se nosse dicat, pro te- 
-stimonio producitur. Cic. Verr. VII. • 65: Ubi neque 
-noti esse iis, quo venerunt, neque semper cum cogni- 
-toribus esse possunt. Interdum etiam, qui quaestiones 
-publicas exercet, id est, quaesitor. Unde cognitura pro 
-cognitoris quaestu. Svet. Vitell. II: Sectionibus et cogni- 
-turis uberius compendium nactus. 
+esse potuisse. Postquam autem populus in dies politior fieret 
 magisque respiceret aequum bonumque, cognitores Roma 
 vidit, quod me docet insignis locus auctoris ad Herenn. II. 
 13: Ex aequo et bono ius constat, quod ad veritatem et uti- 
@@ -1403,24 +1361,6 @@ tores cum aliqua solemnitate, procuratores autem sine eius-
 modi per mandatum fuisse constitutos autumat V. cl. iterum 
 dubitationi locus relictus, utrum haec probari possent idonee. 
 Equidem putat, boc erudite suo more demonstrasse Gotho. 
-Digitizers hy 
-0081e 
-
-
-COGNOSCO V. AGNOSCO. 
-COHORTES et MANIPVLI eranC peditum, Turmae vero et 
-Decuriae equitum. R. 
-COHVM est Iorum, quo temo buris cum iugo colliga- 
-tur, a cohibendo dictum. Cohum poétae coelum dixerunt 
-. a Chaos, ex quo putabant coelum esse formatum. Fest. R. 
-COLAPHVS V. ALAPA. 
-COLERE et OBSERVARE differunt. Cic. Ep. Fam. xul. 
-78: Me praeter caeteros et colit et observat et diligit; 
-Att. II 19: Colimus et observamus diligenter Caelium. 
-Interdum observare et diligere tantum coniungit lib. v. 
-ep. 8: Publius me ut alterum parentem et observat 
-et diligit. Itaque qui alterum observat, plus facit quam 
-qui colit et qui diligit, praestat eum, qui allerum observat. 
 fredum ad cit. leg. ult cod. Theod., cuius e o tibi verba da- 
 bo: Propter solemnem quippe actum procu dubio atiquem, 
 qui in cognitoribus corani wdice constituendis interveniebal 
@@ -1456,20 +1396,37 @@ redolens antiquitatem, vix audita e3t; Quod forte movere
 potuit iuris nostri conditores, ut tvocabulum reiicerent, cuius 
 vim eius aevi paucos ccpisse existim. VE. 10. Dan. Ritteri pr. 
 de cognitoribus L. 1135. 
-Digitizer} by 
-0081e 
+
++Cognosco+ V. %Agnosco%.
 
 
-{22 
-COLLACTANEVS, Graecis dictus avyyåiaxrog, Sive &'go— 
++Cohortes+ et +Manipuli+ erant peditum, +Turmae+ vero et +Decuriae+ equitum. #R.#
+
+
++Cohum+ est lorum, quo temo buris cum iugo colligatur, a cohibendo dictum. +Cohum+ poëtae coelum dixerunt a Chaos, ex quo putabant coelum esse formatum. #Fest.# #R.#
+
+
++Colaphus+ V. %Alapa%.
+
+
++Colere et +Observare+ differunt. Cic. Ep. Fam. xul. 
+78: Me praeter caeteros et colit et observat et diligit; 
+Att. II 19: Colimus et observamus diligenter Caelium. 
+Interdum observare et diligere tantum coniungit lib. v. 
+ep. 8: Publius me ut alterum parentem et observat 
+et diligit. Itaque qui alterum observat, plus facit quam 
+qui colit et qui diligit, praestat eum, qui allerum observat. 
+
+
++Collactaneus+, Graecis dictus avyyåiaxrog, Sive &'go— 
 •ydiaxrog, est iisdem mammis educaLus; Collactéus vero, 
 qui uno eodemque lacte est educatus. Critici accuratioris 
 iudicii duo haec vocabula, quorum prius Ulpianum, po— 
 sterius vero luvenalem yvictov parentem agnoscit, pro- 
 miscue usurpanda esse etiamnum clamitant. Front. 
-COLLATIONEM inter et Tributum discrimen obtinet. 
-Collatio enim libera, 
-tributum non item, vel collatio 
+
+
++Collationem+ inter et +Tributum+ discrimen obtinet. +Collatio+ enim libera, +tributum+ non item, vel collatio 
 est liberae voluntatis, quarnvis imponatur; veluti .quum 
 imperatur certus modus pecuniae alicui corpori, nec 
 definitur, quantum cuique conferendum sit; sed hoc 
@@ -1479,8 +1436,9 @@ commentatur Collationes idem esse, quod Gallis tailles,
 alibi notamus ex Buheo in pandectas. V. Fabri lex. 
 et Gesneri th. v. collutio. Collatio est veluti voluntarium 
 tributum. 
-COLLEGAS efficit unum omcium, Consortes eadem for- 
-tuna, Socios labor idem. R. 
+
+
++Collegas+ efficit unum officium, +Consortes+ eadem fortuna, +Socios+ labor idem. #R.#
 
 $$408$$
 +Collegia+ et +Sodalitia+, sive +Sodalitates+, diversa esse ostendit #Marcianus Institut. 3. L. I. D. de Colleg.#: *Mandatis principalibus praecipitur, praesidibus provinciarum, ne patiantur esse ==collegia== sodalitia, neve milites ==collegia== in castris habeant*. Hoc autem differunt, quod _illa_ erant maiora et artificum opificumque omnium genera distincta habebant, ut "collegia fabrorum, figulorum, pistorum, aurificum, cerdonum, coriariorum, lictorum, viatorum" et similium; ex quo apparet, collegium nihil aliud fuisse, quam certorum hominum, praesertim sacerdotum, praetorum et studiosorum conventus. _Haec_ autem erant minora, sed magis honesta (1), in quae etiam clari et honorati viri adscribebantur, ut testatur #Cato apud Cic. de Senect. XIII#: *==Sodalitates== autem, inquit, me quaestore constitutae sunt sacris Idaeis; Magnae Matris acceptis. Epulabar igitur cum ==sodalibus== omnino modice*. Et #Q. Cic. in Libello de Petitione Consulatus# numerat sodalitates, in parte amicitiae: *Qui sunt amici (inquiens) ex causa honestiore cognationis, aut affinitatis, aut ==sodalitatis==, aut alicuius necessitudinis*.
@@ -1566,7 +1524,7 @@ Cum se victonae Pompeii comitem esse mallet, quam
 socium Cacsaris in rebus adversis. Cic. Fam. XIII. 71: 
 Et comes meus fuit illo miserrimo tempore, et omnium 
 itinerum, navigationum, laborum, periculorum meorum 
-socius. ld. pro Fonteio XVII: Tum enim vitae socia virtus, 
+socius. Id. pro Fonteio XVII: Tum enim vitae socia virtus, 
 mortis comes gloria fuisset. Ex Frontonis sentcntia, co- 
 mes est, qui iter tacit; sodalis vero nomen adolescentiae; 
 assecla sequitur potentiorem; cliens implorat opem ac 
@@ -1663,7 +1621,7 @@ romani erant, cum quibus praetor, vel consul, dice-
 batur concilium exercere, praebereque. Et comitia qui- 
 dem celebrabantur, conventus et concilium edicebantur, 
 aut indicebantur. Liv. XLIV•. Nec comitia, nec conventum, 
-nec concilium ullum. ld. ib. Siculorum civitatibus 
+nec concilium ullum. Id. ib. Siculorum civitatibus 
 racusas, aut Messanam, aut Lilybaeum indicitur conct- 
 lium. Praetor romanus cenvcntus agit, eo imperio evo- 
 cati conveniunt. 
@@ -1684,7 +1642,7 @@ tradere, ut agat in re tradita, quidquid ipsi videatur.
 Committimus, quae cum magno periculo volumus esse 
 servala. Donat R. Cic. pro domo LVI: Vobis ergo meam 
 dignitatem, studium et indicium non modo commissum, 
-verum etiam commendandum esse arbitrantur. ld. pro 
+verum etiam commendandum esse arbitrantur. Id. pro 
 Quintio: Tibi se, tibi suas omnes apes fortunasque com- 
 mendat, tibi committit existimationem ac spem reliquae 
 vitae. Ter. Eun. v. 2. 46: Ego me tuae commendo et 
@@ -1859,7 +1817,7 @@ stris atque experientia inexpertos quoque docemus. Hoc
 opinione el coniectura. Ter. Andr. I. 63. seq. Quae- 
 rebam, comperiebam nihil ad Pamphilum Quidquam 
 attinere. Sallust. in lug. XLIX: Metellum magnum et 
-sapienlem virum fuisse comperior. ld. ib. cxvl: Sed ego 
+sapienlem virum fuisse comperior. Id. ib. cxvl: Sed ego 
 comperior Bocchum magis punica fide. Tac. Ann. IV. 20: 
 Hunc ego Lepidum lemporibus illis gravem et sapien- 
 tem virum fuisse comperior. Cic. Fam. v. 5: Ex mullis 
@@ -2023,7 +1981,7 @@ differlum, exponitque venum confectim, quibus voraces
 rursum effarciunt viscera. Caes. B, G. v. 46: Ut num- 
 quam conferti, sed rari, magnisque inlervallis praelia— 
 rentur. Cic. ad Q. Fratr. II. 45: Lilleris refertls omni 
-omcio. ld. pro Sexlio xxxv: Meminislis tum, iudices, 
+omcio. Id. pro Sexlio xxxv: Meminislis tum, iudices, 
 corporibus civium Tiberim repleri, cloacas refercirie 
 Varro RR. 111. 16: Quo facLo, non modo non desistunt 
 pta, sed eLiam conferciunt se. 
@@ -2076,7 +2034,7 @@ Argumenta viri. Foribus suspende coronas; Iam patcr es.
 Profteri etiam idem est, ac quod disciplinam artemve 
 aliquam tenere se significare. Cic. pro Caecin. IX. Con- 
 Netur atque ita libenter conftetur, ut non solum rateri, 
-sed etiam profteri videatur. ld. pro M. Tullio: Hoc ego 
+sed etiam profteri videatur. Id. pro M. Tullio: Hoc ego 
 non solum confteor, verum etiam profiteor. Honestius 
 proßteri, quam confiteri. R. Sic' confitemur delicta. pro- 
 temur censum, artem. iudicium. Sallust. lug. ccv: Multis 
@@ -2195,7 +2153,7 @@ Vid. Schardius loc. cit. p. 240. col. b. Cic. in Conso-
 latione de morte filiae: Teque omnium optimam doclis- 
 simamque, approbantibus Diis immortalibus ipsis, in 
 eorum coetu locatam ad opinionem omnium mortalium 
-consecrabo. ld. de Lege Agr. Tum ipsam veterem Car- 
+consecrabo. Id. de Lege Agr. Tum ipsam veterem Car- 
 thaginem vendunt, quam P. Africanus nudatam tectis ac 
 emoenibus suis, ad notandam Corlhaginiensium calami- 
 Google 
@@ -2266,7 +2224,7 @@ nes, In tabulis obsignalis perscriptae. Quint. XII. 8:
 Promittil enim litigator Omnia, testem populum, para- 
 tissimas consigna liones. Rursus obsigno pro consigno. 
 Cic. pro Flacco xvl: Laudatio obsignata era' creta illa 
-asiatica, que fere est omnibus nota nobis. ld. pro Cluent. 
+asiatica, que fere est omnibus nota nobis. Id. pro Cluent. 
 xvl: Pecuniaque obsignata, quae ad eam rem dabatur, 
 in manibus Scamandri deprehenditur. 
 CONSILIVM in bonis animi, Res in . potestate fortunae. 
@@ -2318,9 +2276,9 @@ quod a modus per syncopem deducitur, est ipse actus et
 usus inveteratus, ex quo consuetudo induci solet. Iulio 
 Festo de Verbor. Signif. Mos est institutum patrium 
 pertinens ad maiorum religiones atque cerimomas. Cic. 
-pro Cluent. xxxv : Non mos consuetudoque servata. ld. 
+pro Cluent. xxxv : Non mos consuetudoque servata. Id. 
 Oftic. I. 32: Ad eorum consuetudinem moremque de- 
-'ducimur. ld. ib. 41: Contra morem cousuetudincmque 
+'ducimur. Id. ib. 41: Contra morem cousuetudincmque 
 civilem fecerint. Arnob. II. Fiel enim fåmiliaris e 
 more consuetudo in naturam versa. Etsi haec frequenter 
 confunduntur, maxime ab auctoribns iuris, apud quos 
@@ -2398,7 +2356,7 @@ Digitized by
 
 142 
 quam utrumque istorum. Cic. pro Muraena xxxvll: Rem- 
-ublicam despexit atque contemsit. ld. Offic. 11. {O: 
+ublicam despexit atque contemsit. Id. Offic. 11. {O: 
 espiciunt autem eos et contemnunt. Ter And. I. v. 43: 
 Quot modis contemtus, spreLus? 
 CONTENTIO, erat illa pars orationis in accusatione co- 
@@ -2559,7 +2517,7 @@ gatione posse. Cic. Le 111. {3: Emendari et corrigi
 continenoa. Tac. Hist. f•: 
 Aut ipse praedicat emendata 
 et correcta. Plin. Paneg. VI: Corrupta est disciplina ca- 
-strorum, ut tu corrector emandatorque contingeres. ld. 
+strorum, ut tu corrector emandatorque contingeres. Id. 
 Ep. VI. 2: Tu quoque amore communium soles emen- 
 dari cupere, quae iam corrigere dimcile est. 
 Sic corrigimus quoque prava; Inßectimus autem, quae 
@@ -2572,9 +2530,9 @@ CORRVPTVM est, quod aliquo modo vitiatum aut vio-
 latum aut ru tum aut prorsus est destructum; Depra- 
 • vatum, quod \islortum, contaminatum, pravum factum 
 et perversum est. Cic. Odic. 11. 20: Corrupti mores sunt 
-depravatique admiratione divitiarum. ld. pro Muraena XII: 
+depravatique admiratione divitiarum. Id. pro Muraena XII: 
 lurisconsultorum ingeniis pleraque corrupta ac depravata 
-- sunt. ld. Finib. I. 21: De quibus neque depravate iu- 
+- sunt. Id. Finib. I. 21: De quibus neque depravate iu- 
 dicant, neque corrupte. 
 CORRVPTA iudicia sunt in iis, qui acceperunt pecr 
 (l) Virginis est sertam, clerici corona, poétae laurea; quod 
@@ -2675,7 +2633,7 @@ Tern vl 23 : Crustae, aut emblemata detrahuntur : Sic
 Haluntini, excussis deliciis, cum argento puro domum 
 reverluntur. Paulus ad Vitellium L. 11. f. 32, f. ff: 
 Cymbia argentea crustis aureis illigata. Nos: Nappi di 
-*argento con intarsiature d'oro. ld. Aurea emblemata, quae 
+*argento con intarsiature d'oro. Id. Aurea emblemata, quae 
 absidibus argenteis essent. 
 CRVSTAM cum dicimus feminino genere, lapidis aut 
 •Alias emblemata, quad graeci&rb roi dgßanetv; hoc egt, 
@@ -2700,7 +2658,7 @@ litudinem militiae, cubiculariorum ordinem ducebat Cu-
 biculari8 est aptus cubiculo, ut lectus cubicularis, in quo- 
 veteres dormiebant, sicuti in tricliniari accubantes cibum 
 sumebant. Cic. in Verrem v. 4: Hunc vestri ianitores, 
-hunc cubicularii diligunt. ld. de Div. 11. 65: Quidam 
+hunc cubicularii diligunt. Id. de Div. 11. 65: Quidam 
 somniavit ovum pendere e fascia lecti sui cubicularis. 
 CVIVS ad personam refertur; Cuiatis unde significat. 
 Attius in Telepho, p. 39. Fragm. Vett. Poétar. Qui ne— 
@@ -2763,7 +2721,7 @@ ornatus autem voluptatis est. Svet. Calig. Lll: Triumphalem
 quidem ornatum, etiam ante expeditionem assidue ge- 
 stavit. Cic. in Oeconomico: Quid si vestem et ceterum 
 ornatum muliebrem pretii maioris habeat, quam ta 
-habes? ld. ad Varronem: Eumdem cullum eumdemque 
+habes? Id. ad Varronem: Eumdem cullum eumdemque 
 victum esse. Et omc. I. 4: Student parare ea, quae sup- 
 peditent ad cultum et ad victum. 
 CVPES et CVPEDIA antiqui lautiores cibos nominabant, 
@@ -2790,7 +2748,7 @@ Plaut. Nil. IV. f. •25: Pyrgop. Cupio hercle equidem si
 illa vult. Pal. Quin. cupit. Cic. de Rep. 11: Non gra— 
 yarer, Laeli, nisi el hos velle pularem, et ipse 
 quoque aliquam partem huius nostri sermonis attin-- 
-sere. ld. Sencct. Speramus, volumus quidem certe, senes 
+sere. Id. Sencct. Speramus, volumus quidem certe, senes 
 Geri. lb. Volumus vane, nisi molestum est. lb. cupitnus. 
 mala et turpia. VolumuS bona et honesla. Afranius ap. 
 Non. v. f: Amabit sapiens, cupienl ceteri. Quae lamen 
@@ -2902,7 +2860,7 @@ custodiisque circummuniti sumus. Cic. in Catil. I. 8:
 Sed quam longe videtur a carcere atque a vinculis abesse 
 debere, qui se ipsum iam dignum custodia iadicave- 
 rit. Sallust. Catil. LI: Publicandas eorum pecunias, ipsos 
-in vinculis habendos per municipia. ld. lb. Lll.: Pecu- 
+in vinculis habendos per municipia. Id. lb. Lll.: Pecu- 
 nias eorum publicandas, ipsos per municipia in custo- 
 diis habendos. 
 CVTIS est in carne, seu corpori adhaerens et vivorum; 
@@ -3229,7 +3187,7 @@ Nemo autem debita omcia complere poterit sine vario
 molestiarurn genere. Liv. 111. 8: Defunctc morbis cor- 
 ora salubriora esse coeperunt. Cic. Fam. I. 8: Cum et 
 onoribus am lissimis, et laboribus maximis per unöti 
-essemus. ld. il. v. {2: Nulla perfunctis propria mo eslia. 
+essemus. Id. il. v. {2: Nulla perfunctis propria mo eslia. 
 DEGERE CONCORDITER ALIQVO et EK AEQVO non de- 
 bent confundi. Fecit id Solinus cap. 55. Porrecta ad 
 terras Scytharum, quibuscum eoncorditer degunt. Solinus 
@@ -3257,7 +3215,7 @@ reipublicae. E' nobi8 quidem qualis in castrensi contuber-
 nio etc. Plura vide in Salmasii exercit. Plin. p. 843. a. 
 DEGREDI est ex superiore loco descendere; Digredi ex 
 alüuo loco discedere. Sall. lug. XLIx; Monte degrediens 
-cum exercitu. ld. ib. XVIII: Propter multitudinem a pa- 
+cum exercitu. Id. ib. XVIII: Propter multitudinem a pa- 
 rentibus digreui. Digredi est generale, dum de persona 
 et de via dicitur. Degredi autem speciale, dum locum 
 saltem designat. 
@@ -3353,10 +3311,10 @@ est aedificium Deo sacratum. Ita delubrum est parvum
 templum, vel pars templi; sicut Capitolium fuit tem- 
 lum, in quo tria delubrc communi pariete claudebantur, 
 ovis, lunonis, Minervae. Cic. pro Domo: Templorum 
-et delubrorum religiooes. ld. Orat 111. in Catil.: Deorunr 
+et delubrorum religiooes. Id. Orat 111. in Catil.: Deorunr 
 delubris atque templis. Et alibi: Omnia templa Deorum 
 atque delubra. Arnob. Lib. VI: Quorum delubra et templa 
-mortuorum superlatae sunt bustis. ld. Lib. VII: Cur 
+mortuorum superlatae sunt bustis. Id. Lib. VII: Cur 
 templa post condita, sibique exaedificata delubra. etc. 
 Sed haec fere cinfunduntur, •maxime apud poétas. De- 
 Jubrum in quo homines pericula sua diluunt: Ponunt 
@@ -3398,7 +3356,7 @@ stratum; qnod deductum inde adverbium demisse, 1. e.
 .abiecte testatur. Cic. Tusc. v. 8: Non est ausus elate et 
 ample loqui, quum humiliter demisseque sentiret. 
 DEOS perpetuos dicimus; Divos ex hominibus factos, 
-quasi diem obierint. Ioh. Ludov. de La Cerda Tom. ld. 
+quasi diem obierint. Ioh. Ludov. de La Cerda Tom. Id. 
 Comment. ad Virgil. Aen. XII 439: Dios, aelernos, di- 
 • autem ex hominibus assumptos esse dicit. Unde 
 Divos imperatores vocamus. luvenal. Satyr. VI. •115: Re- 
@@ -3461,7 +3419,7 @@ tum. Agrael. H.
 DERIPERE est deorsum rapere et detrahere; Deripere• 
 est diyerse, et in varias partes rapere, ut fit in expugna- 
 tionibus urbium. Plaut. Menaechm. v. 2."7: Sedquis. 
-hic est, qui capillo me huc de curru deripit? ld. Rud. 
+hic est, qui capillo me huc de curru deripit? Id. Rud. 
 111. 5. 5: De ura capillo iam deripiam. Varro in Eume— 
 nid.: Ubi vident se cantando ex ara excantare nom 
 posse deripøre incipiunt. 
@@ -4286,1093 +4244,321 @@ $$829$$
 $$830$$
 +Fusco+ album opponitur; +Nigro+ candidum. #Fr. G. Dif.#
 
+$$831$$
++Galea+ et +Cassis+ differunt. +Galea+ capitis fuit munimentum, factum ex felis vel mustelae, quae γαλέη dicebatur, corio, ut +cassis+ ex ferro. #Isidorus XVIII. 13#: *==Cassis== de lamina est*, inquit, *==galea== de corio*. Unde haec duo distinguit #Tac. Germ. VI. 4#: *Vix uni alterique ==cassis==, aut ==galea==*. V. #Cam. Pitisci not. ad Curt. V. 13.# #Polybius#, tamen, #Livius#, #Dion. Halicarnassensis# et #Plutarchus# aeneas quoque +galeas+ cognoscunt. V. #Poeschelii comment. ad Polyb. de Mil. Rom. p. 128#.
 
-+Galea+ et +Cassis+ differunt. +Galea+ capitis fuit munimentum, factum ex felis vel mustelae, quae γαλέη dicebatur, corio, ut +cassis+ ex ferro. #Isidorus XVIII. 13#: 
-Cassis de lamina est, inquit, galea de corio. Unde bet 
-duo distinguit Tac. Germ. VI. 4: Vix uni alterique cassis, 
-aut galea. V. Cam. Pitisci not. ad Curt. v. {3. Polybius, 
-tamen, Livius, Dion. Halicarnassensis et Plutarchus ae- 
-neas quoque galeas cognoscunt. V. Poeschelii comment. 
-ad Polyb. de Mil. Rom. p. E8. 
-GALLICVS et GALLICANVS differunt. Heumannus ad Cic. 
-Cat. 111. 3. Gallicanae copiae ita differunt a gallicis, ut 
-gallicae vocentur, quae constant e Gallis, gallicanae quae 
-In Gallia versantur Romanorum copiae. Ita in orat. 
-Quinctio lv. dicitur negotium gallicanum, quod Romanus 
-aliquis habet in Gallia. Et in fragmento orat. in Pisom 
+$$832$$
++Gallicus+ et +Gallicanus+ differunt. #Heumannus ad Cic. Cat. III. 3#: *==Gallicanae== copiae ita differunt a ==gallicis==, ut ==gallicae== vocentur, quae constant e Gallis, ==gallicanae== quae in Gallia versantur Romanorum copiae*. Ita in #orat. pro Quinctio IV.# dicitur "negotium ==gallicanum==", quod Romanus aliquis habet in Gallia. Et in fragmento #orat. in Pison. p. 329. edit. Graev.#: *Primus enim gallus, deinde ==gallicanus== haberi coeptus est*. Eodem modo a #Cic. Fam. Ep. XIII. 36#: *Siculus vocatur, qui natus est in Sicilia*; at #ep. 38#: *Quaestura siciliensis quam gesserat in hac insula Cicero*. Atque aliud est "exercitus germanicus", aliud "exercitus germanicanus" apud #Eutropium X. 7. n. 7.# Sic et a graeco differt graeciensis apud. #Gell. XIX. 10#, et #Plin. HN. IV. 2#, a romano romanensis, ab hispano hispaniensis, de quo postremo vocabulo v. #Fabri Lex.# "Bellum hispaniense" in #Cic. or. pro lege Man. IV. et X.# "hispaniensis Poenorum exercitus" apud #Liv. XXIII. 28.# et apud eumdem #c. 48.# libri eiusdem, "exercitus Romanorum hispaniensis".
 
+$$833$$
++Gallus+ natione; +Gallicus+ seu +Gallicanus+ ex Gallia. Fronto.
 
-p. 329. edit. Graev. : Primus enim gallus, deinde galli- 
-canus haberi coeptus ést. Eodem modo a Cic. Fam. Ep. 
-XIII. 36: Siculus vocatur, qui natus est in Sicilia; at 
-ep. 38: Quaestura siciliensis quam gesserat in hac in- 
-sula Cicero. Atque aliud est exercitus g2rmanicus, aliud 
-exercilus germanicanus apud Eutropium x. 7. n. 7. Sic. 
-et a graeco differt graeciensis apud. Gell. XIX. {O, et 
-Plin. HN. lv. 2, a romano romanensis, ab hispano hi-- 
-spaniensis, de quo pöstremo vocabulo v. Fabri Lex. Bel- 
-lum hispaniense in Cic. or. pro lege Man. IV et x. hispa— 
-niensis Poenorum exercitus apud Liv. XXIII. 28. et apud 
-eumdem c. 48. libri eiusdem, exercitus Romanorum hispa- 
-niensis. 
-GALLVS natione; Gallicus seu Gallicanus ex Gallia. 
-Fronto. 
-GARVM aliud est quam Muria. Nam muria ex thynno— 
-rum, garum ex scombrorum tabe conficiebatur, quae et 
-liquaminis nomine, eL liquoris sociorum vocabatur. Et 
-muria pauperum tantum erat, contra garum divi[um 
-unde et fastosum a Martial. Epigr. 111. 403 vocatur. 
-Manilius v. sub finem garum Sive liquamen elegantis- 
-Ilinc sanies preLiosa fluit, floremque 
-Sime describit : 
-cruoris Evomit, et misto gustum sale temperat oris. V. 
-Scaliger lect. ans. II. 28. Burmanus ad Quinct. VIII. 2. 
-De garo classicus est locus Plinii HN. xxxl. 45. Plura 
-vide sis in Gesneri thes. v. garum. 
-GAVDEO commodo proprio; Laetor alieno. H. 
-GAVÖIVM est affectio animi modeste et constanter se 
-efferentis (4); Laetitia vero est exultatio quaedam animi 
-effuse et inaniter elati, eventu rerum expelitarum. Haec 
-cadit in quemlibet, et in turpibus rebus esse potest 
-illud in sapientem, et in rebus bonis semper est, ut ait 
-Sen. Ep. LXXII: Imperfectis adhuc interscinditur laetitia; 
-saéientl vero contexitur gaudium. Sallust. Catil. LXI: Va— 
-(l) Sive Gaudium illud dicimus, cum ratione movetur a— 
-nimus lavide atque constanter: cum autem et inaniter et. 
-effuse i\em exultat animus, laetitia gestiens, vel nimia, dici 
-Otest. Leg Doletus loc. persaepe cit. fol. 67. fac. b. col. ae 
-calig. Poet. I. 2. p. 9. Laetitiam vocat animi in corpore san& 
-affecuonem. Differt autem laetitia ab exultatione hunc in mo- 
-dum, ut haec sit in re, illa autem in spe, sicuti Lorinus Tom. 
-I. Commentar. in Psal. 'v. v. 3. p. 126. col. I. B. ex Hiero- 
-nymo probe adnotavit. Conf. Gellii II. 27. 
-Atuonii Popmae etc. 
-Dig.tzet by 
-15 
-0081e 
+$$834$$
++Garum+ aliud est quam +Muria+. Nam +muria+ ex thynnorum, +garum+ ex scombrorum tabe conficiebatur, quae et liquaminis nomine, et liquoris sociorum vocabatur. Et +muria+ pauperum tantum erat, contra +garum+ divitum, unde et fastosum a #Martial. Epigr. III. 103# vocatur. #Manilius V.# sub finem +garum+ sive liquamen elegantissime describit: *Hinc sanies pretiosa fluit, floremque cruoris Evomit, et misto gustum sale temperat oris*. V. #Scaliger lect. ans. II. 28.# #Burmanus ad Quinct. VIII. 2.# De +garo+ classicus est locus #Plinii HN. XXXI. 45.# Plura vide sis in #Gesneri thes.# v. _garum_.
 
+$$835$$
++Gaudeo+ commodo proprio; +Laetor+ alieno. #H.#
 
-rie per omnem exercilum laelitid, moeror, luclus a'qae 
-gaudia agitabantur. ld. ib. XLVIII: Veluti ex servitute 
-erepta gaadium atquc laetitiam agitabat Hanc tamen 
-confundit Cato in Orat. pro Rhodiensibus: Adversae res 
-se domant et docent, quid opus sit facto; secundae res 
-laetitic transversum Iradere solent a recte consulendo 
-atque intelligendo. Quo maiore opere dico suadeoque . 
-uti haec res aliquot dies proferatur, dum ex tanto gaudio 
-in potestatem nostram redeamus. Plaut. Poen. v. 4. 405: 
-Quum hac me laetitia tanta, et tantis affecistis gaudii8. 
-Cic. in Catil. I. {O: Qua laelitia perfruere? Quibus gau- 
-diis exultabis? Liv• XXXIII: Occupati animi praesenti lae- 
-titia, nihil, quo vanius fieret gaudium suum, auribus 
-admittebant. ld. xxxvl: Elatum insolentem iuvenem im- 
-modico gaudio. Exultatio membrorum atque corporis 
-laetitiam designat. Agraet. Cic. Tusc. lv. 31: Atque ut 
-confidere decet, timere non deect; sic quidem gaudere 
-decet, laetari non decet: quoniam docendi causa a gau- 
-dio laelitiam distinguimus. 
-GEMMA proprie est oculus vitis, quem primo vere 
-emittit. Demde per similitudinem est omnis lapillus pre- 
-tiosus, cuiuscumque coloris vel naturae sit; Margarita 
-Sive. margaritum, italice perla, est calculus candidus in 
-conchis marinis nascens. Cic. Orat. in Verr. VI. 4: Nego 
-ullam gemmam, aut margaritam fuisse. Svet. Aug. xxx: 
-Gemmas ac margaritas quingenlies HS. una donatione 
-contulerit. Plin. HN. VII. 30: Inter spolia Darii, Persa- 
-rum regis, unguentorum scrinio capto, quod erat auro 
-gunmisque ac murgarilis preliosum. Curt. VIII. 9: Gem- 
-mas margaritasque mare litoribus infundit. Servius gram- 
-maticus haec discernit, ut gemma diversi coloris sit, 
-mar arita alba; illa integra, haec pertusa. Ulpianus vero 
-ad gabinum xx. L. XIX S 13 et seqq. D. de Auro arg. 
-Gemmae sunt, inquit, pellucidae materiae, quas, ut re- 
-fert Sabinus libris ad Vitellium, Servius a Lapillis ita 
-distinguebat, quod gemmae esscnt pellucidae materiae, 
-• (I) Caudium est, cum animus exhilaratur aliqua re grata 
-atque iucunda, neque tamen ita ad exteriora diffundltur ultra 
-modum, ut facile appareat. Laetitia vero est, cum ita movetur 
-animus aliqua re iucunda, uL et ad exteriora egrediatur ille 
-motus, et maxime in vultu appareat in ipso homine. Hinc 
-dicunt stoiei, gaudium in sapientem cadere posse, laetitiam 
-non posse. Christoph. in Yirg. Georg. I. R. 
-Digitizee by 
-008 Ie 
+$$836$$
++Gaudium+ est affectio animi modeste et constanter se efferentis (1); +Laetitia+ vero est exultatio quaedam animi effuse et inaniter elati, eventu rerum expetitarum. _Haec_ cadit in quemlibet, et in turpibus rebus esse potest; _illud_ in sapientem, et in rebus bonis semper est, ut ait #Sen. Ep. LXXII#: *Imperfectis adhuc interscinditur ==laetitia==; sapienti vero contexitur ==gaudium==*. #Sallust. Catil. LXI#: *Varie per omnem exercitum ==laetitia==, moeror, luclus atque ==gaudia== agitabantur*. #Id. ib. XLVIII#: *Veluti ex servitute erepta ==gaudium== atque ==laetitiam== agitabat* (2). Hanc tamen confundit #Cato in Orat. pro Rhodiensibus#: *Adversae res se domant et docent, quid opus sit facto; secundae res ==laetitia== transversum tradere solent a recte consulendo atque intelligendo. Quo maiore opere dico suadeoque, uti haec res aliquot dies proferatur, dum ex tanto ==gaudio== in potestatem nostram redeamus*. #Plaut. Poen. V. 4. 105#: *Quum hac me ==laetitia== tanta, et tantis affecistis ==gaudiis==*. #Cic. in Catil. I. 10#: *Qua ==laetitia== perfruere? Quibus ==gaudiis== exultabis?* #Liv. XXXIII#: *Occupati animi praesenti ==laetitia==, nihil, quo vanius fieret ==gaudium== suum, auribus admittebant*. #Id. XXXVI#: *Elatum insolentem iuvenem immodico ==gaudio==. Exultatio membrorum atque corporis ==laetitiam== designat*. #Agraet. Cic. Tusc. IV. 31#: *Atque ut confidere decet, timere non decet; sic quidem ==gaudere== decet, ==laetari== non decet: quoniam docendi causa a ==gaudio== ==laetitiam== distinguimus*.
+(1) Sive +Gaudium+ illud dicimus, cum ratione movetur animus placide atque constanter: cum autem et inaniter et effuse idem exultat animus, +laetitia+ gestiens, vel nimia, dici potest. Leg. #Doletus loc. persaepe cit. fol. 67. fac. b. col. a.# #Scalig. Poet. I. 2. p. 9.# Laetitiam vocat animi in corpore sane affectionem. Differt autem +laetitia+ ab _exultatione_ hunc in modum, ut _haec_ sit in re, _illa_ autem in spe, sicuti #Lorinus Tom. I. Commentar. in Psal. IV. V. 3. p. 126. col. I. B.# ex #Hieronymo# probe adnotavit. #Conf. Gellii II. 27.# 
+(2) +Gaudium+ est, cum animus exhilaratur aliqua re grata atque iucunda, neque tamen ita ad exteriora diffunditur ultra modum, ut facile appareat. +Laetitia+ vero est, cum ita movetur animus aliqua re iucunda, ut et ad exteriora egrediatur ille motus, et maxime in vultu appareat in ipso homine. Hinc dicunt stoici, +gaudium+ in sapientem cadere posse, +laetitiam+ non posse. #Christoph. in Virg. Georg. I.# #R.#
 
+$$837$$
++Gemma+ proprie est oculus vitis, quem primo vere emittit. Deinde per similitudinem est omnis lapillus pretiosus, cuiuscumque coloris vel naturae sit; +Margarita+ sive +margaritum+, italice <span lang="it">perla</span>, est calculus candidus in conchis marinis nascens. #Cic. Orat. in Verr. VI. 4#: *Nego ullam ==gemmam==, aut ==margaritam== fuisse*. #Svet. Aug. XXX#: *==Gemmas== ac ==margaritas== quingenties HS. una donatione contulerit*. #Plin. HN. VII. 30#: *Inter spolia Darii, Persarum regis, unguentorum scrinio capto, quod erat auro ==gemmisque== ac ==margaritis== pretiosum*. #Curt. VIII. 9#: *==Gemmas== ==margaritasque== mare litoribus infundit*. #Servius grammaticus# haec discernit, ut +gemma+ diversi coloris sit, +margarita+ alba; _illa_ integra, _haec_ pertusa. #Ulpianus# vero #ad Sabinum XX. L. XIX § 13 et seqq. D. de Auro arg.# +Gemmae+ sunt, inquit, pellucidae materiae, quas, ut refert #Sabinus libris ad Vitellium#, #Servius# a Lapillis ita distinguebat, quod +gemmae+ essent pellucidae materiae, velut smaragdi, chrysoliti, amethysti; +lapilli+ autem contrariae superioribus naturae; +margaritas+ autem, nec gemmis, nec lapillis contineri satis constitisse. Ibidem #Sabinus# ait, concham apud rubrum mare et crescere et coalescere. Quam differentiam soli iurisconsulti agnoscunt, ceteri auctores non observant, qui +gemmae+ et +margaritae+ vocabulis ita, ut prius dixi, fere utuntur, et +lapilli+ nomen communiter tribuunt gemmis et margaritis ut #Catullus, LXIX. 4#, cum dixit: *Pelluciduli deliciis lapidis*, +Gemmas+ intellexit; +Margaritas+ #Horatius Sat. I. 2. 80#; #Ep. II. 2. 180. seqq.#, ubi, talia cimelia videtur prorsus contemnere.
 
-227 
-vwelut smaragdi, chrysoliti, amethysti; lapilli autem con- 
-Arariae superioribus naturae; margaritas auLem, nec 
-gemmis, nec lapillis contineri satis constitisse. Ibidem 
--Sabinus ait, concham apud rubrum mare et crescere et 
-coalescere. Quam differentiam soli iurisconsulti agno- 
-. scunt, ceteri auctores non observant, qui gcmmae et 
-margaritae vocabulis ita, ut rius dixi, fere utuntur, et 
-lapilli nomen communiler tri uunt gemmis et margaritis 
-sut Catullus, LXIX. 4, cum dixit: Pelluciduli deliciis Ia- 
-rpidis, Gemmas intellexit; Margaritas Horatius Sat. I. 2. 
-80; Ep. 11. 2. 480. seqq., ubi, talia cimelia videtur 
-prorsus contemnere. 
-GENA est membrana, oculos. tegens; Cilium, quod alias 
-aextremus gcnae superioris est ambitus, habet pilos 
-Mata est pars infra oculos, ruboris sedcs; Bucca quast 
-follis infra illam. H. 
-GENAE (seu palpebrae) sunt membranae superiores 
-inferioresque, quibus oculus aperitur et clauditur, ut 
-9Ennius de dorrmente: Imprimitque genam genae. Mahe 
-.autem sunt eae faciei partes, quae infra oculos emi- 
-nent, rotundae, in speciem mali. Sed vetustissimi genas 
-pro målis dixerunt, ut observavit Plin. HN. XL 58: his 
-everbis: Infra oculos nalae homini tantum, quas prisci 
-genas vocabant, XII. Tabularum interdicto radi a foe- 
-minis eas vetantes..Et malae appellantur etiam partes 
--intra os, Plaut. Bacchid. lv. 2. 16: Ne nucifrangibula 
-ex malis meis. ld. Trinum. II. 4. 74: Am- 
-babus malis •expletis vorem. 
-'GENERALE est, quod omnes species, quae sub genere 
-:sunl, includit, ut, homo omnes homines; mare omnia 
-naria; Universale, quod omnia rerum enera universim 
-tic. Acad. lv. 23: 
-. continet, ut animal homines et bruta. 
-Qui loquitur de universis, nihil excipit; quid enim po- 
-test esse extra universa? Ilinc iurisconsulti recentöres 
-iudicium generale appellant, cum actor in venere multas 
-divcrsas res simul petit, ut si agit negotiorum gesto- 
-:rum, tutelae, aut pro socio; quibus iudiciis qui eon— 
-veniuntur, hi 'mnltas res simul administrarunt: univer- 
-sale ubi petitur ins universum, nt in iudicio bonorum 
-+ssessionis vel familiae erciscundae, in quibus ipsum 
-•ius possessionis et haereditatis, non illa, ex quibus con- 
-'Stat, inspicitur. Quae differentia, etsi magnos auctores 
-.habet, mihi tamen idco non probatur, quod veterec 
-Digitizers by 
-0081e 
+$$838$$
++Gena+ est membrana, oculos tegens; +Cilium+, quod alias extremus genae superioris est ambitus, habet pilos; +Mala+ est pars infra oculos, ruboris sedes; +Bucca+ quasi follis infra illam. #H.#
 
+$$839$$
++Genae+ (seu palpebrae) sunt membranae superiores inferioresque, quibus oculus aperitur et clauditur, ut #Ennius# de dormiente: *Imprimitque genam genae*. +Malae+ autem sunt eae faciei partes, quae infra oculos eminent, rotundae, in speciem mali. Sed vetustissimi +genas+ pro +malis+ dixerunt, ut observavit #Plin. HN. XI. 58# his verbis: *Infra oculos ==malae== homini tantum, quas prisci ==genas== vocabant, XII. Tabularum interdicto radi a foeminis eas vetantes*. Et +malae+ appellantur etiam partes intra os, #Plaut. Bacchid. IV. 2. 16#: *Ne nucifrangibula excussit ex ==malis== meis*. #Id. Trinum. II. 4. 74#: *Ambabus ==malis== expletis vorem*.
 
-nulla universalia iudicia- nominant, sed tantum generalitr 
-et specialia, ut Paulus ad Sabinum VI. 6. I. 39. D. pro 
-socio: Quod Sabinus in omnibus bonae fidei iudiciis 
-existimavit, Sive generalia sint, veluti pro socio, nego- 
-tiorum gestorum, tutelae, Sive specialia, veluti mandati, 
-commodaü, deposili. Hic obiter notandum, adverbium€. 
-generaliter longe esse strictius adverbio universaliter 
-quemadmodum Philippus Decius in Enarrat. in Regul. I. 
-Tit. ff. de Regul. lur. n. 47. p. 7. col. b. ostendit. H. 
-GENERO, PARIO, GIGNO differunt, sed quidem non per— 
-petuo; ita: vir generat mulierque parit, sed gignit uter— 
-que. R. 
-GENEROSVS, V. NOBILIS. 
-GENITRIX est quae genuit, vel peperit, vel generis- 
-originem dedit, ut Venus genitriJ a Romanis culta; Mater 
-est tam illa, quae aluit et educavit, quam quae genuil; 
-in genere dicilur mater foetum pariens, quomodo etiom 
-differunt genitor el pater. Virg. Aen. VIII. 631 : Geminos 
-huic ubera circum Ludere pendentes pueros et lambere 
-matrem. Plaut. Prol. Menaechm. 19. 20 et 21. Ita forma 
-simili pueri, uti mater sua Non internosse posset, quae 
-mammam dabat: Neque adeo mater ipsa quae illos pe- 
-pererat. Arnob. VII. Genitii.r et mater superstitionis, Etru- 
-ria. ld. 11. Genitorc illo ac patre prolatas. 
-GENVS (f) est initium cuiusqne ortus, quod vel a pa- 
-tria ducitur, vel a parentibus (2); Gens•est principium 
-familiae, Stirps est pars gentis, ut Cornelii omnes unius 
-sunt genlis; et uno nomine continentur omnes. At vero 
-partes istius gentis sunt plures, discretae cognominibus, 
-eaeque stirpes et familiae nominantur, ut Cinnae, Dola- 
-bellae, Lentuli, Seipiones, Sullae. Sic ergo gens genus 
-et s!irpem continet, non contra genus et stirps gentcm.- 
-(I) Genus familiae, •gentem regionem recte dicimus. Agraet. 
-(2) Kt Sic generis nomine omnes utrius ue sexus venire, De- 
-Cius in Enarrat. in Reg. 11. Tit. ff. de kegul. lur. n. 65. p. 
-29. col. b. amrmat, allegans Baldum in l. 1. de Prob. SIC 
-dicentem•, De genere meo dicuntur etiam, qui sunt cognati. 
-Genus et species aliter accipi a philosophis, aliter a iurispe- 
-ritis, Antonius Del Re in Tract. de luratnento catumniae cap. 
-l. num. II. p. 3. tradit. Dubium autem et commune genus 
-apud grammaticos sic differunt, ut commune sit rerum ani— 
-matarum, dubium vero rerum fere inanimatarum. Genus et 
-pro modo sumi, videndum est ex Gifanii Observation. LLE 
-P. 100. 
-Google 
-Digitizeö by 
+$$840$$
++Generale+ est, quod omnes species, quae sub genere sunt, includit, ut, homo omnes homines; mare omnia maria; +Universale+, quod omnia rerum genera universim continet, ut animal homines et bruta. #Cic. Acad. IV. 23#: *Qui loquitur de ==universis==, nihil excipit; quid enim potest esse extra ==universa==?* Hinc iurisconsulti recentiores iudicium +generale+ appellant, cum actor in _genere_ multas et diversas res simul petit, ut si agit negotiorum gestorum, tutelae, aut pro socio; quibus iudiciis qui conveniuntur, hi multas res simul administrarunt: +universale+ ubi petitur ius universum, ut in iudicio bonorum possessionis vel familiae erciscundae, in quibus ipsum ius possessionis et haereditatis, non illa, ex quibus constat, inspicitur. Quae differentia, etsi magnos auctores habet, mihi tamen ideo non probatur, quod veteres nulla universalia iudicia nominant, sed tantum +generalia+ et +specialia+, ut #Paulus ad Sabinum VI. 6. I. 39. D. pro socio#: *Quod Sabinus in omnibus bonae fidei iudiciis existimavit, sive ==generalia== sint, veluti pro socio, negotiorum gestorum, tutelae, sive ==specialia==, veluti mandati, commodati, depositi*. Hic obiter notandum, adverbium +generaliter+ longe esse strictius adverbio +universaliter+, quemadmodum #Philippus Decius in Enarrat. in Regul. I. Tit. ff. de Regul. Iur. n. 17. p. 7. col. b.# ostendit. #H.#
 
+$$841$$
++Genero+, +Pario+, +Gigno+ differunt, sed quidem non perpetuo; ita: vir +generat+ mulierque +parit+, sed +gignit+ uterque. #R.#
 
-Caesar in laudatione Iuliae amitae apud Svet. VI: Ma- 
-Rernum genus ab regibus ortum: paternum cum Diis im- 
-mortalibus coniunctum est. Nam ab Anco Marcio sunt 
-Marcii reges. quo nomine fuit mater; a Venere Iulii, 
-genlis familia est nostra. Papinianus Quaestionum 
-AV. lib. I. D. de Prob. Quotiens quaeritur, genus vel 
-:gentern quis haberet nec ne, eum probace oportere. Cic. 
-Amic. xrx: Qui aliquamdiu propter ignorantiam stirpis 
-et generis in famulatu fuerint. ld. de Orat. I. 39: Quum 
-Marcelli a Libcrti filio stirpe, Claudii eiusdem 
-nominis haereditatem gente, ad se rediisse dicerent; 
-nonne in ea causa fuit oratoribus de toto Slirpis et gen- 
-tilitatis iure dicendum? Genus ad vivos pertinet; Familia 
-et gens etiam ad defunctos. Genus ad nobilitatem; Fa- 
-milia ad copiam refertur, unde et paterfamilias dicitur. 
-Donat. 
-GENS est multitudo unius populi, seu unius generis 
-multiplicata propago, ut gens romana (f); Natio est 
-genus hominum ex diversis gentibus colleclum, seu ho- 
-minum ex una slirpe multitudo, ut nalio graecorum, 
-natio Germanorum. Cic. Off. I. {7: Propior est societas 
-eiusdem gentis, nationis, linguae, qua maxime coniun- 
-guntur. ld. Nat. peor. ld. 39: Deum. non curare sin- 
-gulos homines, nec civitates, nec nationes, nec genles. 
-Tac. Germ. 11: 
-Ita nationis nomen, in nomen gentis 
-evaluisse paulatim. lustin I: Principio rerum qentium na- 
-Eonumque imperium penes reges erut, Ulp. b. de Cen- 
-sib. I: Prope barbaras gentes et nationes collocatas. Sed 
-interdüm gentis nomen latius patet, ut cum vocamus ius 
-gentium, quod omnibus nationibus et universo generi 
-humano commune est, et nalio de singularibus homi- 
-nibus quoque dicitur. Cic. Sext. XLIV: Quae esset nostra 
-natio optimalium. Plaul. in Menaech. II. f. 33: Nam 
-ita est haec hominum natio Epidamnia, voluptarii alque 
-potatores maximi. (Postremo gens plures nationes com- 
-plectitur. Ita gens itala habet Subalpinos, Insubres, Nea- 
-politanos, aliosque, qui eiusdem genlis nationes sunt. 
-Tacit. Germ. xxxv1d: Nunc de Suevis dicendum, quorum 
-non una, ut Cattorum, Teucterorumque gens; maiorem 
-(l) Christianis scriptoribus gentes dicuntur ethnici infldeles. 
-Gifanius gentium vocem (loc. cit. p. 104.) pro iis sumi dicit . 
-.qui non sunt cives romani. 
+$$842$$
++Generosus+, V. %Nobilis%.
 
+$$843$$
++Genitrix+ est quae genuit, vel peperit, vel generis originem dedit, ut Venus +genitrix+ a Romanis culta; +Mater+ est tam illa, quae aluit et educavit, quam quae genuit; in genere dicitur mater foetum pariens, quomodo etiam differunt +genitor+ et +pater+. #Virg. Aen. VIII. 631#: *Geminos huic ubera circum Ludere pendentes pueros et lambere ==matrem==*. #Plaut. Prol. Menaechm. 19. 20 et 21#: *Ita forma simili pueri, uti ==mater== sua Non internosse posset, quae mammam dabat: Neque adeo ==mater== ipsa quae illos pepererat*. #Arnob. VII.#: *==Genitrix== et ==mater== superstitionis, Etruria*. #Id. II.#: *==Genitore== illo ac ==patre== prolatas*.
 
-enim Germaniae partem obiinent, propriis adhuc natio— 
-nibus, nominibusque discreti. TH. VALL.) 
-GESTA sunt publica; Acla privata. H. 
-GESTVS est vultus eL corpons moderatio, Gestio rerun 
-perpetratio. H. 
-GIBBVS terga premit, cervicem Struma molestat. R. 
-GLACIES est, quae ex coitu aquae constagnat; Nix ven- 
-torum ritu cadit. Alias glacies dicitur congelatus liquor 
-et hyemis ornamentum. Nix vero est pluvia in lanae 
-formam concreta. Fronto. 
-GLORIAM inter et CLARITATEM distinguitur apud Sen. 
-Ep. c. II Quid intersit inter cluritatem et gloriam, dicam. 
-Gloria multorum iudiciis constat; claritas bonorum. Enim- 
-vero eodem modo gloria a Cicerone definitur, Tusc. Disp. 
-111. 2: : Cloria est solida quaedam res et expressa, non ad- 
-umbrata; ea est consentiens laus bonorum, incorrupta 
-vox bene iudicantium de excellente virtute. Gloria est 
-consentiens opinio et existimatio multitudinis de digni- 
-tate cuiusquam, seu est frequens de aliquo fama cum 
-laude, sicuti infit Perotlus in Cornucop. Epigr. 11. col. 
-51. lin. 38. Comparatur autem gloria gloriosis actioni- 
-bus, et tunc vera dicitur. Ne autem gloriabundus pror- 
-sus vivat inglorius, ipse. de se et gestis suis gloriatur. 
-Graeci gloriam dignitatem vocant, et qui— 
-dem observante Scaligero 111. Poélic. cap. {09. p. 371. 
-ubi et rot.' Öratvov x ai p. 370. datur diffe-- 
-rentia. Laus est clara atque illustris alicuius commen- 
-datio, seu rei bene aestimatae praedicatio. Illa in tacita 
-opinione; haecin aperta• praedicalione consistit, et illu• 
-strior est. Illa ab universis et ipsa fama proficiscitur, haec 
-a singulis. Cic. in Catil. I: Sin aulem servire meae laudi et 
-gloriae mavis. Et in 111 : Omnia ornamenta honoris, monu- 
-menta gloriae, laudis insignia condi et collocari volo. 
-ld. pro Arch. : Ad populi rom. gloriam laudemque cele- 
-brandam. ld. Nullam enim virtus aliam mercedem laudum 
-periculorumque desiderat, praetcr hanc laudis et gloriae. 
-Ad Fam. : Quae ad tuam laudem ct gloriam pertinebunt. 
-Tac. Hist. IV. A laude gloriaque gentis exorsus. 
-GLORIVS est unius gloriae; Glmiafor non habet causam- 
-gloriandi; sed tamen gloriatur; Gloriosus pluribus de 
-causis esse cogitur. Alias. est gloriosus, qui se vel ina-- 
-niter iactat, vel alterius inani laudatione effertur et lau- 
-dari quaerit. Perottus. Front. 
-Google 
-Digitizeö by 
+$$844$$
++Genus+ (1) est initium cuiusque ortus, quod vel a patria ducitur, vel a parentibus (2); +Gens+ est principium familiae, +Stirps+ est pars gentis, ut Cornelii omnes unius sunt +gentis+; et uno nomine continentur omnes. At vero partes istius +gentis+ sunt plures, discretae cognominibus, eaeque +stirpes+ et +familiae+ nominantur, ut Cinnae, Dolabellae, Lentuli, Scipiones, Sullae. Sic ergo +gens+ +genus+ et +stirpem+ continet, non contra +genus+ et +stirps+ +gentem+. Caesar in laudatione Iuliae amitae apud #Svet. VI#: *Maternum ==genus== ab regibus ortum: paternum cum Diis immortalibus coniunctum est. Nam ab Anco Marcio sunt Marcii reges, quo nomine fuit mater; a Venere Iulii, cuius ==gentis== familia est nostra*. #Papinianus Quaestionum IV. lib. I. D. de Prob.#: *Quotiens quaeritur, ==genus== vel ==gentem== quis haberet nec ne, eum probare oportere*. #Cic. Amic. XIX#: *Qui aliquamdiu propter ignorantiam ==stirpis== et ==generis== in famulatu fuerint*. #Id. de Orat. I. 39#: *Quum Marcelli a Liberti filio ==stirpe==, Claudii patricii eiusdem nominis haereditatem ==gente==, ad se rediisse dicerent; nonne in ea causa fuit oratoribus de toto ==stirpis== et ==gentilitatis== iure dicendum?* +Genus+ ad vivos pertinet; +Familia+ et +gens+ etiam ad defunctos. +Genus+ ad nobilitatem; +Familia+ ad copiam refertur, unde et paterfamilias dicitur. #Donat.#
+(1) +Genus+ familiae, +gentem+ regionem recte dicimus. #Agraet.#
+(2) Et sic +generis+ nomine omnes utriusque sexus venire, #Decius in Enarrat. in Reg. II. Tit. ff. de Regul. Iur. n. 65. p. 29. col. b.# affirmat, allegans #Baldum in l. 1. de Prob.# sic dicentem: *De =genere= meo dicuntur etiam, qui sunt cognati*. +Genus+ et +species+ aliter accipi a philosophis, aliter a iurisperitis, #Antonius Del Re in Tract. de Iuramento calumniae cap. 1. num. 11. p. 3.# tradit. _Dubium_ autem et _commune_ +genus+ apud grammaticos sic differunt, ut _commune_ sit rerum animatarum, _dubium_ vero rerum fere inanimatarum. Genus et pro modo sumi, videndum est ex #Gifanii Observation. LL. p. 100#.
 
+$$845$$
++Gens+ est multitudo unius populi, seu unius generis multiplicata propago, ut "gens romana" (1); +Natio+ est genus hominum ex diversis +gentibus+ collectum, seu hominum ex una stirpe multitudo, ut "natio graecorum", "natio Germanorum". #Cic. Off. I. 17#: *Propior est societas eiusdem ==gentis==, ==nationis==, linguae, qua maxime coniunguntur*. #Id. Nat. Deor. III. 39#: *Deum non curare singulos homines, nec civitates, nec ==nationes==, nec ==gentes==*. #Tac. Germ. II#: *Ita ==nationis== nomen, in nomen ==gentis== evaluisse paulatim*. #Iustin. I#: *Principio rerum ==gentium== ==nationumque== imperium penes reges erat*. #Ulp. D. de Censib. I#: *Prope barbaras ==gentes== et ==nationes== collocatas*. Sed interdum +gentis+ nomen latius patet, ut cum vocamus "ius gentium", quod omnibus nationibus et universo generi humano commune est, et +natio+ de singularibus hominibus quoque dicitur. #Cic. Sext. XLIV#: *Quae esset nostra ==natio== optimatium*. #Plaut. in Menaech. II. 1. 33#: *Nam ita est haec hominum ==natio== Epidamnia, voluptarii alque potatores maximi*. (Postremo +gens+ plures nationes complectitur. Ita "gens itala" habet Subalpinos, Insubres, Neapolitanos, aliosque, qui eiusdem gentis +nationes+ sunt. #Tacit. Germ. XXXVIII#: *Nunc de Suevis dicendum, quorum non una, ut Cattorum, Teucterorumque ==gens==; maiorem enim Germaniae partem obtinent, propriis adhuc ==nationibus==, nominibusque discreti*. #Th. Vall.#) 
+(1) Christianis scriptoribus +gentes+ dicuntur ethnici infideles. #Gifanius# +gentium+ vocem (#loc. cit. p. 104.#) pro iis sumi dicit, qui non sunt cives romani.
 
-GNATVS filius; Natus pullus. Front. R. 
-GRAECVS qui ex Graecia est, ut graecus homo (f), 
-graecum vinum; Graecanicus, qui graeci formam et si— 
-militudinem habet, ut vestis graecanica, trochleae grae- 
-canicae apud Catonem, h. e. machinae tractoriae, quae 
-fiunt.ad similitudinem gråecae litterae O; Graeciensis, qui 
-Graecis frequens et usitatus est. Varro de LL. IX. 3 : 
-Itaque ut hic alia graeca, alia graecanica, sic analogiae. 
-Gellius XIX. {0: Offendimus eum cubantem in scimpo- 
-dio graeciensi. 
-GRAMMATICVS (2) et GRAMMATISTA ita distinguuntur, 
-ut ille sit absolute perfecteque doctus lilterarum; hic 
-mediocriter eruditus; ille laline possib scribere; kic sal— 
-teun latina inlelligat. Svet. de claris Gramm. [v : Sunt, 
-qui lilleratum a lilteralore ita distinguant, ut Graeci 
-grammaticum a grammatisla, et illum quidem absolute, 
-. hunc mediocriter doclum existiment. ld. ib. 24: Legerat 
-in provincia quosdam veteres libellos apud grammatistam. 
-Confirmat illam Augustinus conf. I: Adamaveram latinas 
-litleras non quas primi magistri, scil. grammatistae, 
-sed quas docent qui grammatici vocantur. Similiter Ae— 
-Iius Lampridius in Alexandro Sev. grammalistas, quos 
-Severus In pueritia habuit, distinguit a grammaticis, 
-quibus in patria Romaeque usus est. Idem discrimen 
-observat Iulius Capitolinus in M. Antonino philosopho: 
-Usus est magistro ad prima elementa Euphormione lit— 
-teratore. Et mox: Ustis praeterea grammaticis graeco 
-Alexandro, etc. 
-GRANDIS (3) ad partem aetatis pertinet, et idem est, 
-ac crescendo factus magnus, ut grandis natu; Maior 
-generaliter et ad summam aetalis retortur. Ponitur etiam 
-ad comparationem aetalis. Grande (4) incremento; Ma- 
-(l) Sic dicimus quoque homo romanus, homo italicus, homo 
-adolescens, homo novus, homo valens etc. qui omnes sunt 
-loquendi modi a divina illa vetustate celebrati; a superve- 
-nienti vero barbarie. Hadriano Cardinale de serm. Lat. p. 195 
-loquente, neglecti. 
-(2) Grammaticus est, qui veteres libros ed codices emendat. 
-corrigit, explicat. distinguit, qui hodie criticus dicitur. R. 
-(3) Grandem ad ætatem veteres retulerunt, non ad corpus, 
-et in parte aetatis dicitur gråndis, non in tota vita, nisi ad- 
-datur natu, ut grandis infans. Don R. 
-(4) Eius deminutiva sunt. Grandiusculum et grandieulum; 
-opposita vero adolescens parvum, et tenue. Leg. Gambarella 
-1. c. p. 308. 
-Google 
-Digitize... by 
+$$846$$
++Gesta+ sunt publica; +Acta+ privata. #H.#
 
+$$847$$
++Gestus+ est vultus et corporis moderatio, +Gestio+ rerum perpetratio. #H.#
 
-932 
-qnum amplitudine; Immane praecipuae amplitudinis est. 
-Front. 
-GRATIA malae et bonae rei causa. Nam sic dicimu$ 
-inimicitiarum ut beneficii gratia. Ila ut Sallust. oppro- 
-brii gratia, Cicero: Religionis et supplicii gratia colen- 
-dam et fruendam tradidcrat. Et Ter. Eun. v. 3. 2: Qui 
-referam illi sacrilego gratiam? Agraet. R. 
-GRATIAS agimu.s verbis, gratiam habemus animo et vo- 
-luntate, gratiam referimus (t) vel reddimus faclis, gratiam 
-facimus, cum remiltimus aliquid . ne praestetur, aut 
-praestiti religione solvimus. Cic. Fam. v. 4 t: Nec enim 
-tu mihi habuisti modo gratiam, verum etiam cumula- 
-tissime retulisti. ld. Phil. 111. 40: Meritoque vestro ma- 
-ximas vobis gratias omncs et agere et habere debemus. 
-Svet. in Aug. XVII: Gratian recit coniurandi cum Iota 
-Italia pro partibus suis, id est remisit necessitatem con- 
-iurandi. ld. in Tib. xxxv. Equiti romano iurisiurandi 
-gratiam recit, ut uxnrem in stupro generi compertam 
-dimittcrel, quam se numquam repudiaturum ante iura- 
-verdt. Plaut. Rud. v. 3. 53: lurtsiurandi valo gratiam 
-facias, id est, solvas me religione praestiü iur.amenti. 
-GRATVLAMVR in rebus laetis, gratias agimus beneficiis 
-acceptis, gratificamur, rem gratam facientes. R. 
-GRATVS, qui gratiam refert, et est etiam in adversis. 
-lucundus in prosperis. lucundus, non qui laetus est, sed 
-qui est alteri causa gaudii. In iucunditate est gratia de- 
-lectalionis, in gratia est etiatn commodi delectatio. Iu- 
-cundum est dulce, et specialius gralutn est acceplum, 
-et generalius grata est aegro medicina, verum insuavis 
-et iniucunda. Sitienli potus el gratus et iucundus est. 
-Gratum dicitur proprie illud, pro quo nos sentire de- 
-bemus, in quo differt a iucundo. Gratum est v. g. oili- 
-(L) Gratiam referre etiam in malam partem pro ulcisci, seu 
-talionem reddere, sumi Cicero (Orat. pro Sylla xvl) auctor 
-est his verbis: Permitto aliquid iracundiae tuae, do adolescen- 
-tiae, cedo amicitiae, tribuo parenti. Quod si esses usu at('eue 
-aetaterobustior, essem idem qui soleo. cum sum lacessiLus. Nunc 
-tecum sic agam, tulisse ut potius iniuriam, quam retulisse 
-gratiam videar. sic Ter. Eun. v. 3. 2:. Qui referam illi sa- 
-crilego gratiamß Alias ex mente Goclenii in Observ. LL. p. 
-B3. Gratias agimus beneflciis acceptis; Gratificamur rem 
-gratam facientes; Gratulamur in rebus laetis, uando nempe 
-Deo pro re bene gesta gratias agimus maxime ecentes. Vid. 
-Oliverii Arzignanensis Comentar. bistoricus et lilteratus ad 
-Val. Max. I. c. L. f. 3. fac. a. Edit. Ascens. 
-81e 
+$$848$$
++Gibbus+ terga premit, cervicem +Struma+ molestat. #R.#
 
+$$849$$
++Glacies+ est, quae ex coitu aquae constagnat; +Nix+ ventorum ritu cadit. Alias +glacies+ dicitur congelatus liquor et hyemis ornamentum. +Nix+ vero est pluvia in lanae formam concreta. #Fronto.#
 
-233 
-•cium amici in luctu et dolore meo, non item iucundum. 
-lucunda est aberratio inimici me petenlis, se ipsum 
-ferientis, sed grata non est, h. e. nihil illi eo nomine 
-debeo. Exempla rem demonstrant, in quibus tamen sunt 
-eti:æm, in quibus magis ad iucunditalem et suavitatem, 
-quam ad animum, quo illa excipiatur, respicitur. Gratunb 
-est, vox flebile gaudentis, certe animum gratum signi- 
-ficantis, si in malis aliquid lamen commode et non ni- 
-mis triste accidat. Cic. Att. 111, 66: Ista veritas etsi 
-iucunda non est, tamen grata est. ld. Famil. lv. 6: Cuius 
-officia iucundiora scilicet saepe mihi fuerunt, numquam 
-tamen gratiora. ld. ib. [v. 2: Gratulatio tua elSi est 
-mihi probatissima, quod ab optimo fit animo, tamen 
-hoc mihi mullo iucundius•est et gralius. ld. ib. x. 3: 
-Quae omnia mihi iucunda, hoc extremum etiamgratum fuit. 
-GRAVARE differt a gravari. Hoc idem est. ac graviter 
--dere. persuadere; illud autem aliquid grave red- 
-GRAVIS ad vim, stabilis ad tempus refertur. Donat. R. 
-GRAVITER, si facerc nolo, Acerbe, si iniuriis aflligor. 
-Paedian. R. 
-GREMIVM dicilur illa pars, quae est intra complexum 
-femorum; Sinus vero intra pectoris brachiorumqne com- 
-plexum; vel Gremium, est accinctae vestis secrelum; 
-Sinus vero concavitas, veluti in sinu gestantur infantes, 
-in gremio foventur et reponuntur. Gremium vestis rc- 
-ceptaculum, interius iacens secretum; sinus exterius 
-expansum receptaculum. Ter. Adelph. lv. 75: Hic non 
-amandus? Iliccine non gestandus in sinu? Virg. Aen. I. 
-718 : Ilaeret; et interdum gremio fovet inscia Di(lo. ld. 
-Aen. VIII. 712: Pandentemque sinus, et torta veste vo- 
-cantem Caeruleum in gremiutm Hinc sinus appellatur 
-quaecumque vestis laxitas, et proprie ea, quae ante 
-pectus descendiL supra cincluram, apta rebus occultan- 
-•dis et abscondendis; gremium aulem dicitur e contrario,• 
-9b ingressu difficili. Nam veteribus in toga sinus ila laxi 
-fuerunt, ut vel a sinistra in dextrum humerum reiice- 
-renttn•, vel a sinistro humero in brachium, et interdum 
-ad lumbos atque ima crura demitterentur. Svet. Caes . 
-LXKXII: Toga caput obvolvit, simul sinistra manu sinum 
-ad ima crura deduxit. Quinct. xl. 3: Illud vero non 
-ferendum, quod quidam, reiecta in humerum toga, tum 
-dlextera sinum usque ad lumbos reduxerunt. ld. ib.: Si- 
-yG0081e 
+$$850$$
++Gloriam+ inter et +Claritatem+ distinguitur apud #Sen. Ep. C. II#: *Quid intersit inter ==claritatem== et ==gloriam==, dicam. ==Gloria== multorum iudiciis constat; ==claritas== bonorum*. Enimvero eodem modo +gloria+ a #Cicerone# definitur, #Tusc. Disp. III. 2#: *==Gloria== est solida quaedam res et expressa, non adumbrata; ea est consentiens laus bonorum, incorrupta vox bene iudicantium de excellente virtute*. +Gloria+ est consentiens opinio et existimatio multitudinis de dignitate cuiusquam, seu est frequens de aliquo fama cum laude, sicuti infit #Perottus in Cornucop. Epigr. II. col. 57. lin. 38.# Comparatur autem +gloria+ gloriosis actionibus, et tunc vera dicitur. Ne autem gloriabundus prorsus vivat inglorius, ipse de se et gestis suis gloriatur. Graeci κλέος gloriam δόξαν, dignitatem vocant, et quidem observante #Scaligero III. Poëtic. cap. 109. p. 371.# ubi et τοῦ ἔπαινον καί εγκωμιον #p. 370.# datur differentia. +Laus+ est clara atque illustris alicuius commendatio, seu rei bene aestimatae praedicatio. _Illa_ in tacita opinione; _haec_ in aperta praedicatione consistit, et illustrior est. _Illa_ ab universis et ipsa fama proficiscitur, _haec_ a singulis. #Cic. in Catil. I#: *Sin autem servire meae ==laudi== et ==gloriae== mavis*. Et in #III#: *Omnia ornamenta ==honoris==, monumenta ==gloriae==, ==laudis== insignia condi et collocari volo*. #Id. pro Arch.#: *Ad populi rom. ==gloriam== ==laudemque== celebrandam*. #Id.#: *Nullam enim virtus aliam mercedem ==laudum== periculorumque desiderat, praeter hanc ==laudis== et ==gloriae==*. #Ad Fam.#: *Quae ad tuam ==laudem== et ==gloriam== pertinebunt*. #Tac. Hist. IV#: *A ==laude== ==gloriaque== gentis exorsus*.
 
+$$851$$
++Glorius+ est unius gloriae; +Gloriator+ non habet causam gloriandi; sed tamen +gloriatur+; +Gloriosus+ pluribus de causis esse cogitur. Alias est +gloriosus+, qui se vel inaniter iactat, vel alterius inani laudatione effertur et laudari quaerit. #Perottus.# #Front.#
 
-234 
-num vero in dextrum humerum ab imo reiicere solu— 
-tum ac delicatum. Et ab hac postrema significatione 
-manarunt Jocutiones proverbiales apud Ciceronem, Se- 
-necam, Tibullum et alios, in sinu csse, gaudere, flere, 
-odisse, pro eo uod est•in occulto. In sinu habere, Scae— 
-de Prob. xxxl 27: Quod omnem for- 
-tola Digestor. 
-tunam et substantiam quam a matre susceperat, in sinu 
-meo habui, id est, in fide et potestate mea. In sinun 
-convertere, vel conferre, pro in rem suam. Lamprid. 
-in Commodo: Praedam omnem in sinum cantulit. ld. 
-ib.: Qui etiam condemnationes in sinum vertisse dicun— 
-tur. Sinus etiam pro gremio accipitur, quod ostendit 
-Sciopp. his Petronii verbis: Manum demisit in sinum, et 
-pueri vasculum pertractavit. Vorst. lat. mer. suspecta 
-p. 26: Senecam sinum pro gremio posuisse, Kappius ad' 
-lensium p. 31. ostendit: Si viscera sua in sinu videt. 
-Idem fecisse Ovidium Jensius l. c. ex Borrichio profert. 
-GVBERNACVLVM inter et REMVM qualis detur differentia 
-mathematica, tradit Henricus Monantholius in Commen- 
-tar. ad Aristotelis Mechan. p. 76. his verbis: Dissimi-• 
-litudo est gubernaculi et remi cx differenti loco, ad quem 
-utrumque navim movet. Utrumque enim navim movet 
-ad locum, qui contrarius est ei, ad quem mare impul- 
-sum movctur. Movetur enim navis ad centri, cui est 
-anncxa, motum. Centrum autem in remo est scalmus, 
-in gubernaculo cardo. Movetur hoc contra, quam depuV 
-sum mare. Mare autem retrorsum recta a r.emo depel- 
-litur; movet igitur remus recta antrorsum navim. Conlrae 
-mare a gubernaculo oblique impellitur, vel dextrorsum, 
-vel sinistrorsum. Movet igitur oblique navim (quod est 
-intelligendum de puppi, non de prora, quae in partem, 
-ad quam mare movetur), sinistrorum, si illud dextror- • 
-sum; vel dextrorsum, si illud sinistrorsum. H. 
-GVSTARE et SAPERE ita differunt, ut gustare sit sapo- 
-rem recipere; sapere vero saporem dare. Homo dicitur 
-gustare, cibus vero dicitur sapere. Homo comedens guslat, 
-et cibus, qui comedi(ur, sapit. Hinc versus: Gustat lingua 
-cibum, qui bene cumque sapit. 
-GVTTA, utpote liquoris particula minima, stat, seu, 
-ut alii dicunt., manat, Sive profluit e gutto, seu gutturnio„ 
-non guttatin, sed rivalim: Stilla vero ex loco superiore• 
-cadit. H. 
-GYMNASIVM V. COLLEGIVM. 
+$$852$$
++Gnatus+ filius; +Natus+ pullus. #Front.# #R.#
 
+$$853$$
++Graecus+ qui ex Graecia est, ut "graecus homo" (1), "graecum vinum"; +Graecanicus+, qui graeci formam et similitudinem habet, ut "vestis graecanica", "trochleae graecanicae" apud #Catonem#, h. e. machinae tractoriae, quae fiunt ad similitudinem graecae litterae θ; +Graeciensis+, qui +Graecis+ frequens et usitatus est. #Varro de LL. IX. 3#: *Itaque ut hic alia ==graeca==, alia ==graecanica==, sic analogiae*. #Gellius XIX. 10#: *Offendimus eum cubantem in scimpodio ==graeciensi==*.
+(1) Sic dicimus quoque "homo romanus", "homo italicus", "homo adolescens", "homo novus", "homo valens" etc. qui omnes sunt loquendi modi a divina illa vetustate celebrati; a supervenienti vero barbarie. #Hadriano Cardinale de Serm. Lat. p. 195# loquente, neglecti.
 
-H. 
-HABENA impuberum fere poena erat. Minell. ad Ho— 
-rat. R. 
-HABERE (4) est rem detinere, Sive iure dominii, Sive 
-quo alio modo: Tenere (2) est corpore possessioni in- 
-sistere, licet ius possidendi non competat; Possidere pro 
-domino uti. Hoc solius domini est et liberi, qui ulitur 
-re sua, et iure possessionis fruitur, Illa duo cadunt 
-eliam in servum, commodalarium, vel usufructuarium. 
-Cic. Flaeco xxl: Hanc fiduciam commissam tibi diciS: 
-tenes hodie ac possides. Liv. xxvl. : Quod ille bello- 
-captum possideret haberelque. Florentinus Institut. D. de 
-l. 48. Quodve tu meum habes. tenes, pos- 
-Accept. VIII. 
-sides. Ulpianus ad edictum 49. l. 38. D. Verb. Oblig.: 
-Plane si tenere sibi licere stipulatus sit servus, utilem 
-essc stipulationem convenit. Licet enim possidere civi— 
-liter non possint; tenere tamen eos nemo dubitat. ld. 
-D. de vi arm. LXIX. 4: Quod autem ait praetor; Quaeque 
-ibi habuit; si accipimus. ut omnes res contineantur norr 
-solum, quae propriae illius fuerunt, vernm et si quae 
-apud eum depositae sunt, vel ci commodatae, vel pi- 
-gnoratae, quarumque vel usum, vel usumfructum, vel 
-custodiam habuit. vel si quae ei locatae sunt. Cum enim 
-dicit praetor habuit, omnia haec habendi verbo conti- 
-nentur. 
-HABERE potest etiam fur et nequam; Possidet nemo, 
-nisi qui rel relictae, aut donatae, aut emtae dominus 
-est. Ila in habente onus, in possidente ius est. Front. R. 
-HABITvs.inteIIigitur omnis corporis cultus ornatusque: 
-ut habitus militaris, religiosus, scenicus. DeriDtåt et haa 
-bitus rohoratam in animo consuetudinem; cum proprie• 
-sit, quicquid quis habet proprium. Vestitus nomine sola 
-vestimenta continentur. Unde M. Cato orationes inscri- 
-(l) Habere etiam pro habitare atque morari apud Ciceronem 
-atque t.ivium poni. Gifanius loc. persaepe cit. p. 105 testaturE 
-Ound autem proprie sit habere honorem, et habere honores, 
-tradit Hadrianug Card. loc. cit. p. p. 193. 
-(2) Tenere a TEbEty, h, e. tcndere, derivatur. Ad tenendurn• 
-enim aliquid nervos tendi est necesse. Ideoque tenere ideny 
-est quam apprehensum habere. 
-81e 
+$$854$$
++Grammaticus+ (1) et +Grammatista+ ita distinguuntur, ut _ille_ sit absolute perfecteque doctus litterarum; _hic_ mediocriter eruditus; _ille_ latine possit scribere; _hic_ saltem latina intelligat. #Svet. de claris Gramm. IV#: *Sunt, qui litteratum a litteratore ita distinguant, ut Graeci ==grammaticum== a ==grammatista==, et illum quidem absolute, hunc mediocriter doctum existiment*. #Id. ib. 24#: *Legerat in provincia quosdam veteres libellos apud ==grammatistam==*. Confirmat illam #Augustinus conf. I#: *Adamaveram latinas litteras non quas primi magistri, scil. ==grammatistae==, sed quas docent qui ==grammatici== vocantur*. Similiter #Aelius Lampridius in Alexandro Sev.# grammatistas, quos Severus in pueritia habuit, distinguit a grammaticis, quibus in patria Romaeque usus est. Idem discrimen observat #Iulius Capitolinus in M. Antonino philosopho#: *Usus est magistro ad prima elementa Euphormione litteratore*. Et mox: *Usus praeterea grammaticis graeco Alexandro*, etc.
+(1) +Grammaticus+ est, qui veteres libros et codices emendat, corrigit, explicat, distinguit, qui hodie _criticus_ dicitur. #R.#
 
+$$855$$
++Grandis+ (1) ad partem aetatis pertinet, et idem est, ac crescendo factus magnus, ut "grandis natu"; +Maior+ generaliter et ad summam aetatis refertur. Ponitur etiam ad comparationem aetatis. +Grande+ (2) incremento; +Magnum+ amplitudine; +Immane+ praecipuae amplitudinis est. #Front.#
+(1) +Grandem+ ad ætatem veteres retulerunt, non ad corpus, et in parte aetatis dicitur +grandis+, non in tota vita, nisi addatur natu, ut "grandis infans". #Don.# #R.#
+(2) Eius deminutiva sunt. _Grandiusculum_ et _grandiculum_; opposita vero _adolescens parvum_, et _tenue_. Leg. #Gambarella l. c. p. 308#.
 
-9.36 
-psit, unam de habitu, alteram de vcstilu. Svet. Cal. LII : 
-Vestitu calceatuque el cetero habitu ncque patrio, neque 
-civili. ld. Ner. xxxvlll: In illo suo scenico habilu. Veste 
-habiluque vix a gregario milite discrepans TACIT. HIST. 11. 
-5. Virginali habitu atque vestitu. Cic. Verr. VI. 3. 
-HAS MANVS huius hominis dicimus, hanc manum multos 
-homines coniungentes. Agraet. 
-IIASTA, quod astans solet ferri. laculum, quod ut ia- 
-ciatur, fit. Tragula a traiiciendo. Varro. R. 
-HEBESCIT (f) quod natura obstupescit; Hebetescit, quod 
-amittit aciem. Front. 
-HERBIDVM (2) locum dicimus, in quo herba est, etsi 
-aridus esse consueverit; Herbosum, qui herbam facile 
-generat, etiamsi ad tempus aridus sit. Agr. 
-HEROS, i e. vir illustris et divinus, etiam de vivis: 
-Divus de morluo dicitur. Sic Bassianus Caracallus de 
-fratre, quem occiderat: Sit divus, dum non sit vivus. 
-Quamquam, crescente in dies adulatione, multis impe- 
-ratoribus Romanorum adhuc vivis haec appellatio est 
-trihuta, v. g. Divus. Rodulfus, Ferdinandus, Leopoldus, 
-etc. Leg. Goclenius loc. cit. p. 234. Perperam vero a 
-multis, latine scribentibus, beati coelites, potiusquam san- 
-cti ex optimorum scriptorum auctoritatc, divi appellanlur. 
-Hanc quidem appellationem, a recta scribendi ratione 
-abhorrentem, respuit vel ipsa christiana sapien Lia. Nam- 
-que divi a Romams dicebantur vel dii ipsi. vel impera- 
-tores, qui per apotheosin post mortem in deos fuissent 
-relati. tautn autem scriberent divus Caesar, divus Clau- 
-dius, idem plane valebat ac deus Caesar, deus Claudius. 
-Quare iam cuique satis perspicuum est, quam ine te 
-hoc veleris superstitionis atqne adulationis titulo ho- 
-nenlur a chrisnanis scriptoribus viri, qui summa qua- 
-dam integritate, innocentia et pietate insignes, digni 
-habiti fuerunt, qni religiose post mortem a nobis cole- 
-rentur. TH. VALL. 
-HEVS adverbium vocantis; Heu respondentis et dolen- 
-tis, Agr. 
-HJARE (3) est ore aperto esse, seu os diducere, vel 
-(I) Conf. Perotti Cornucopiae epigr. cxv. col. 4005. 
-(2) Alias dicitur herbidum. quod est ex herba; herbosus 
-autem locus dicitur herbis abundans. 
-(3) mare est aliquid sua se sponte vet externa aliqua vi 
-5-2 
+$$856$$
++Gratia+ malae et bonae rei causa. Nam sic dicimus inimicitiarum ut beneficii gratia. Ita ut #Sallust.# *opprobrii ==gratia==*. #Cicero#: *Religionis et supplicii ==gratia== colendam et fruendam tradiderat*. Et #Ter. Eun. V. 3. 2#: *Qui referam illi sacrilego ==gratiam==?* #Agraet.# #R.#
 
+$$857$$
++Gratias agimus+ verbis, +gratiam habemus+ animo et voluntate, +gratiam referimus+ (1) vel +reddimus+ factis, +gratiam facimus+, cum remittimus aliquid, ne praestetur, aut praestiti religione solvimus. #Cic. Fam. V. 11#: *Nec enim tu mihi ==habuisti== modo ==gratiam==, verum etiam cumulatissime retulisti*. #Id. Phil. III. 10#: *Meritoque vestro maximas vobis ==gratias== omnes et ==agere== et ==habere== debemus*. #Svet. in Aug. XVII#: *==Gratiam fecit== coniurandi cum tota Italia pro partibus suis, id est remisit necessitatem coniurandi*. #Id. in Tib. XXXV#: *Equiti romano iurisiurandi ==gratiam fecit==, ut uxorem in stupro generi compertam dimitteret, quam se numquam repudiaturum ante iuraverat*. #Plaut. Rud. V. 3. 53#: *Iurisiurandi volo ==gratiam facias==, id est, solvas me religione praestiti iuramenti*.
+(1) +Gratiam referre+ etiam in malam partem pro ulcisci, seu talionem reddere, sumi #Cicero# (#Orat. pro Sylla XVI#) auctor est his verbis: *Permitto aliquid iracundiae tuae, do adolescentiae, cedo amicitiae, tribuo parenti. Quod si esses usu atque aetate robustior, essem idem qui soleo, cum sum lacessitus. Nunc tecum sic agam, tulisse ut potius iniuriam, quam ==retulisse gratiam== videar*. Sic #Ter. Eun. V. 3. 2#: *Qui ==referam== illi sacrilego ==gratiam==?* Alias ex mente #Goclenii in Observ. LL. p. 233#. +Gratias agimus+ beneficiis acceptis; +Gratificamur+ rem gratam facientes; +Gratulamur+ in rebus laetis, quando nempe Deo pro re bene gesta +gratias agimus+ maxime decentes. Vid. #Oliverii Arzignanensis Comentar. historicus et litteratus ad Val. Max. I. c. 1. f. 3. fac. a. Edit. Ascens.#
 
-tacitum tamen; HisCere est incipere loqui, auctore Dio— 
-mede. Unde hoc convenit hommi tantum• illud eliam 
-inanimis; sic qui oscitat, hiat. Sed flores, um prorum- 
-punt, hiscunt. Cum aperiuntur ligna ariditate, terra 
-aestu, flores maturitate, tum dicunlur hiare. Varro in 
-Marcipore: Video hiantes, non audio. Sallust. Historiar. 
-11: Atque hiavit humus multa vasta et profunda. Virg. 
-Aen. 111. 313: Raris turbatus vocibus hisco. Liv. VI. 16: 
-Nec altollere oculos aut hiscere audebant. 
-HIBERNA sunt loca ubi milites hiemem transigunt 
-velut in urbibus, vicis. Hibernacula sunt tentoria scortea, 
-sub quibus hiberno tempore relinenlur. Unde sub pel- 
-Iihus esse, et hibernare dicuntur. Sallust. lug. xxxvl : 
-Milites mense ianuario ex hibernis in expeditionem•evo- 
-cat. Liv. v. 2: Hibernacula etiam, res nova militi ro— 
-mano, aedificari coepla. Tac. Ann. XIV. 38: Contractus 
-deinde omnis- exercitus sub pellibus habitus est ad re- 
-liqua belli perpetranda. Sed interdum hibernacula eadcm, 
-quae hiberna, vid. Gifanii Observationes in LL. p. 109. 
-Tac. Ann. 11. 23: Legionum aliae itinere terrestri in 
-hibernaculo remissae. 
-HIC, HAEC, Hoc usurpantur de rebus quae in manu 
-nostra, aut prope nos sunt; ISTE, ISTA, ISTUD de rebus 
-uae a noblS absunt aut in manu aliena versantur. 
-Blaut. Trin. IV. 2. seq.: Pater istius adolescentié dedit 
-has duas mihi epistolas. Et paucis interiectis versibus, 
-Charmides petit a Trinumo (lv. 2. 57); ab ipson'istcs ac- 
-cepisLi ? Terent. Heaut. I. 4. 36: At istos rastros interea 
-tamen adpone. Et paullo post (l. •I. 40): Hui tam graves 
-hos quaeso? TH. VALL. 
-HIRVNDO avis est, quae tignis adhaeret, seu est avi— 
-cula aestate tectis haerens hieme recedens. De hirun— 
-dine domestica agit Conradus Gesnerus Histor. Animal. 
-p. 528. seq. Eas autem diversas esse, tradit idem ibid. 
-p. 543. seq. Vid. Plin. HN. x. 49. Hirudo est vermis 
-aquaticus, haerens cuti et hauriens sanguinem. Inde et 
-dicta sanguisuga. Agr. 
-aperire vel discindere. ut tellus aestu et lingua ariditate vel 
-nimio labore hiant. Hiscere est tantum oris. et quidam hu- 
-mani, accipiturque pro eo quod est 10 ui, 
-aut os aperire ad 
-loquendum. Anton. in virg. Georg. I. 
-Google 
-Digitizee by 
+$$858$$
++Gratulamur+ in rebus laetis, +gratias agimus+ beneficiis acceptis, +gratificamur+, rem gratam facientes. #R.#
 
+$$859$$
++Gratus+, qui gratiam refert, et est etiam in adversis. +Iucundus+ in prosperis. +Iucundus+, non qui laetus est, sed qui est alteri causa gaudii. In +iucunditate+ est gratia delectationis, in +gratia+ est etiam commodi delectatio. +Iucundum+ est dulce, et specialius +gratum+ est acceptum, et generalius +grata+ est aegro medicina, verum insuavis et iniucunda. Sitienti potus et gratus et iucundus est. +Gratum+ dicitur proprie illud, pro quo nos sentire debemus, in quo differt a iucundo. +Gratum+ est v. g. officium amici in luctu et dolore meo, non item iucundum. +Iucunda+ est aberratio inimici me petentis, se ipsum ferientis, sed +grata+ non est, h. e. nihil illi eo nomine debeo. Exempla rem demonstrant, in quibus tamen sunt etiam, in quibus magis ad iucunditatem et suavitatem, quam ad animum, quo illa excipiatur, respicitur. +Gratum+ est, vox flebile gaudentis, certe animum gratum significantis, si in malis aliquid tamen commode et non nimis triste accidat. #Cic. Att. III. 66#: *Ista veritas etsi ==iucunda== non est, tamen ==grata== est*. #Id. Famil. IV. 6#: *Cuius officia ==iucundiora== scilicet saepe mihi fuerunt, numquam tamen ==gratiora==*. #Id. ib. IV. 2#: *Gratulatio tua etsi est mihi probatissima, quod ab optimo fit animo, tamen hoc mihi mullo ==iucundius== est et ==gratius==*. #Id. ib. X. 3#: *Quae omnia mihi ==iucunda==, hoc extremum etiam ==gratum== fuit*.
 
-HISPANOS (f) cum dicimus, nomen nationis ostendi— 
-musi cum autem hispanienses, cognomen eorum, qui 
-•prounciam Hispaniam incolunt, etiamsi non sint hispani 
-Fl. Sosip. 
-HISTORIA cst eorum temporum, quae vidimus, vel vi- 
-dere potuerimus, dicta [arcpeiv, a •videndo; 
-Annales (2) sunt eorum annorum et temporum, quae 
-aetas nostra non novit. Unde Livius ex annalibus et 
-historiis constat. Cf. Gell. v. 18. Serv. 
-HISTRIO est, qui personatus in scena fabulas agit voce 
-gestuque, seu, qui alicuius personae actiones historice, 
-i. e. ad oculum repraesentat. Comenius. Unde idem 
-actor dicitur et ludio, vel ludius, et cantor. Mimug vero 
-est, qui hominum mores et dicta factaque gesticulatio- 
-nibus imitatur, a quo pantomimus omnium personarum, 
-et archimimus personae principis dignioris ue effector. 
-Nam e quod est imitari, mimus icitur. Svet. 
-Vesp. XIX.• Archimimus personam eius ferens imitans- 
-que, ut est mos. facta ac dicta vivi. Arnob. II: Quid 
-pantomimos, quid mimulos, histriones, cantores tuba, 
-tibia, calamoque flantes? ld. lib. lv: Quid pantomimi 
-vestri, quid histriones, quid illa mimorum atque cxole- 
-torum multitudo? Sed haec vocabula aliquando confun-, dunlur, ut quos Tac. Ann. XIII. vocat histriones, eosdem 
-pantomimos Svet. in Neronc xxvl. 
-HOMO marem iuxta ac foeminam significat Vir de ma- 
-sculo tanlum genere usurpatur; saepe vero non tam sc- 
-rum notat, quam animi constantiam, fortitudinem, vir- 
-tutem; quae fere in foeminis desiderantur. Tacit. Germ. 
-xxvrl. Foeminis lugere honestum est; viris meminisse. 
-Justin. {3: Quemadmodum Dario maiorem turbam 
-•hominum esse, sic virorum Bibi. Cic. Cat. v: Catilina 
-utcbatur hominibus improbis multis; et quidem optimis 
-se viris deditum esse simulabat. TH. VALL. 
-(I) Adde et hispanicus, a, um. Ut hispanlcum bellum. h. 
-e. in Hispania; gestum; hispanicus, gladius, i. e. in Hispania 
-factus: exereilus hispanicus, qui constab ex hispanis. Conf. 
-Gifanii Observ. LL. p. 109. 
-(2) Xnnales secundum annos sunt congesti, ut Taciti, et 
-Dioni& Cassii historia. Historia autem est generalius. Historia 
-«)rationes habet, anecLus commovet, Annales, non ita. Yid. 
-Gell. Schoettgen R. 
-Google 
-Dig.t.zecd by 
+$$860$$
++Gravare+ differt a +gravari+. _Hoc_ idem est, ac _graviter_ ad aliquid persuadere; _illud_ autem aliquid _grave_ reddere. #H.#
 
+$$861$$
++Gravis+ ad vim, +stabilis+ ad tempus refertur. #Donat.# #R.#
 
-HOMONYMIA una voce multa vocabula designat (f); 
-.Synonimia multis vocibus idem testatur. Front. 
-HONESTVM ad formam; unde Ciceroni honestus eques 
-..idem est, ac probe ornalus ac splendide vestitus eques. 
-Liberate ad vultum refertur. Donatus. 
-HONOS appellatur administratio reipublicae cum 
-.•dignitatis gradu, ea ue vel cum sumptu, vel sine ero- 
-galione contingens ( ); Munus autem, quod cum sumptu, 
-sine dignitate, in republica subimus. Ilaque honorem 
-gerens non polest cogi munus aliquod titulo dignitatis 
-institutum administrate; at munus suslinenti honor de- 
-ferri potest, ut iurisconsulti tradiderunl. Ulp. Dispula-• 
-tionum I. 7. D. de Decur. Etsi maiores annis septuaginta 
-sint, munera quidem civilia obire non coguntur; honores 
-aulem gerere debent. Paulus Lib. l. Sententiar. I. 7. D: 
-Honores et munera non ordinalis omnibus, sed potioribus 
-quibusque iniungenda sunl. 
-HOPLOMACVM, sunl qui pulent, eumdem esse cum mir- 
-mitlone. Perizonius ad verba Svet. Calig. xxxv: Threci, 
-et mox hoplomacho comparavit, •hoplomachum interpre- 
-tatur mirmillonem, qui graviori armatura era' instruc- 
-*us. Lipsius Saturnal. 11. 4 f. dubius animi est, sepa- 
-retne hoplomachos, an cum mirmillonibus, aut Samnitibus 
-confundat. Nam ct in mirmitlonem vox graeca convenit, 
-.quia tectus armis; at verius fortasse in Samnitem, cuius 
-ante Ciceronem celebre desiisse sub imporatori- 
-(1) Latine dicitur aequivocum ab aeque et vocando, quia 
-•v g. isto nomine cancer aeque signum zodiaci et carcinoma 
-vocatur, atque piscis. Ita vox canis homonymia est, ab aeque 
-oeL vocando multas et diversas res ut: Latrat in orbe. canis. 
-nat in aequore. fulget in astris. Haec roannes Herbinius. in 
-clave ad facilitatem et usum logicae lect. lv. p. 19. 
-(2) Honor dignitatiS consummaLio, vel privatim vel publice: 
-;laus secunda existimatio recte factorum. Front. 
-(3) Aliquando principatum. terrasque in reudum acceptas. 
-et sic Ipsum magisträlum, denotat. Unde honorem gerere est 
-magistratum gerere. Leg. Scipionis Gentilis 4iber singular. 
-Orig. ad Pandect P. 213 et Reinesii Ill. Var. Lect. cap. I. 
-pag. 313. Gifanius loc. persaepe alleg. p. 110. seqq. dicit, Ho- 
-norem pro honorario, munere atque stipendio quoque sumi. 
-•QualiS autem detur differentia inter onus et honorem. tradit 
-Ioannes Girardus epigramm. legali XLVIII. 69. his verbis : 
-Pubblica (Si constat sibi res) incommoda secum, Privatae 
-multum commoditatis habent. Te quoties onero, toties te 
-semper honoro: Quid? quos onus vitas, 
-*honor. 
-Digitizers by 
-te quoque vitat 
-0081e 
+$$862$$
++Graviter+, si facere nolo, +Acerbe+, si iniuriis affligor. #Paedian.# #R.#
 
+$$863$$
++Gremium+ dicitur illa pars, quae est intra complexum femorum; +Sinus+ vero intra pectoris brachiorumque complexum; vel +Gremium+, est accinctae vestis secretum; +Sinus+ vero concavitas, veluti "in ==sinu==" gestantur infantes, "in ==gremio==" foventur et reponuntur. +Gremium+ vestis receptaculum, interius iacens secretum; +sinus+ exterius expansum receptaculum. #Ter. Adelph. IV. 75#: *Hic non amandus? Hiccine non gestandus in ==sinu==?* #Virg. Aen. I. 718#: *Haeret; et interdum ==gremio== fovet inscia Dido*. #Id. Aen. VIII. 712#: *Pandentemque ==sinus==, et torta veste vocantem Caeruleum in ==gremium==*. Hinc +sinus+ appellatur quaecumque vestis laxitas, et proprie ea, quae ante pectus descendit supra cincturam, apta rebus occultandis et abscondendis; +gremium+ autem dicitur e contrario, ab ingressu difficili. Nam veteribus in toga +sinus+ ita laxi fuerunt, ut vel a sinistra in dextrum humerum reiicerentur, vel a sinistro humero in brachium, et interdum ad lumbos atque ima crura demitterentur. #Svet. Caes. LXXXII#: *Toga caput obvolvit, simul sinistra manu ==sinum== ad ima crura deduxit*. #Quinct. XI. 3#: *Illud vero non ferendum, quod quidam, reiecta in humerum toga, tum dextera ==sinum== usque ad lumbos reduxerunt*. #Id. ib.#: *==Sinum== vero in dextrum humerum ab imo reiicere solutum ac delicatum*. Et ab hac postrema significatione manarunt locutiones proverbiales apud #Ciceronem#, #Senecam#, #Tibullum# et alios, "in ==sinu== esse, gaudere, flere, odisse", pro eo quod est _in occulto_. "In ==sinu== habere", #Scaevola Digestor. D. de Prob. XXXI 27#: *Quod omnem fortunam et substantiam quam a matre susceperat, in ==sinu== meo habui, id est, in fide et potestate mea*. "In ==sinum== convertere", vel "conferre", pro in rem suam. #Lamprid. in Commodo#: *Praedam omnem in ==sinum== contulit*. #Id. ib.#: *Qui etiam condemnationes in ==sinum== vertisse dicuntur*. +Sinus+ etiam pro +gremio+ accipitur, quod ostendit #Sciopp.# his Petronii verbis: *Manum demisit in ==sinum==, et pueri vasculum pertractavit*. #Vorst. lat. mer. suspecta p. 26#: *Senecam ==sinum== pro ==gremio== posuisse*, #Kappius ad Iensium p. 31.# ostendit: *Si viscera sua in ==sinu== videt*. Idem fecisse Ovidium #Jensius l. c. ex Borrichio# profert. 
 
-bus videtur, et abiisse in hoplomaehum. At res, amnaque 
-eadcm. Festus mirmillones olim Gallos esse adpellatos, 
-monet. Si autem Lipsii verbis fides est habenda, utique 
-hoplomachus differt a mirmillone. 
-HORRENDVS est [eter et abomintndus in rebus profa- 
-nis; in sacris venerandus, ut Virg. Aen. ld. 677: Con- 
-cilium horrendum. ld. ib. VI. {O : Horrendaeque procul 
-secreta Sibillae. Horridus vero est inculLus, aul durus 
-et rigidus. ld. ib. lv. 251: Et glacie riget horrida barba. 
-Horridum plerumque extans et prominens, ut in addito. 
-versu: R. Varro m Sequiulysse: Tum equum morda- 
-cem, calcitronem horridus miles ac vir non vitabat. Si- 
-militer horridula carmina ct horridulae orationes apud 
-Cic. Horrendum aliquando admirandum: Horridum des- 
-picabile aliquid adpellamus. 
-IIORRET corpus, trepidat cum animi. Fronto. 
-Nec tamen hoc discrimen sibi apud scriptores semper 
-constat. 
-J10RTVS est locus clausus, ubi olera Cibi causa colurv 
-tur. Galli appellant jardin potager; nos: un orto. Plin. 
-IIN. XIX. 49: Ex horto plebi macellum. Cic. Senect. xvl:• 
-Ilortum agricolae succidiam alteram appellant. Horti in 
-numero multitudinis sunt qui deliciarum causa parati, 
-statuis, diaelis, piscinis, ambulacris el topiario opere• 
-instruunlur. Italice: un 9iardino. Plin. Ep. VIII. 18: 
-Amplissimos hortos eodem quo emeral die, instruxit plu- 
-rirms et antiquissimis statuis. Nep. Attic. x:v: Nullos 
-habuit hortos, nullam suburbanam aut maritimam sum- 
-ptuosam villam. Vopisc. Div. Aurel. I-: Sermonem mul- 
-tum a Palatio usque ad hortos Valerianos instituit. Vide 
-Viridarium. I'll. V ALL. 
+$$864$$
++Gubernaculum+ inter et +Remum+ qualis detur differentia mathematica, tradit #Henricus Monantholius in Commentar. ad Aristotelis Mechan. p. 76.# his verbis: *Dissimilitudo est ==gubernaculi== et ==remi== ex differenti loco, ad quem utrumque navim movet. Utrumque enim navim movet ad locum, qui contrarius est ei, ad quem mare impulsum movetur. Movetur enim navis ad centri, cui est annexa, motum. Centrum autem in ==remo== est scalmus, in ==gubernaculo== cardo. Movetur hoc contra, quam depulsum mare. Mare autem retrorsum recta a ==remo== depellitur; movet igitur ==remus== recta antrorsum navim. Contra mare a ==gubernaculo== oblique impellitur, vel dextrorsum, vel sinistrorsum. Movet igitur oblique navim (quod est intelligendum de puppi, non de prora, quae in partem, ad quam mare movetur), sinistrorum, si illud dextrorsum; vel dextrorsum, si illud sinistrorsum*. #H.#
+
+$$865$$
++Gustare+ et +Sapere+ ita differunt, ut +gustare+ sit saporem recipere; +sapere+ vero saporem dare. Homo dicitur +gustare+, cibus vero dicitur +sapere+. Homo comedens +gustat+, et cibus, qui comeditur, +sapit+. Hinc versus: "==Gustat== lingua cibum, qui bene cumque ==sapit==". 
+
+$$866$$
++Gutta+, utpote liquoris particula minima, stat, seu, ut alii dicunt, manat, sive profluit e _gutto_, seu _gutturnio_, non _guttatim_, sed rivatim: +Stilla+ vero ex loco superiore cadit. #H.#
+
+$$867$$
++Gymnasium+ V. %Collegium%. 
+
+$$868$$
++Habena+ impuberum fere poena erat. #Minell. ad Horat.# #R.#
+
+$$869$$
++Habere+ (1) est rem detinere, sive iure dominii, sive quo alio modo: +Tenere+ (2) est corpore possessioni insistere, licet ius possidendi non competat; +Possidere+ pro domino uti. _Hoc_ solius domini est et liberi, qui utitur re sua, et iure possessionis fruitur. _Illa_ duo cadunt etiam in servum, commodatarium, vel usufructuarium. #Cic. Flacco XXI#: *Hanc fiduciam commissam tibi dicis: ==tenes== hodie ac ==possides==*. #Liv. XXVI. 11#: *Quod ille bello captum ==possideret== ==haberetque==*. #Florentinus Institut. D. de Accept. VIII. l. 48#: *Quodve tu meum ==habes==, ==tenes==, ==possides==*. #Ulpianus ad edictum 49. l. 38. D. Verb. Oblig.#: *Plane si ==tenere== sibi licere stipulatus sit servus, utilem esse stipulationem convenit. Licet enim ==possidere== civiliter non possint; ==tenere== tamen eos nemo dubitat*. #Id. D. de vi arm. LXIX. 1#: *Quod autem ait praetor; Quaeque ibi ==habuit==; si accipimus, ut omnes res contineantur non solum, quae propriae illius fuerunt, verum et si quae apud eum depositae sunt, vel ei commodatae, vel pignoratae, quarumque vel usum, vel usumfructum, vel custodiam ==habuit==, vel si quae ei locatae sunt. Cum enim dicit praetor ==habuit==, omnia haec habendi verbo continentur*.
+(1) +Habere+ etiam pro habitare atque morari apud #Ciceronem# atque #Livium# poni. #Gifanius loc. persaepe cit. p. 105# testatur. Quod autem proprie sit "==habere== honorem", et "==habere== honores", tradit #Hadrianus Card. loc. cit. p. 193#.
+(2) Tenere a τείνειν, h. e. tendere, derivatur. Ad tenendum enim aliquid nervos tendi est necesse. Ideoque tenere idem est, quam apprehensum habere. 
+
+$$870$$
++Habere+ potest etiam fur et nequam; +Possidet+ nemo, nisi qui rei relictae, aut donatae, aut emtae dominus est. Ita in habente onus, in possidente ius est. #Front.# #R.3
+
+$$871$$
++Habitus+ intelligitur omnis corporis cultus ornatusque: ut "habitus militaris, religiosus, scenicus". Denotat et +habitus+ roboratam in animo consuetudinem; cum proprie sit, quicquid quis habet proprium. +Vestitus+ nomine sola vestimenta continentur. Unde #M. Cato# orationes inscripsit, unam de habitu, alteram de vestitu. #Svet. Cal. LII#: *==Vestitu== calceatuque et cetero ==habitu== neque patrio, neque civili*. #Id. Ner. XXXVIII#: *In illo suo scenico ==habitu==*. #Tacit. Hist. II. 5#: *==Veste== ==habituque== vix a gregario milite discrepans*. #Cic. Verr. VI. 3#: *Virginali ==habitu== atque ==vestitu==*.
+
+$$872$$
++Has manus+ huius hominis dicimus, +hanc manum+ multos homines coniungentes. #Agraet.#
+
+$$873$$
++Hasta+, quod astans solet ferri. +Iaculum+, quod ut iaciatur, fit. +Tragula+ a traiiciendo. #Varro.# #R.#
+
+$$874$$
++Hebescit+ (1) quod natura obstupescit; +Hebetescit+, quod amittit aciem. #Front.#
+(1) Conf. #Perotti Cornucopiae epigr. CXV. col. 1005#.
+
+$$875$$
++Herbidum+ (1) locum dicimus, in quo herba est, etsi aridus esse consueverit; +Herbosum+, qui herbam facile generat, etiamsi ad tempus aridus sit. #Agr.#
+(1) Alias dicitur +herbidum+, quod est ex herba; +herbosus+ autem locus dicitur herbis abundans. 
+
+$$876$$
++Heros+, i e. vir illustris et divinus, etiam de vivis: +Divus+ de mortuo dicitur. Sic #Bassianus Caracallus# de fratre, quem occiderat: *Sit ==divus==, dum non sit ==vivus==*. Quamquam, crescente in dies adulatione, multis imperatoribus Romanorum adhuc vivis haec appellatio est tributa, v. g. "Divus Rodulfus, Ferdinandus, Leopoldus", etc. Leg. #Goclenius loc. cit. p. 234#. Perperam vero a multis, latine scribentibus, beati coelites, potiusquam _sancti_ ex optimorum scriptorum auctoritate, +divi+ appellantur. Hanc quidem appellationem, a recta scribendi ratione abhorrentem, respuit vel ipsa christiana sapientia. Namque +divi+ a Romanis dicebantur vel dii ipsi, vel imperatores, qui per apotheosin post mortem in deos fuissent relati. Quum autem scriberent "divus Caesar", "divus Claudius", idem plane valebat ac "deus Caesar", "deus Claudius". Quare iam cuique satis perspicuum est, quam inepte hoc veteris superstitionis atque adulationis titulo donentur a chrisnanis scriptoribus viri, qui summa quadam integritate, innocentia et pietate insignes, digni habiti fuerunt, qui religiose post mortem a nobis colerentur. #Th. Vall.#
+
+$$877$$
++Heus+ adverbium vocantis; +Heu+ respondentis et dolentis. #Agr.#
+
+$$878$$
++Hiare+ (1) est ore aperto esse, seu os diducere, vel tacitum tamen; +Hiscere+ est incipere loqui, auctore #Diomede#. Unde _hoc_ convenit homini tantum; _illud_ etiam inanimis; sic qui oscitat, +hiat+. Sed flores, dum prorumpunt, +hiscunt+. Cum aperiuntur ligna ariditate, terra aestu, flores maturitate, tum dicuntur +hiare+. #Varro in Marcipore#: *Video ==hiantes==, non audio*. #Sallust. Historiar. II#: *Atque ==hiavit== humus multa vasta et profunda*. #Virg. Aen. III. 313#: *Raris turbatus vocibus ==hisco==*. #Liv. VI. 16#: *Nec attollere oculos aut ==hiscere== audebant*.
+(1) +Hiare+ est aliquid sua se sponte vel externa aliqua vi aperire vel discindere, ut tellus aestu et lingua ariditate vel nimio labore hiant. +Hiscere+ est tantum oris, et quidam humani, accipiturque pro eo quod est loqui, aut os aperire ad loquendum. #Anton. in Virg. Georg. I.# #R.#
+
+$$879$$
++Hiberna+ sunt loca ubi milites hiemem transigunt, velut in urbibus, vicis. +Hibernacula+ sunt tentoria scortea, sub quibus hiberno tempore retinentur. Unde "sub pellibus esse", et "hibernare" dicuntur. #Sallust. Iug. XXXVI#: *Milites mense ianuario ex ==hibernis== in expeditionem evocat*. #Liv. V. 2#: *==Hibernacula== etiam, res nova militi romano, aedificari coepta*. #Tac. Ann. XIV. 38#: *Contractus deinde omnis exercitus sub pellibus habitus est ad reliqua belli perpetranda*. Sed interdum +hibernacula+ eadem, quae +hiberna+, vid. #Gifanii Observationes in LL. p. 109#. #Tac. Ann. II. 23#: *Legionum aliae itinere terrestri in ==hibernaculo== remissae*.
+
+$$880$$
++Hic+, +Haec+, +Hoc+ usurpantur de rebus quae in manu nostra, aut prope nos sunt; +Iste+, +Ista+, +Istud+ de rebus quae a nobis absunt aut in manu aliena versantur. #Plaut. Trin. IV. 2. seq.#: *Pater ==istius== adolescentis dedit ==has== duas mihi epistolas*. Et paucis interiectis versibus, Charmides petit a Trinumo #(IV. 2. 57)#; *ab ipson' ==istas== accepisti?* #Terent. Heaut. I. 1. 36#: *At ==istos== rastros interea tamen adpone*. Et paullo post #(l. 1. 40)#: *Hui tam graves ==hos== quaeso?* #Th. Vall.#
+
+$$881$$
++Hirundo+ avis est, quae tignis adhaeret, seu est avicula aestate tectis haerens, hieme recedens. De +hirundine+ domestica agit #Conradus Gesnerus Histor. Animal. p. 528. seq.# Eas autem diversas esse, tradit #idem ibid. p. 543. seq.# Vid. #Plin. HN. X. 49#. +Hirudo+ est vermis aquaticus, haerens cuti et hauriens sanguinem. Inde et dicta sanguisuga. #Agr.#
+
+$$882$$
++Hispanos+ (1) cum dicimus, nomen nationis ostendimus; cum autem +hispanienses+, cognomen eorum, qui provinciam +Hispaniam+ incolunt, etiamsi non sint +hispani+. #Fl. Sosip.#
+(1) Adde et +hispanicus, a, um+. Ut "hispanicum bellum", h. e. in Hispania gestum; "hispanicus gladius", i. e. in Hispania factus; "exercitus hispanicus", qui constat ex hispanis. Conf. #Gifanii Observ. LL. p. 109#.
+
+$$883$$
++Historia+ est eorum temporum, quae vidimus, vel videre potuerimus, dicta ἀπό τοῦ ἱστορεῖν, a videndo; +Annales+ (1) sunt eorum annorum et temporum, quae aetas nostra non novit. Unde #Livius# ex annalibus et historiis constat. Cf. #Gell. V. 18. Serv.#
+(1) +Annales+ secundum annos sunt congesti, ut #Taciti#, et #Dionis Cassii# historia. +Historia+ autem est generalius. +Historia+ orationes habet, affectus commovet, +Annales+, non ita. Vid. #Gell. Schoettgen.# #R.#
+
+$$884$$
++Histrio+ est, qui personatus in scena fabulas agit voce gestuque, seu, qui alicuius personae actiones historice, i. e. ad oculum repraesentat. #Comenius.# Unde idem actor dicitur et ludio, vel ludius, et cantor. +Mimus+ vero est, qui hominum mores et dicta factaque gesticulationibus imitatur, a quo pantomimus omnium personarum, et archimimus personae principis digniorisque effector. Nam e μιμεῖσθαι quod est imitari, +mimus+ dicitur. #Svet. Vesp. XIX#: *==Archimimus== personam eius ferens imitansque, ut est mos, facta ac dicta vivi*. #Arnob. II#: *Quid pantomimos, quid mimulos, histriones, cantores tuba, tibia, calamoque flantes?* #Id. lib. IV#: *Quid ==pantomimi== vestri, quid histriones, quid illa ==mimorum== atque exoletorum multitudo?* Sed haec vocabula aliquando confunduntur, ut quos #Tac. Ann. XIII.# vocat histriones, eosdem pantomimos #Svet. in Nerone XXVI#.
+
+$$885$$
++Homo+ marem iuxta ac foeminam significat. +Vir+ de masculo tantum genere usurpatur; saepe vero non tam sexum notat, quam animi constantiam, fortitudinem, virtutem; quae fere in foeminis desiderantur. #Tacit. Germ. XXVII.#: *Foeminis lugere honestum est; ==viris== meminisse*. #Justin. XI. 13#: *Quemadmodum Dario maiorem turbam ==hominum== esse, sic ==virorum== sibi*. #Cic. Cat. V#: *Catilina utebatur ==hominibus== improbis multis; et quidem optimis se ==viris== deditum esse simulabat*. #Th. Vall.#
+
+$$886$$
++Homonymia+ una voce multa vocabula designat (1); +Synonymia+ multis vocibus idem testatur. #Front.#
+(1) Latine dicitur _aequivocum_ ab aeque et vocando, quia v. g. isto nomine _cancer_ aeque signum zodiaci et carcinoma vocatur, atque piscis. Ita vox _canis_ +homonymia+ est, ab aeque et vocando multas et diversas res ut: "Latrat in orbe ==canis==, nat in aequore, fulget in astris". Haec #Ioannes Herbinius, in clave ad facilitatem et usum logicae lect. IV. p. 19#.
+
+$$887$$
++Honestum+ ad formam; unde #Ciceroni# "honestus eques" idem est, ac probe ornatus ac splendide vestitus eques. +Liberale+ ad vultum refertur. #Donatus.#
+
+$$888$$
++Honos+ (1) appellatur administratio reipublicae cum dignitatis gradu, eaque vel cum sumptu, vel sine erogatione contingens (2); +Munus+ autem, quod cum sumptu, sine dignitate, in republica subimus. Itaque honorem gerens non potest cogi +munus+ aliquod titulo dignitatis institutum administrate; at munus sustinenti +honor+ deferri potest, ut iurisconsulti tradiderunt. #Ulp. Dispulationum I. 7. D. de Decur.#: *Etsi maiores annis septuaginta sint, ==munera== quidem civilia obire non coguntur; ==honores== autem gerere debent*. #Paulus Lib. I. Sententiar. I. 7. D#: *==Honores== et ==munera== non ordinalis omnibus, sed potioribus quibusque iniungenda sunt*.
+(1) +Honor+ dignitatis consummatio, vel privatim vel publice: +laus+ secunda existimatio recte factorum. #Front.#
+(2) Aliquando principatum, terrasque in +feudum+ acceptas, et sic ipsum magistratum, denotat. Unde "honorem gerere" est magistratum gerere. Leg. #Scipionis Gentilis liber singular. Orig. ad Pandect p. 213# et #Reinesii III. Var. Lect. cap. 1. pag. 313.# #Gifanius loc. persaepe alleg. p. 110. seqq.# dicit, *==Honorem== pro honorario, munere atque stipendio quoque sumi*. Qualis autem detur differentia inter +onus+ et +honorem+, tradit #Ioannes Girardus epigramm. legali XLVIII. 69.# his verbis: *Publica (si constat sibi res) incommoda secum, Privatae multum commoditatis habent. Te quoties ==onero==, toties te semper ==honoro==: Quid? quos ==onus== vitas, te quoque vitat ==honor==*.
+
+$$889$$
++Hoplomachum+, sunt qui putent, eumdem esse cum +mirmillone+. #Perizonius ad verba Svet. Calig. XXXV#: *Threci, et mox ==hoplomacho== comparavit, ==hoplomachum== interpretatur ==mirmillonem==, qui graviori armatura erat instructus*. #Lipsius Saturnal. II. 11.# dubius animi est, separetne hoplomachos, an cum mirmillonibus, aut Samnitibus confundat. Nam et in +mirmillonem+ vox graeca convenit, quia tectus armis; at verius fortasse in Samnitem, cuius nomen ante Ciceronem celebre desiisse sub imperatoribus videtur, et abiisse in +hoplomachum+. At res, armaque eadem. #Festus# +mirmillones+ olim Gallos esse adpellatos, monet. Si autem #Lipsii# verbis fides est habenda, utique +hoplomachus+ differt a +mirmillone+.
+
+$$890$$
++Horrendus+ est teter et abominandus in rebus profanis; in sacris +venerandus+, ut #Virg. Aen. III. 677#: *Concilium ==horrendum==*. #Id. ib. VI. 10#: *==Horrendaeque== procul secreta Sibillae*. +Horridus+ vero est incultus, aut durus et rigidus. #Id. ib. IV. 251#: *Et glacie riget ==horrida== barba*. +Horridum+ plerumque extans et prominens, ut in addito versu: #R. Varro in Sesqui Ulysse#: *Tum equum mordacem, calcitronem ==horridus== miles ac vir non vitabat*. Similiter "==horridula== carmina" et "==horridulae== orationes" apud #Cic.# +Horrendum+ aliquando admirandum: +Horridum+ despicabile aliquid adpellamus.
+
+$$891$$
++Horret+ corpus, +trepidat+ cum animi. #Fronto.# Nec tamen hoc discrimen sibi apud scriptores semper constat.
+
+$$892$$
++Hortus+ est locus clausus, ubi olera cibi causa coluntur. Galli appellant <span lang="fr">jardin potager</span>; nos: <span lang="it">un orto</span>. #Plin. HN. XIX. 19#: *Ex ==horto== plebi macellum*. #Cic. Senect. XVI#: *==Hortum== agricolae succidiam alteram appellant*. +Horti+ in numero multitudinis sunt qui deliciarum causa parati, statuis, diaetis, piscinis, ambulacris et topiario opere instruuntur. Italice: <span lang="it">un giardino</span>. #Plin. Ep. VIII. 18#: *Amplissimos ==hortos== eodem quo emerat die, instruxit plurimis et antiquissimis statuis*. #Nep. Attic. XIV#: *Nullos habuit ==hortos==, nullam suburbanam aut maritimam sumptuosam villam*. #Vopisc. Div. Aurel. I#: *Sermonem multum a Palatio usque ad ==hortos== Valerianos instituit*. Vide %Viridarium%. #Th. Vall.#
 
 $$893$$
 +Hospes+ est, qui recipit et qui recipitur. #Agr.# +Hospes+ ex humanitate et amicitia amicos gratis accipit, cui cum altero ius hospitalitatis intercedit. +Caupo+ omnes mercede seu pecunia accipit, et eius domus patet omnibus. #Cic. Divin. I. 37#: *Cum duo quidam Arcades familiares iter una facerent, et Megaram venissent, alterum ad ==cauponem== divertisse, ad ==hospitem== alterum*. Interdum tamen hospes sic confuse dici videtur, ut non tantum +hospes+ hospitem, sed caupo quoque +hospites+ accipiat. #Cic. pro Cluentio LlX#: *Hominem multorum ==hospitum==, A. Binnium quemdam ==cauponem==*. Quamquam si verum quaeramus, et locus totus consulatur, iocus est ac lusus in verbis +caupo+, +hospes+ invitare, hominem accipere, de via decedere. Rursus +hospes+ ac +peregrinus+ saepe pro eodem. Sunt in eam rem apud Tullium testimonia quam plurima. Alias +hospes+ differt ab +advena+ et +peregrino+ qui non sunt nobis amici aut cogniti, nec a nobis eo titulo excipiuntur. Ita #Cic. Agr. II. 34#: *Nos autem hinc Roma qui veneramus, iam non ==hospites==, sed ==peregrini== atque ==advenae== nominabamur*. Omnia sunt perspicua, si #Gesneri# notionem +hospitis+ generalem spectes. +Hospites+ sunt, tam qui in privato alicuius _hospitio_ sunt, quam qui in publico. V. %Peregrinus%.
 
-HosptTIVM et DIVEBSORIVN peregrini est et ad tempus; 
-hoc in medio itinere: illud in eo loco,. quo tendimus, 
-et negotiorum nostrorum causa per aliquod tempus com- 
-morari debemus. Familiaritas quotidipnam requirit con- 
-suetudinem; Taberna seu caupona pretio recipit, et ab 
-ignotis praebetur. Goclen. H. Domus est sedes firma et 
-stabilis. In hospilio el diversorio commoramur (italice : 
-soggiorniamo); domi vero habitamus. Cic. de Senect. sub 
-fin. : Ex vita ita discedo, tamquam ex hospiLio, non 
-tamquam ex domo: commorandi enim natura diversorium 
-nobis, non habitandi locum dedit. TH. VALL. 
-HOSTIA dicta, quod Dii per eam hostiantur, i. e. 
-aequi ac proprii redduntur. Serv., in Aen. Virg.: Sa— 
-cri/icium nominabatur, quoniam animal,omne in se im- 
-purum mola salsa acceptum fiebat Diis. R. Hostia diciLur 
-de parvis animalibus, ut ovibus et volucrihus: Victimtc 
-de magnis, ut lauris (f). Plaut. Pseud. I. 3. 95: Nolo 
-øiclimas, agninis me extis placari volo. Virg. Georg. II. 
-446: Hinc albi, Clitumne, greges et maxima taurus, 
-Victima. Arnob. VII: HosIid8 caedat et vicLimas. ld. ib.: 
-Quoniam voluores hostiarum quoque in; numero ponitis. 
-Gellius .ila distinguit, ul hostia a quolibet; victima eius 
-qui vicerit, manibus debeatj immolari. Isidorus vero, 
-Hostia .esL, inquit •quae,.proelium commissum; 
-victiroa; quae posb, victoriam immolatur. Quam differen- 
-tiam refellil qtymon• bostiae, quod Pastor. I. 
-(l) Eruditus Rachenbergius in Germ. med. c. alle . scribit 
-ipsas victimas apad plerosque olim commodassø umanum 
-sanguinem, effusam ante Deorum aras, et, diro carmine de- 
-votum: introducta immani illa ac barbara Scytharum consue— 
-tudine, qui Deos immortales. hominum scelere ac sanguine 
-posse placare arbitrabantur. 
-Popmu 
-Google 
-Digitizeö by 
+$$894$$
++Hospitium+ et +Diversorium+ peregrini est et ad tempus; _hoc_ in medio itinere: _illud_ in eo loco, quo tendimus, et negotiorum nostrorum causa per aliquod tempus commorari debemus. +Familiaritas+ quotidianam requirit consuetudinem; +Taberna+ seu +caupona+ pretio recipit, et ab ignotis praebetur. #Goclen.# #H.# +Domus+ est sedes firma et stabilis. In +hospitio+ et +diversorio+ commoramur (italice: <span lang="it">soggiorniamo</span>); +domi+ vero habitamus. #Cic. de Senect. sub fin.#: *Ex vita ita discedo, tamquam ex ==hospitio==, non tamquam ex ==domo==: commorandi enim natura ==diversorium== nobis, non habitandi locum dedit*. #Th. Vall.#
+
+$$895$$
++Hostia+ dicta, quod Dii per eam hostiantur, i. e. aequi ac proprii redduntur. #Serv. in Aen. Virg.#: *==Sacrificium== nominabatur, quoniam animal, omne in se impurum mola salsa acceptum fiebat Diis*. #R.# +Hostia+ dicitur de parvis animalibus, ut ovibus et volucribus: +Victima+ de magnis, ut tauris (1). #Plaut. Pseud. I. 3. 95#: *Nolo ==victimas==, agninis me extis placari volo*. #Virg. Georg. II. 146#: *Hinc albi, Clitumne, greges et maxima taurus, ==Victima==*. #Arnob. VII#: *==Hostias== caedat et ==victimas==*. #Id. ib.#: *Quoniam volucres ==hostiarum== quoque in numero ponitis*. #Gellius# ita distinguit, ut +hostia+ a quolibet; +victima+ eius qui vicerit, manibus debeat immolari. #Isidorus# vero, +Hostia+ est, inquit, quae, proelium commissum; +victima+, quae post, victoriam immolatur. Quam differentiam refellit etymon _hostiae_, quod tradit #Ovid. Fastor. I. 336#: *Hostibus amotis ==hostia== nomen habet*. Sed observavit iam #Servius#, haec licenter confundere auctoritatem; v. #Brissonius de formulis l. I. p. m. 13#. +Hostia+ est ducis, cum ad hostem proficiscitur; +Victima+ cum venit; +Holocaustum+ igne consumitur; +Sacrificium+ est generale. #H.#
+(1) Eruditus #Rachenbergius in Germ. med. c. alleg.# scribit ipsas +victimas+ apud plerosque olim commodasse humanum sanguinem, effusam ante Deorum aras, et, diro carmine devotum: introducta immani illa ac barbara Scytharum consuetudine, qui Deos immortales hominum scelere ac sanguine posse placare arbitrabantur.
+
+$$896$$
++Hostis+ ille dicitur, adversus quem publice bellum gerimus; +Inimicus+, cum quo simultates aut odium exercemus. #Cic. Leg. Manil. X#: *Qui saepius cum ==hoste== confixit, quam quisquam cum ==inimico== concertavit*. #Th. Vall.#
+
+$$897$$
++Huiusce+ et +Huiusque+ diversa esse tradit #Victorinus in libro de orthographia# his verbis: *==Huiusce== et ==huiusque== recte scribuntur, sed suo loco utraque. Nam ab hocce et hacce fit ==huiusce==; ==huiusque== autem aliud significat, id est, uniuscuiusque*. Conf. #Brissonii de Formulis I. 52#. Ego posterioris significationis exemplum apud idoneos scriptores nondum inveni; et credo ita differre sola scriptura propter affinitatem litterarum C. et Q. de qua diximus #lib. I. de usu antiquae locutionis#. Itaque eadem est fortuna +huiusce+ diei et +huiusque+ diei apud #Ciceronem#, #Plinium# et alios. 
+
+$$898$$
++Humatus+ intelligitur humo contectus; sic inhumatus est insepultus; exhumatus vero e sepultura extractus. +Sepultus+ (1) quoquo modo conditus, ut qui in sarcophago, hypogaeo, vel pyramide situs est. #Cic. Tusc. I. 43#: *Cuius hoc edicto admoneor, ut aliquid etiam de ==humatione== et ==sepultura== dicendum existimem*. #Id. de Legibus II. 22#: *Quod nunc communiter in omnibus ==sepultis== ponitur, ut ==humati== dicantur, id erat proprium tum de his, quos humus iniecta contegeret*. Vetus inscriptio: *Inferendi. in. area. humandi. sepeliendique. ius. potestasque. esto*.
+(1) De huius vocabuli origine vid. #Perottus loc. cit. epigr. XXX. col 831. lin. 51. seqq.# 
+
+$$899$$
++Humanitas+ et +Litterae+ saepe coniunguntur, sed tum +humanitas+ significat doctrinam politiorem elegantioremque; vid. #Schardii Lexicon Iuridic. p. 424. seqq.# +Litterae+ scientiam communium et variarum artium. #Varro R. R. I#: *Qui sint ==litteris==, aliqua ==humanitate== imbuti*. #Cic. Verr. VI. 44#: *Tu sine ulla bona arte, sine ==humanitate==, sine ==ingenio==, sine ==litteris== intelligis et iudicas*. #Id. pro Arch. II#: *Patiamini de studiis ==humanitatis== ac ==litterarum== paulo loqui liberius*. #Id. de Orat. II. 17#: *Homini non hebeti, neque inexercitato, neque communium ==litterarum== et politioris ==humanitatis== experti*.
+
+$$900$$
++Humaniter+ significat φιλανθρώπως, +Humane+ autem ἀνθρωπίνως, quibus addendum +humanitus+, quod idem est, ac humano more, quae tamen differentia nimis ieiuna atque coacta est. #Westerhovius ad Ter. Heaut. I. 1. 47#: *Quod Charisius et Diomedes grammatici ita distinguunt inter ==humane==, ==humanitus== et ==humaniter==, ut ==humane== sit ἀνθρωπίνως, ==humanitus== et ==humaniter== φιλανθρώπως in eo quidem falluntur*. #Plin. HN. X. 83#: *Ursi humanitus strati*, i. e. ἀνθρωπίνως, more hominum. #Nonius# +humanitus+ et +humaniter+ ἰσοδύναμα facit.
+
+$$901$$
++Humidum+ est, quod extrinsecus seu exterius habet aliquid humoris; +Madidum+ vero atque +uvidum+, quod intrinsecus, unde _uvae_ dicuntur, ut tradit #Servius#, cui non assentior. +Humidum+ (1) enim proprie est, quod in profundo continet humiditatem, ut terra; +uvidum+ est, quod in superficie tantum, ut lapides in flumen deiecti, festes rore aut fluctibus adspersae, quas _uvescere_ dixit #Lucret. I. 306 et 307# his verbis: *Denique fluctifrago suspensae in littore vestes ==Uvescunt==, eaedem dispansae in sole serescunt*. #Virg. Ecl. X. 20#: *==Uvidus== hiberna venit de glande Menalcas*. _Illud_ Graecis est ὑγρόν, _hoc_ διερόν, ut #Aristoteles# disserit #de Ortu et Interitu II#: *==Madidum==, quod madefactum ita est, ut liquor permeet totum corpus*.
+(1) Quemadmodum a _succidus_, quod est succulentus, seu succiplenus, bonae notae verbum _succidare_ defendit; sic ab +humidus+ _humidare_, et quidem adnotante litteratissimo #Reinesio Var. Lect. II. 8. p. 196.# qui et #lib. III. 18. p. 675.# dicit, _humidare_ verbum apud #Gariop. V. 33.# etiam extare.
+
+$$902$$
++Humidum+ est, quod humorem habet; +Humectum+, quod humorem inducit. #Pacuvius#: *Terra exhalat auroram ==humidam==, ==humectam==*.
+
+$$903$$
++Hunc+ et +Istum+ in proximo notant; +illum+ ostendit quidem longe stantem, sed in conspectu; +eum+ absentem refert. Alias +hunc+ ponimus, quando de prima; +illum+, quando de secunda et +istum+ quando de tertia persona est imprimis sermo. #Front.#
+
+$$904$$
++Hymnus+ fit voce naturali; +Psalmus+ aliquo musico instrumento.
+
+$$905$$
++Hypotheca+ proprie dicitur de re solo inhaerente; quae sine traditione, nuda conventione tenetur; +Pignus+ vero de re mobili, cuius possessio tradita est creditori, usque dum quid praestetur, vel fiat a debitore, ut scribunt iurisconsulti #IX. § 2. D. de Pign. Act. I. 238#: #Inst. de Act. § 7. D. de Verb. Sign.# +Hypotheca+ est pignus immobile, quod creditori obligatur, quod ad ius et potestatem attinet, possessione apud debitorem remanente; +pignus+, proprie sic dictum, in manus vel aliter possidendum traditur creditori, cuius possessionem ad tempus consequitur creditor; ceterum dominium penes debitorem est. Quae tamen differentia et proprietas raro (1) observatur, et pignus de re immobili dicitur. #Ter. in Phorm. IV. 3. 56, 57 et 58#: *Ager oppositus est ==pignori== ob decem minas, Aedicula item ob decem alias*. #Tac. Histor. III. 65#: *Domo agrisque ==pignori== acceptis*. #Ulpianus ad edictum 25. D. de Relig. II#: *Is, qui ==pignori== dedit agrum, si in eum suum mortuum intulerit, religiosum eum facit*. #Papinianus responsor. D. de Pign. I. 2#: *Cum praedium ==pignori== daretur, nominatim, ut fructus quoque ==pignori== essent, convenit*. Quin etiam ipsi iurisconsulti, cum ad naturam actionum respiciunt, his duobus nominibus promiscue utuntur pro qualicumque re, de qua inter creditorem et debitorem convenit, ut sit pro debito obligata. Unde #Marcianus libro singulari ad formulam hypothecariam D. de Pign. VI#: *Inter ==pignus==*, inquit, *et ==hypothecam== tantum nominis sonus differt*; videlicet quantum ad actionem hypothecariam attinet, nihil interest praeter sonum et originem, qua alterum latinum nomen est, alterum graecum ab ὑποτίθημι.
+(1) Vid. #Iohann. Arnoldi Corvini Posthumus Pacianus, lib. IV. Definite 2. p. 112. Edition. secundae.#
+
+$$906$$
++Iacimus+ tela; +Obiicimus+ crimina. #Goclen.# #R.#
+
+$$907$$
++Iactamur+ mari; +Fatigamur+ in terris. #H.#
+
+$$908$$
++Ianua+ est in ingressu aedium, dicta, quia Iano consecratum erat omne principium; +Ostium+ est in partibus interioribus, sive est pars ianuae, qua patet introitus et exitus quasi os aedium dictum. #Plaut. Pers. V. 1. 6#: *Hic volo ante ==ostium== et ==ianuam==*. Sed haec fere confunduntur, sicut eadem sunt ianitor et ostiarius. +Fores+ proprie dicuntur, quae sunt in primo aedium ingressu, dictae ab eo, quod foras spectent, seu quae foris aperiuntur, sicut apud veteres. #R.# +Valvae+ autem sunt fores duplices, complicabilesque, quae ut ait #Varro#, revolvuntur, et se velant. Sed in communi sermonis usu generaliter dicuntur omnia ostia, +fores+ et +valvae+, nec refert qua parte aedium collocatae, simplices an geminae sint. #Serv.# Vid. %Porta%.
+
+$$909$$
++Ieiunium+ dies est, +Ieiunitas+ cibi abstinentia. #Front.# #R.#
+
+$$910$$
++Igitur+ sententias coniungit et continuat; +Nunc+ tempus praesens indicat. #H.#
+
+$$911$$
++Ignarus+ est, qui ignorat (1); +Immemor+, qui oblitus est. #Serv.#
+(1) Contra #Guarus# rem novit. Gravitas autem rerum ignorantiae ideo est praeferenda, ne nos ignoratio in peccata praecipitet. #Comenius.#
+
+$$912$$
++Ignavia+ est tarditas in exequendis negotiis (1); +Pigritia+ seu +pigredo+, sive +pigritudo+ (utpote quibus vocibus veteres promiscue sunt usi) in aggredientis; +Inertia+ agendi inscientia, quam parit +ignavia+. Itaque +ignavus+ nihil efficit; +piger+ otiosus desidet et nihil molitur; +iners+ imperite agit. #Cic. Off. I. 29#: *Nec propter ==pigritiam== aut ==ignaviam== deserant*. #Id. Cornif.#: *Nec tua ==ignavia== etiam ==inertiam== adferat*.
+(1) Sic +Ignavus+ nihil efficit; cum contra gnavus in negotiis semper est strenuus. Quoniam itaque gnavitas ad omnia prodest, merito +ignavia+, monente #Comenio#, fugienda. 
+
+$$913$$
++Ignominia+ imponitur ab eo, qui potest animadversione notare. +Infamia+ ex multorum sermone nascitur. (1). #Front.#
+(1) Pertinet autem +Infamia+ ad famosas tantum et turpes actiones, quae ex contractu, vel ex delicto oriuntur, sicuti tradit #Ludvell. Commentar. Inslit. IV. tit. XVI. § 2, p. 651#, et est bonae famae prorsus contraria, quoniam pro omni turpitudinis dedecorisque genere etiam ponitur, et persaepe ad ipsam personam refertur. Leg. #Doleti phrases, seu formul. LL fol. 76. fac. b. col. 1#. +Ignominiam+ autem minus esse, quam +infamiam+, inde palet quoniam ignominiosi non sunt infames, ut infamium ac damnatorum poenis teneantur, quemadmodum passim Icti aque politici testantur. Sed haec differentia non utique satis custoditur.
+
+$$914$$
++Ignoratio+ et +Ignorantia+ hoc differunt, quod +Ignoratio+ est rei quae nescitur, nec sciri potest, nisi prodatur (1); +Ignorantia+ autem est rei, quae sciri potest: aut debet, sed errore hominum, aut negligentia ignoratur. #Cic. Amic. XIX#: *Ut in fabulis, qui aliquamdiu propter ==ignorantiam== stirpis et generis in famulatu fuerint*. Aliquando tamen +ignorantia+ sumitur pro ignoratione. #Cic. Flacc. XX#: *Ubi adolescentes nihil possent discere, nisi ==ignorantiam== litterarum*. #Lucr. VI. 53#: *==Ignorantia== causarum conferre Deorum Cogit ad imperium res*.
+(1) Sed +ignoratio+ sui est, cum quis se effert et superbe gerit cum tamen sit humilis et infimi loci. #Cicero pro Cluentio# de superbo quodam tribuno plebis sic scribit: *Quinctio, quod erat odium, Dii immortales! Quae superbia, quanta ==ignoratio==, quam gravis atque intolerabilis ==ignorantia==!*
+
+$$915$$
++Ignorare+ est non satis cognitum et exploratum habere. +Nescire+ omnino non scire. _Alterum_ est imprudentis, aut negligentis, _alterum_ inscientis et imperiti. #Arnob. II#: *Hoc ipsum ==ignorans== et ==nesciens==*. #Id. ib.#: *Confitemur nos ==ignorare==, ==nescire==, etc. Quid ergo? nos soli ==ignoramus==, ==nescimus==*. #Svet. Claud. XXIX#: *Impunitates, supplicia largitus est, et quidem inscius plerumque et ==ignarus==*.
+
+$$916$$
++Ignoscit+ qui dissimulat se nosse, quod comperit, et ita silentio peccata impunita dimittit; omnibus autem ignoscere, hoc est, quae punienda iudicantur, non punire et nulli ignoscere: aeque crudele #Seneca# censet, #Clement. II. 2#. +Concedit+, qui omnia peccata condonat. #Fronto.# +Indulget+, qui peccaturis humanum se ac benignum praebet. #Th. Vall.#
+
+$$917$$
++Illex+ et +Illix+ (proprie avem alios allicientem denotans) hoc differre volunt, quod +illex+ sit, a quo lex non servatur; +Illix+ qui inlicit et invitat (1); in quo sane illis adsentior. Nam ab inliciendo dicitur promiscue +illix+ et +illex+, ut pellex a pelliciendo. #Varro LL. IX#: *Hoc ipsum iudicium scriptum inveni in M. Iunii Commentariis, quod tamen ibi idem est, quod illiciti ==illex==, quia I cum E et cum X magnam habet communitatem*. #Plaut. Asin. I. 3. 67#: *Lectus ==illex== est*. #Id. Poen. III. 4. 36#: *Qui illi malae rei tantae fuimus ==illices==*.
+(1) +Illex+, producta sequenti syllaba, significat, qui legi non paret, qui legem putat tenere se nullam. +Illex+, correpta sequente syllaba, significat inductionem ab illiciendo. #R.#<br/> Unde illicere et _illectare_ et _inescare_, seu aliquem in aliquid blanditiis trahere. Est autem res plena periculi speciosis illectamentis illici et vanis oblectamentis oblectari et quidem #Comenio# sic monente. Ponitur et illicere pro persuadere, vel in sententiam aliquem attrahere, quemadmodum +illex+ pro suasore.
+
+$$918$$
++Illius similis+ ad mores refertur; +Illi similis+ ad vultum: _hoc_ ad formam externam; _illud_ ad qualitatem spectat. #Clarus.#
+
+$$919$$
++Illuvies+ sordium est; +Ingluvies+ ventris. _Illud_ quidem a lavando; _hoc_ ab inglutiendo dictum. #Agraet.#
+
+$$920$$
++Imago+ et +Idolum+ theologice sic differunt, ut _illa_ ad ornamentum, vel ad res gestas monstrandas fiat; _hoc_ autem numquam, nisi ad miserorum animas sacrilego ritu et varia superstitione illiciendas, sicut tradit #Henricus Hoepffnerus Sect. III. Saxoniae evangelicae c. VII. p. 441#. _Hoc_ ad seipsum dicitur; _illa_ vero ad aliquid. Ideoque dicitur alicuius rei, sive animatae, sive inanimatae, +exemplum+, seu +exemplar+, sive +repraesentatio+. Conf. #Dolet. loc. nuper ad Not. CC. alleg. fol. 74. fac. a. col. 1#. Proprie autem inter +exemplum+ atque +imaginem+ haec datur differentia, quod +exemplum+ ponatur, ut aliquid fiat, +imago+ autem nullum talem finem habeat; sed ut duae res sub una atque aequati intellectione comprehendantur propter assimilationem, quae dicitur ὁμοίωσις. Vid. #Scaligeri Poët. III. c. XLIX. p. 292#. #H.#
+
+$$921$$
++Imber+ est aqua largius ex concretis nubibus cadens. Differt a +nimbo+, qui repentinus est, praeceps et brevior; a +pluvia+, quae iugis et lentior. #Ovid. Metam. XI. 516#: *Cadunt largi resolutis nubibus ==imbres==*. #Liv. I. 16#: *Subito coorta tempestas cum magno fragore tonitribusque, tam denso regem operuit ==nimbo==, ut conspectum eius concioni abstulerit*. #Cic. ad Att. XV. 16#: *Equidem ==pluvias== metuo, si prognostica nostra vera sunt. Ranae enim ῥητορεύουσιν*. Quum haec scriberet #Tullius#, erat in villa ad Lucrinum lacum. Quare metuebat, ne reditus suus in Tusculanum diuturnis illis pluviis intercluderetur, quae rusticantibus aut iter acturis molestiam afferre consueverunt. +Imbrex+ V. %Tegula%. #Th. Vall.#
+
+$$922$$
++Imbutus litteris+ est qui non plane est doctrina perfusus, nec perfectus litteris, sed qui leviter est institutus et solum litterator. +Imbuere+ enim est proprie aliquid inficere primo succo aut levi colore. +Instructus+ autem litteris dicitur, qui est probe doctus atque eruditus. #Svet. Gramm. IV.#: *Cum familia aliquis venalis produceretur non temere quem litteratum, in titulo, sed litteratorem inscribi solitum esse; quasi non perfectum litteris, sed ==imbutum==*. #Cic. Tusc. I. 7.#: *An tu dialecticis ne ==imbutus== quidem es?* #Cic. Orat. III. 16#: *Omnibus ingenuis artibus ==instructus==*. #Tac. de Orat.#: *Quin elementis studiorum, etsi non ==instructus==, at certe ==imbutus== sit*. #Th. Vall.#
 
 
-336: Hostibus amotis hostia nomen habet. Sed obser- 
-•vavit iam Servius, haec licenter confundere auctorita- 
-tem; v. Brissonius de formulis l. I. p. m. 43. Hostia 
-est ducis, cum ad hostem proficiscitur; Victima cum 
-unit; Holocaustum igne consumilur; Sacrificium est ge- 
-nerale. H. 
-HOSTIS ille dicitur, adversus quem publice bellum 
-gerimus; Inimicus, cum quo simullates aut odium exer- 
-cemus. Cic. Leg. Manil. x: Qui saepius cum hoste con- 
-fixit, quam quisquam cum inimico concertavit. TH. VALL. 
-Hv1YSCE et HVIVSQVE diversa esse tradit Victorinus in 
-libro de orthographia his verbis: Huiusce et huiusque 
-recte scribuntur, sed suo loco utraque. Nam ab bocce 
-et hacce fit huiusce; huiusque autem aliud significat, id 
-est, uniuscuiusque. Conf. Brissonii de Formulis I. 52. 
-Ego posterioris significationis exemplum apud idoneos 
-scriptores nondum inveni; et credo ita differre sola scri- 
-ptura propter amnitatem litterarum C. et Q. de qua di- 
-ximus lib. I. de usu antiquae locuLionis. Itaque eadem 
-est fortuna huiusce diei et huiusque diei apud Ciceronem, 
-Plininm et alios. 
-HVMATVS intelligitur humo contectus; sic inhumatus 
-est insepultus; exhumatus vero e sepultura extractus. 
-Sepultus (I) quoquo modo conditus, ut qui in sarco- 
-phago, hypogaeo, vel pyramide situs est. Cic. Tusc. •I. 43: 
-Cuius hoc edicto admoneor, ut aliquid eliam de huma- 
-tionc et sepultura dicendum existimem. ld. de Legibus 11. 
-22: Quod nunc communiter in omnibus sepultis ponitur, 
-ut humati dicantur, id erat proprium lum de his, quos 
-humus iniecta contegeret. Velus inscriptio: Inferendi. 
-in. area. -humandi. sepeliendique. ius. potestasque. esto. 
-HVMANITAS et LITTERAE saepe coniunguntur, sed tum 
-humanitas significat doctrinam politiorem elegantiorem- 
-que; vid. Schardii Lexicon luridic. p. 424. seqq. Lit- 
-terae scientiam communium et variarum artium. Varro 
-R. R. I: Qui sint titteri8, aliqua humanitate imbuti. Cic. 
-Verr. VI. 44: Tu sine ulla bona arte, sine humanitate, 
-sine in enio, sine litteris intelligis et iudicas. ld. pro 
-Arch. H: Patiamini de studiis humanitatis ac litterarun 
-paulo loqui liberius. ld. de Orat. 11. 47: Homini non 
-(1) De huius vocabuli origin. vid. Perottus loc. cit. epigr- 
-xxx. col 831. lin. 51. seqq. 
-Dagltzet by 
-0081e 
-
-
-hebeti, neque ülexercitato, neque communium littercrum 
-et politions iumanitalis experti. 
-HYMANITER,significat ..tXzv9rp6TØ<, Humane autem 
-quibus addendum humanitus, • quod idem 
-est, ac humano more, qnae tamen differentia nimis 
-ieiuna atque coacta est. Westerhovius ad Ter. Heaut. 
-l. f. 47: Quod •Charisius et Diomedes grammatici ita 
-distinguunt inter humane, humanilus et humaniler, ut 
-humane sit humanitus et humaniter 
-in eo quidem falluntur. Plin. HN. x. 83: Ursi 
-humanitus strati, i. e. more hominum. 
-Nonius humanitus et humamter icoåvvayæ facit. 
-HvMIDVM.:est, quod extrinsecus seu exterius habet ali- 
-*quid humoris; Madidum vero atque uvidum, quod intrin- 
-secus, unde uvae dicuntur, ut tradit Servius, cui non 
-assentior. Humidum (4) enim proprie est, quod in pro- 
-fundo continet humiditalem, ut terra; uvidum est, quod 
-in superficie tantum, ut .lapides in flumen deiecti, festes 
-rare aut nudibus adspersae, quas uvescere dixit Lucret. 
-I. 306 et 307 his verbis: Denique fluctifrago suspensae 
-in liltore . vestes Uvescunt, eaedem dispansae in sole se- 
-•rescunt. Virg. Ecl. x. 20: Uvidus hiberna venit de glande 
-mud Graecis est åypby, hoc ut Ari- 
-s10teIes disserit deOrtu et Interitu 11: Madidum, quod 
-madefaclum ita est, ut liquor permeet totum corpus. 
-mVMIDVM esl, quod humorem habet; Humectum, quod 
-humorem inducit. Pacuvius: Terrat exhalat auroram hu- 
-nidam, humedlam. 
-HVNC et ISTVM in proximo notant; illum ostendit qui- 
-*dem longe stantem, sed in conspectu; eum absentem 
-retert. Alias hunc ponimus, quando de prima; illum 
-nquando de secunda et istum quando de tertia persona 
-est imprimis sermo. Front. 
-HYMNY.S fit voce naburali; Psalmus aliquo musico 
-sannmento. 
-HYPOTHECA proprie dicitur de re solo inhaerente; quae 
-. sine traditione, nuda conventione tenetur; Pignus vero do 
-re mobili, cuius possessio tradita est creditori, usque dum 
-(l) Quemadmodum a succidus, quod est succulentus, seu 
-•succiplenug, bonae notae verbum succidare, defendit; sic ab 
-hunndus humidare et quidem adnotante litteratissimo Rei- 
-'. . 196. qui et lib. 111. 18. p. 675. dicit, 
-nesio Var. Lect. 11.-8 
-mumidare verbum tapu\ Gariop. Y. 33. etiam extare. 
-Google 
-Digitizeö by 
-
-
-quid praestetur, vel fiat a debitore, ut scribunt iur(s. 
-consulti IX. 2. D. de Pign. Act. I. 238: Inst. de Act. 
-7. D. de Verb. Sign. Hypotheca est pignus immobile, 
-quod creditori obligalur, quod ad ius et potestatem al— 
-Einet, possessione apud debitorem remanente; pignus, 
-proprie sic dictum, in manus vel aliter possidendum 
-traditur creditori, cuius possessionem ad tempus con- 
-sequitur creditor; ceterum dominium penes debitorem 
-est. Quae tamen differentia et proprietas raro (f) ob- 
-servatar, et pignus de re immobili dicitur. Ter. in 
-Phorm. IF. 3. 56, 57 el 58: Ager oppositus est pignori 
-0b decem minas, Aedicula item 0b decem alias. 
-Histor. 111. 65: Domo agrisque pignori acceptis. Ulpianus 
-ad edictum 25. D. de Relig. II. Is, qui pignori dedit 
-agrum, si in eum suum mortuum intulemt, religiosum. 
-eum facit. Papinianus responsor. D. de Pign. I. 2: Cum 
-praeditim pignori daretur, nominatim, ut fructus quoque 
-pignöri essent, convenit. Quin etiam ipsi iurisconsulti, 
-cum ad maturam actionum respiciunt, his duobus no-- 
-minibus promiscue utuntur pro qualicumque re, de qua 
-inter creditorem et debilorem convenit, ut sit pro de— 
-bito obligata. Unde Marcianus libro singulari ad formu- 
-}atn hypothecariåm D. de Pign. VI: Inter pignus, inquit, 
-et hypothecam tantum nominis sonus differt; videlicet 
-quantum ad actionem hypothecariam attinet, nihil in— 
-terest praeter sonum et originem, qua allerum latinum 
-nomen est, alterum graecum ab 
-1. 
-IACIMVS tela; Obiicimus crimina. Goclen. R. 
-IACTAMVR mari; Fatigamur in terris. H. 
-IANYA est in ingressu aedium, dicta, quia lano con— 
-secratum erat omne princiTium; Ostium est in partibus 
-interioribus, Sive est pars ianuae, qua patet introitus 
-et exilus quasi os aedium dictum. Plaut. Pers. v. d. 
-6: Hic volo •anto ostium et ianuam. Sed haec fere con- 
-funduntur, sicut eadem sunt ianitor et ostiarius. Fores 
-proprie dicunlur, quae sunl in primo aedium ingressu, 
-a) Fid. Iohann. Arnoldi Corvini Posthumus Pacianus, lib. 
-lv. Definite 2. p. 112. Edition. secundae. 
-by 
-008 le 
-
-
-245 
-QI) •eo, quod foras spectent, seu quae foris ape- 
-•riuntur, .sicut apud veleres. R. Vglvae autem stint fores 
-•duplices, complicabilesque, quae ut ait Varro, revol- 
-•wuntur, et se velant. Sed in communi sermonis usu ge- 
-neraliter dicuntur omnia ostia, fores et valvae, nec refert 
-qua parte aedium collocatae, simplices an geminae sint. 
-Serv. Vid. Porta. 
-IEIVNIH{ dies est, leiunitas Cibi abstinentia. Front. R. 
-IGITVR sententias coniungit el continuat; Nunc tempus 
-praæns indicat. II. 
-IGNARVS est, qui ignorat (1); Immemor, qui oblitus 
-est. Serv. 
-IGNAVIA est tarditas in exequendis negotiis (2); Pi- 
-grilia seu pigredo, Sive pigritudo (utpote uibus vdcibus 
-veteres promiscue sunt usi) in aggredien is; Inertia 
-agendi Inscientia, quam parit ignavia. Itaque ignavus 
-nihil emcit; piger otiosus desidet et nihil molitur; iners 
-imperite agit. Cic. Off. I. 29: Nec propter pigtiliam 
-aut ignajiam deserant. ld. Cornif. : Nec tua ignavia elium 
-inertiam adferat. 
-IGNOMINIA imponilur ab eo, qui. potest animadversio- 
-ne notare. Infamia ex multorum sermone nascitur. (3). 
-Front. 
-IGNORATIO et IGNORANTIA hoc differunt, quod Ignbratio 
-est rei quae nescitur, nec sciri polest, nisi prodatur (4); 
-(l) Contra Guarus rem novit. Gravitas autem rerum igno- 
-ranLiae ideo est praeferenda, ne nos ignoratio in peccata 
-•praecipitet. Comenius. 
-(2) Sic Ignavus nihil emcit; cum contra gnavus in negotiis 
-semper eststrenuus. Quoniam itaquegnavitas ad omnia prodest, 
-merito ignavia, monente Comenio. fugienda. 
-(3) Pertinet autem Infamia ad famosas tantum et turpes 
-actiones, quaA ex contractu, vel ex delicto oriuntur, sicuti 
-tradit Ludvell. Commentar. Inslit. 19'. tit. xvl. 2, p. 651, et 
-est bonae famae prorsus contraria, quoniam pro omni turpi- 
-tudinis dedecorisque genere etiam ponitur, et persaepe ad 
-ipsam personam refertur. Leg. Doleti phrases, seu formul. 
-LL fol.'76. fac. b. col. I Ignominiam autem minus e3se, 
-quam infamiam. inde palet quonlam ignominiosi non sunt. 
-infames, ut infamium ac damnatorum poenis teneantur, quern- 
-admodum •passim IC'i aque politicl testantar. Sed haee 
-differentia non utique satis custoditur. 
-(4) Sed ignoratio sui est. cum quis se effert et superbe 
-gerit•cum tamen sit humilis et innml loci. Cicero ro Clu- 
-rentio de superbo quodarn tribuno plebis sic scribit: uinctio. 
-rauod eral odium, Dii immortalest Quae superbia. quanta 
-rignoratio, quam gravis atque intolerabilis ignoran'ia ! 
-Google 
-Digltliecd by 
-
-
-Ignorantia autem est rei, quae sciri potest: au' debeL 
-sed errore hominum, aut negligentia ignora tur. Cic:-. 
-Amic. xrx: Ut in fabulis, qui aliquamdiu propler •igno—- 
-rantiam stirpis et generis in famulatu fuerint. Aliquando 
-tamen ignorantia sumitur pro ignoratione. Cic. Flacc. xx: - 
-Ubi adolescentes nihil possent discere, nisi •ignorantiam 
-litterarum. Lucr. VI. 53: Ignoranlia causarum conferre 
-Deorum Cogit ad imperium res. 
-IGNORARE est non satis cognilum eV exploratum ha- 
-bere. Nescire omnino non scire. Alteruwest imprudentis. 
-aut negligentis, alterum inscientis. et imperili. Arnob. 1k - 
-Hoc ipsum ignorans et nesciens. ld. ib: Confitemuc nos. 
-ignorare, nescire, etc. Quid ergo? nos soli ignoramus, 
-nescimus. Svet. Claud. xxrx: Impunitates, supplicia lag. 
-gitus est, et quidem inscius plerumque et' ignarus.•. 
-IGNOSCIT qui dissimulat se nossé, quod comperit, et' 
-ita silentio peccata impunita dimillil; omnibus autem•: 
-ignoscere, hoc esl, quae punienda iudicantur, non punire 
-et nulli ignoscere : aeve crudélø Seneca censet, Cle— 
-ment. 11.2. Concedit, qui omnia peccata condonat. Fronto. 
-Indulget, qui peccaturis humanum se ac benignum prae-- 
-bet. TH. VALL. 
-ILLEX et ILLIX (proprie avem alios allicientcm deno—- 
-tans) hoc differre volunt, quod illec. sit, a quo lex non 
-servatur; Illic qui inlicit et invitat -in quo sane 
-illis adsentior. Nam ab inliciendo dicitur promiscue illix 
-et illex, ut pellex a pelliciendo. Varro LL. IX: Iloc ipsum 
-iudicium scriptum inveni in M. lunii CommentariiS 
-uod tamen ibi idem est, quod illiciti illex, quia I Cum 
-et cum X magnam habet communitalem. Plaut. Asin. 
-I. 3. 67: Lectus ille.r est. ld. Poen. ld. 4. 3b: Qui illi 
-malae rei tantae fuimus illites. 
-ILLIVS similis ad mores refertur;• Illi •siinilis• ad vultum: 
-hoc ad formam externam; illud ad qualitatem spectate 
-Clarus. 
-(l) Inez, producta sequenti syllaba. signiflcat, qui legi non 
-paret, qui legem putat tenere se nullam. Illéc; correpta se—- 
-qupnte syllaba. significat inductionem ab illiciendo. R. 
-Unde illicere et illectare et inescare, seu aliquem In ali— 
-quid blanditiis trahere. Est autem res plena periculi speciosis 
-jllectamentis illici et vanis oblectamentis oblectari et quidem 
-Comenio sic monente. Ponitur et illicere pro persuadere, vell 
-in sententiam aliquem attrahere,. quemadmodum illez 
-suasore. 
-0081e 
-
-
-ILLVVIES sordium est; Ingluvies ventris. Illud quidem 
-a lavandö; hoc ab inglutiendo dictum. Agraet. 
-IMAGO et IDOLVM theologice sic differunt, ut illa ad 
-ornamentum, vel ad res gestas monstrandas fiat; hoc 
-autem numquam, nisi ad miscrorum animas sacrilego 
-ritu et varia superstitione illiciendas, sicut tradit Hen- 
-ricus Hoepffnerus Sect. 111. Saxoniae evangelicae c. VIL 
-p. 441. Hoc ad seipsum dicilur; illa vero ad aliquid. 
-Ideoque dicitur alicuius rei, Sive animatae, Sive inani— 
-matae, exemplum, seu exemplar, Sive repraesentatio. 
-Conf. Dolet. loc. nuper ad Not. CC. alleg. fol. 74. fac. 
-a. col. . Proprie autem interezem um atque imaginep• 
-haec datur differentia, quod eum ponatur, ut ali— 
-quid fiat, imago autem nullum talem finem habeat; sed 
-ut duae res sub una atiue aequati intellectione com- 
-prehendantur propter assimilationem, quae dicitur 
-Vid. Scaligeri Poét. 111. c. XLIX. p. 292. H. 
-IMBER est aqua largius ex concretis nubibus cadens. 
-Differt a nimbo, qui repentinus est, praeceps et brevior•, 
-a pluvia, quae iugis et lentior. Ovid. Metam. 516 : 
-Cadunt largi resolutis nubibus imbres. Liv. I, {6: Su— 
-bilo coorta tempestas cum magno fragore tonilribusque, 
-tam denso regem operuil nimbo, ut conspectum eius 
-concioni abstulerit. Cic. ad Att. xv. {6: Equidem pluviat 
-metuo, si prognostica nostra vera sunt. Ranae enim 
-Quum haec scriberet Tullius, erat in 
-villa ad Lucrinum lacum. Quare metuebat, ne redilus 
-suus in Tusculanum diulurnis illis luviis interclude— 
-retur, quae rusticantibus aut iter acturis molestiarn 
-afferre consueverunt. IMBREX V. TEGVLA. TH. VALL. 
-IMBVTVS litteris est qui non plane est doctrina per- 
-fusus, nec perfectus litteris, sed qui leviter est institu— 
-tus et solum litterator. Imbuere enim est proprie aliquiå 
-inficere primo succo aut levi colore. Instructus autem 
-litteris dicilur, qui est probe doctus alque eruditus. 
-SVET. Gramm. IV.: Cum familia aliquis venalis produce— 
-retur non temere quem litteratum, in tilulo, sed litte- 
-ratorem inscribi solitum esse; quasi non perfectum lit— 
-teris, sed imbutum. CIC. Tusc. I. 7.: An tu dialecticis 
-ne imbutus quidem es? CIC. Orat. 111. 46: Omnibus in— 
-genuis artibus instructus. Tac. de Orat.: Quin elementis 
-sludiorum, etsi non instructus, at certe imbulug sits 
-TH. VALL. 
-Google 
-Digitizer} by 
-
-
-IMMISSVM dicitur, quod ita fit, ut aliquo loco røqule- 
++Immissum+ dicitur, quod ita fit, ut aliquo loco røqule- 
 scat, veluti Ligua, trabes, quae immittuntur in •parietes; 
-D. de Verb. Sign. CCXLII. Proiectum est, quod prmectum 
+D. de Verb. Sign. CCXLII. +Proiectum+ est, quod prmectum 
 extra parietem vel aedificium nusquam quiescit, qualia 
 meniana et suggrundia sunt, auctore Labeone. Cuius 
 differentiae exempla suppeditant libri iurisconsultorum. 
-IMMOLARE et MACTARE hoc differunt, quod immolate 
+
+
++Immolare+ et +Mactare+ hoc differunt, quod immolate 
 proprie est victimas mola salsa tactas ante aram sta- 
 tuere; Maclare vero est victimas caedere et inde porri- 
 gere, Sive offerre. Leg. Perotti Cornucopiae epigr. l. 
@@ -5384,7 +4570,9 @@ salsa et tum immolüae dicunLur; cum vero ictae sunl,
 et aliquid ex illis in •aram datum est, mactalae dicunLur; 
 per laudationem itemque boni ominis significationem; 
 et •quum illis mola salsa imponilur, dicilur macte esto. 
-IMPERARE est onus imponere, ut apud Sallust. lug. 
+
+
++Imperare+ est onus imponere, ut apud Sallust. lug. 
 XLVII: Imperavit frumentum et alia, quae bollo usui 
 forent, cömportare. Denotat quoque imperare ex aucto- 
 ritate aliquid iniunget•e. Sic, scribente Comenio, impe- 
@@ -5460,11 +4648,11 @@ Goo Ie
 
 250 
 fungcbatur Cic. pro Fonteio: In honoribus 
-in potestatibus, in mperiis gerendis. ld. Epist. ad Q. 
+in potestatibus, in mperiis gerendis. Id. Epist. ad Q. 
 Fr. I. : Quare cum istis in urbibus cum summo im- 
 crio ac poteslale verseris. Ulpianus de Officio Proconsulis. 
 6. ad •l. lul. m. Vil. d: Magistratus populi romani, 
-uive imperium polestatemve habet. ld. Inst. D. Const. 
+uive imperium polestatemve habet. Id. Inst. D. Const. 
 rinc. J. I: Populus ei et in eum omne suum imperium 
 et polestatem conferat: V. Dominari. 
 IMPERIVM gravius et severius est. Praeceptum lenius 
@@ -5602,7 +4790,7 @@ Digitizeö by
 
 tur. Sall. lug. xxV11: Vir acer et infestus potentiae no- 
 bilitatis. Tac. Annal. VI. 34: Adequitare castris, infensare 
-pabula. ld. ib. XIII. 37: Palam bello infensare Armeniam. 
+pabula. Id. ib. XIII. 37: Palam bello infensare Armeniam. 
 INFIDVS dicitur, cui non est fidendum; sic apud Li- 
 vium infida regni societas legitur. Perfdus, qui fidem 
 violat; et perfidia est fidei violatio, et saepenumero pro 
@@ -5672,7 +4860,7 @@ INHIBERE est relinere et retrahere ab incepto opere,
 4ardant; Prohibere (2) est averlere eL impedire, ne quid 
 -fiat, vel incipiatur: Unde prohibiloria edicta appellantur, 
 quibus praetor vetat aliquid fieri. Virg. Aen. I. 525 : 
-Prohibe infandos a navibns ignes. ld. 693 : Parcite iam 
+Prohibe infandos a navibns ignes. Id. 693 : Parcite iam 
 .RuIuIi, et vos tela inhibete Latini. Cic. Alt. XIII. 21 : 
 Inhibere illud tuum, quod valde mihi arriserat, vehe- 
 menter displicet. Est emm verbum totum nauticum. Quam- 
@@ -5715,7 +4903,7 @@ hominibus tantum; hoc etiam de bestiis et herbis dici-
 servum atque innocuum confidentem esse. Virg. Aen. Vil. 
 •229. seq. : Littusque rogamus Innocuum. Quamquam 
 iinnocue interdum sumitur pro eo, cui non 
-nocetur. ld. Aen. x. 30t et 302: Sic consedere carinae 
+nocetur. Id. Aen. x. 30t et 302: Sic consedere carinae 
 iOmnes innocuae, id esl, illaesae, ut interpretanlur No- 
 nius et Servius, a quibus Valla frustra dissentit. 
 INNVERE (3) est facie significare; Annuere (4), con- 
@@ -5776,9 +4964,9 @@ mox noetu te adigent horsum insomnia. Svet. Calig. L
 Jncitabatur insomnia maxime: neque enim' Plus, quam 
 'tribus. nocturnis horis, quiescebåt. Sallust. Catil XXVII: 
 I)ies noctesque festinare, vigi)are., neque insomniis neque 
-•labore fatigari. ld. Histor. w: Quia pacto Vitam dede- 
+•labore fatigari. Id. Histor. w: Quia pacto Vitam dede- 
 rant, insomniis occidere, id est, vigiliis. Virg. Aen.' TV. 
-9: Quae me suspensam insomnia terrent: ld. Aen. VI. 
+9: Quae me suspensam insomnia terrent: Id. Aen. VI. 
 *Sed falsa ad coelum mittunt insomnia manes. Iu- 
 (l) Alias: Insigniw dtcuntur •signa et ornamenta virtute parta. 
 Insignis autem est Comenio nostro.• qui certiS 8ignis est di- 
@@ -5870,9 +5058,9 @@ INTER COENAM est in coena, seu inter coenarum mis-
 sus, aut fercula, quae antiqui terna, aut ad summum 
 sex in coena praebebant Super coenam est inter coe- 
 nandum. Svet. Aug. LXXI: Si vellent inter coenam vel 
-talis, vel par impar ludere. ld. Tih. LVI: Cum soleret 
+talis, vel par impar ludere. Id. Tih. LVI: Cum soleret 
 ex lectione quotidiana quaesLiones super coenam propo- 
-nere. ld. Calig. x.xd: Concertantes apud se super coenam 
+nere. Id. Calig. x.xd: Concertantes apud se super coenam 
 de nobilitate gefieris. 
 INTERDICERE FORO plus est quam Interdicere (2) advo- 
 cationi. Nam advocatione interdicta, reliqua fori negolia 
@@ -5921,7 +5109,7 @@ quaerere; Interrogari autem refellepdi, arguendive, sicut
 interrogari legibus dicebatur reus, cum rimum ab accu- 
 satore actio intendebatur. Cic. de Repull. VI: Ego illum 
 .de suo regno, ille me de nostra republica percontatus 
-est. ld. de Nat. Deorum 111: Sin me interrogare non 
+est. Id. de Nat. Deorum 111: Sin me interrogare non 
 tam intelligendi causa, quam refellendi. Sallust. Catil. 
 XVIII: Legibus ambitus interrogali poenas dederant. 
 (l) Antiqui dixere quoque internecare, pro interncere, quod 
@@ -5970,7 +5158,7 @@ rentiam Lucilius quoque refert his verbis: Nam veluti
 intro aliud longe esse, atque intus, videmus; Sic et apud 
 te longe aliud est, neque idem valet ad te. Intro nos 
 vocal ad sese, tenet intus apud se. Plaut. Aulul. I. 2. 
-3: Redi nunc iam intro, atque intus serva. ld. Capt. L 
+3: Redi nunc iam intro, atque intus serva. Id. Capt. L 
 2. 89: Ibo intro, atque intus subductam ratiunculam. 
 INTVERI est oculorum; Contemplari et Speculari animi:• 
 Aspicere animi et oculorum simul. R. 
@@ -5999,7 +5187,7 @@ curationem esse inventam putant; sic nos, causa aegri-
 tudinis reperla, medendi facultalem reperiemus. Plaut. 
 Aulul. lv. 2. {3: Ibo hinc intro; perscrutabor fanum, 
 si inveniam uspiam aurum, dum hic est occupatus. Sed 
-si reperero, o fides! ld. Capt. 111. IV. 36. seq.: Tu enim 
+si reperero, o fides! Id. Capt. 111. IV. 36. seq.: Tu enim 
 repertus, Philocratem qui superes veriverbio! POI, e 0 
 •ut rem video, tu invenlus etc. Ovid. Metam. I. 654: fu 
 non inventa, reperta es; hoc est, tu, quae inveniri non 
@@ -6201,7 +5389,7 @@ nomen varie accipi, probat Arnoldus Corvinus a Belde-
 ren Part. I. lib. I. Digestor. per strictim explicato- 
 rum tit. I. p. 4. Sallust. Hist. J: Utique iura et iudicia 
 sibimet extorquerent. Liv. XLIx: Totam Acarnaniam sub 
-ius iudiciumque regis venisse. ld. LI: Sub ius iudiciumque 
+ius iudiciumque regis venisse. Id. LI: Sub ius iudiciumque 
 suam totam coégit gentem. Praeterea iudicium (2) ad 
 privatarum litium iudices, ut recuperatores, aut arbitros, 
 •tus ad praetores pertinet. Unde dimmus in iudicio, cum de 
@@ -6245,7 +5433,7 @@ IVGVM est continuum montis cacumen, vertice infe—
 rius•, italice: una giogaia o continuazione di monti. Vertex 
 est summum montis cacumen; itali: Ia vetta del monte. 
 Liv. xxxvl. 45: Id iugum sicut Apennini dorso Italia di—- 
-viditur, ita mediam Graeciam dinmit. ld. ib.: Hoc iugum 
+viditur, ita mediam Graeciam dinmit. Id. ib.: Hoc iugum 
 ab Leucate et mari ad occidentem verso per Aetoham 
 ad allerum mare orienti obiectum tendens, ea aspreta 
 rupesque interiectas habet, ut non modo exercitus, sed 
@@ -6272,10 +5460,10 @@ dinamus. Cont. Turneb. Advers. XIII. 27. col. : Itaque•
 lis nulla nobis esse polest cum eo. quem in potestat& 
 habemus, auctore Caio lurisconsulto D. de ludic. lv. 
 Cic. de Republ. Iv: Si iurgant, benevolorum concertatio, 
-non lis inimicorum, iurgium dicitur. ld. de Legibus 11: 
+non lis inimicorum, iurgium dicitur. Id. de Legibus 11: 
 Feriarum festorumque dierum ratio in liberis requiem 
 habet litium eL iurgiorum. Liv. v: lurgiis ac lilibus tem— 
-peratum. ld. XLVIII: Itaque cum hodie litibus et iurgiis 
+peratum. Id. XLVIII: Itaque cum hodie litibus et iurgiis 
 supersedere aequum sit. Ovid. Fast. I. 73. seq.: Lite 
 vacent aures, Insanaque protinus absint lurgia, differ- 
 opus, livida lingua, tuum. Cic. -Fragm. de republ. ap. 
@@ -6330,7 +5518,7 @@ IVVENTA (3) significat lanuginem erumpentemque bar-
 bam, atque ipsum tempus primae adolescentiae; Juventus 
 Dea iuventutrs est, quae graece dieitur luventus 
 et iuvenilem aetatem, et iuvenum multitudinem denotat. 
-Sallust. Cutil. v: Ibique iuventulem suam exercuit. ld. 
+Sallust. Cutil. v: Ibique iuventulem suam exercuit. Id. 
 ib. xrv: luvenlutem. quae domum Catilinae frequentabat, 
 parum honeste pudiclliam habuisse. Licet aliquando et 
 .tuventus et iuven'a pro Dea usurpetur. Ovid. Ex Ponto I. 
@@ -6369,7 +5557,7 @@ aliqua impendere cum molestia, et fallente saepe rerum
 eventu; huic vero adiuncta est significatio fructus aut 
 finis, ad quem laborando potissimum spectes. Cic. Pa- 
 rad. 11: Quid enim . laboravi aut quid egi, aut in quo 
-evigilaverunt curae et cogitationes meae? ld. Agrar. 11. 
+evigilaverunt curae et cogitationes meae? Id. Agrar. 11. 
 25: •Quod est tam asperum saxetum, in quo agricola- 
 rum cultus non elaboret? Italice: Qual havvi mai luogo 
 si aspro e sassoso, a cui i contadini non rivolgano utilmente• 
@@ -6652,7 +5840,7 @@ D.g'tzee by
 sunt necessaria, anquirat eL •paret, ut pastum, ut lati- 
 bula, ut alia generis eiusdem. Liv. XLVIII: Necubi notis 
 -sibi latebris delitescerent Iatrones. Interdum tamen Ia- 
-lebra est ferarum. ld. .ib.: Inter vepres in latebris fera- 
+lebra est ferarum. Id. .ib.: Inter vepres in latebris fera- 
 rum noctem unam delituit. Varro dc R. R.: Ibique esse 
 lalebras, ubi lepores interdiu delitescant in virgultis 
 .atque herbis. 
@@ -6660,7 +5848,7 @@ LAVDARE (f) plus est quam probare et praedicare. Nam
 laudamus id, quod excellit, probamus bonum factum,,praedicamus id, quod profitemur et teslatum facimus. 
 Primum semper est cum laude; alia duo etiam sine 
 laude esse possunt. Cic. Ruf.: Non solum probant, etiam 
-laudant. ld. Mario: Islam ralionem otii tui et laudo 
+laudant. Id. Mario: Islam ralionem otii tui et laudo 
 vehementer et probo. Ter. Eun. 111. 5. 47: Quid ego 
 eius tibi nunc faciem praedicem aut laudem? Ubi Donatus: 
 Praedicamus argumentis. Laudat coram, qui non taeet 
@@ -6759,7 +5947,7 @@ yolvere solebant. tilde hodieque dicitur evol.vere libros.
 involutos explicare, cum lectitandi gratia aperiun- 
 •tur. Gell. lv: Dat mihi librum grandi volumine. Cic. ad 
 .Appium de una epistola longissima : Mihi volumen a te 
-plenum quaerelae iniquissimae reddiderunt. ld. ad Att. 
+plenum quaerelae iniquissimae reddiderunt. Id. ad Att. 
 x. 10: Evolvi volumen epislolarum tuarum. Sed inter- 
 dum haec vocabula nulla re differunt omnino, et dupli- 
 cem significationem habent. Nam liber et certam operis 
@@ -6808,7 +5996,7 @@ sutmtur; haec in malam. Illa serviluli opponitur, et
 laudem habet; haec disciplinae et legibus fere obstat, 
 atque omnino in vitio habetur, raro in bonum accipitur. 
 Liv. xxxvrl: Libertatem cum aliis vanam ostendisset, 
-totam in suam licentiam verterat. ld. XXXIV. 2: Omnium 
+totam in suam licentiam verterat. Id. XXXIV. 2: Omnium 
 rerum libertalem, immo licentiam, si vera dicerc volu• 
 mus, desiderant. Auct. de caus. corr. eloq.: Est magna 
 isla et notabilis eloquentia, alumna licentiae, quam stulti 
@@ -6817,7 +6005,7 @@ duo, et licentia accipitur in bonatn partem, libertas in-
 malam. Sallust. lug. Cll: Belli componendi licentiam ipsi• 
 ermittit. Cic. Off. I: Magnis cnim illi et divinis bonis 
 anc licentiam adsequebantur. Aliquando utrumque in 
-malam parlem. ld. pro Flacco: Graecia hoc uno modo 
+malam parlem. Id. pro Flacco: Graecia hoc uno modo 
 concidit, libertate immoderata et licentia concionum; et 
 in Verr. v. : Numquam ipsimet nobis. praecideremus. 
 istam licentiam libertalemque vivendi. 
@@ -6991,7 +6179,7 @@ tem est materia, scu materies,
 omne id, ex quo aliquid fit. Praeserlim vero denotat 
 lignum, seu lulum, Sive lapides, queis aedes solcmus 
 extruere. Lignum quicquid comburendi causa paratum 
-est. ld. D. de Usuf. xvrl. {2: Nec materia eum pro ligno 
+est. Id. D. de Usuf. xvrl. {2: Nec materia eum pro ligno 
 usurutn, si habeat, uti(le ulatur ligno. Paul. ad Sabi- 
 num [v. 56. D. de Leg. 111: Pali et perticae in numcrum 
 maleriae redigendi sunt, et ideo lignorum appellatione 
@@ -7043,7 +6231,7 @@ lintea conficiunt atque texunt. Ulp. D. de Insl. Act. ad
 Edictum XXVIII. L. 5: Sed etiam eos institores dicendos 
 placuit, quibus vestiarii, vel lintearii dant vestem cir- 
 cumferendum et distrahendam, quos vulgo circitores 
-appcllamus. ld. D. de Trib. Act. XXXIX. 5: Duas negotia- 
+appcllamus. Id. D. de Trib. Act. XXXIX. 5: Duas negotia- 
 tiones exerccbat, puta sagariam et linteariam. Vctus in- 
 scriptio: Negotiatores, Iinlearii, et Caslrasiarii. Plaut. 
 Aul. 111. 5. 38: Propolae, linteones, calceolarii. Vege— 
@@ -7069,7 +6257,7 @@ ronis sententia de R. R. I. 29. dicilur quod est inter
 duos sulcos, elata terra. quod ea seges frumentum por- 
 ricit. De lira Colum. xl. 3: Est autem lira similis ei porcae, 
 quam in sationibus campestribus rustici faciunt, ut uli- 
-inem vitent. ld. 11. 4: Liras autem rustici vocant eas- 
+inem vitent. Id. 11. 4: Liras autem rustici vocant eas- 
 em porcas, quum sic aratum est, ut inter duos latius 
 distantes sulcos medius cumulus siccam sedem frumentis 
 praebeat. Porca, quod arando exstat; Lira quod defos- 
@@ -8630,7 +7818,7 @@ qui: in uvis passis exsiccatur. PliD. NH. 111. 3•: Quando
 rgcemos sed uvu alias gignunt. 
 B*DERE el TONDERE non sunt eadem. Svel. Coes. XLVI 
 Circa corporis cnrum morosior, ul non solum IMderetur 
-Uligenl.or ac raderetur, sed velleretur etiam, Ld. Aub 
+Uligenl.or ac raderetur, sed velleretur etiam, Id. Aub 
 LXXIK : Modo tonderet, modo radarel barbam•. Martial Ep- 
 : Non tondet inquis? ergo quid faoit? radii, Die 
 stinguunt etiatn ita•, ul tondeo de bomine et pecore. di— 
@@ -8671,7 +7859,7 @@ casu restituuntur, tit redivivus lapis, qui ex vetere in
 novum aedificium translatus, de integro politur. Cic. Verr, 
 111. 56: Utrum existimatis, minus operis esse unam 
 lumnam eflicere ab integro novam, nullo lapide redivivo, 
-an quatuor illas reponere. ld. ib. Redivivæ sibi habeat. 
+an quatuor illas reponere. Id. ib. Redivivæ sibi habeat. 
 RECIPERE e! SVS(HPERE eo differunt, qtlöd suseipüur 
 't01um, recipilur pars; et sugcipitur id quod principale 
 .est, recipitur, quod hinc pendet Denique suscipitgr 
@@ -8704,7 +7892,7 @@ RECTA loca dicunlur, quae absque ullis anfractibu5
 surgunt in altum, vel in longitudinem extenduntur 
 Porrecta sunt plana et patientia; ita recti montes, rectae 
 turres, porrecli campi. Caes. B. G. II. {9: Porrecta ac 
-aperta loca. ld. VI. Rectaque fluminis Danubii regione. 
+aperta loca. Id. VI. Rectaque fluminis Danubii regione. 
 Horat. Epist. I. 7. 41. seq. Non est aptus equis Ithac& 
 locus; ut neque planis Porrectus spati1S. Minut. Fel. in 
 Octav. : Quid loquar aple disposita tecta montium, col— 
@@ -8745,7 +7933,7 @@ Digitizer} by
 
 quam rcditus. Non enim in Graeciam Cicero pervenit+ 
 Interdum tamen confunduntur, et reversio capitur pro 
-reditu, ut ld. de Fin. 11: Ut omnium siderum eodem, 
+reditu, ut Id. de Fin. 11: Ut omnium siderum eodem, 
 .unde profecta sunt, fiat ad unum tempus reversio. Re- 
 ditus autem pro reversione. Cic. Phil. 
 I. 4: Tum verc 
@@ -8840,7 +8028,7 @@ Digitized by
 imminentia, medicamentum sanat non sana. Front. 
 REMOTVM est. qu«i longe abest; Senomn, quod seor- 
 gum positum cet. Lucr. I. 58 : Seno&l e metris rebus 
-æiunelaque longe. ld. ib. 45: Quasi omni tempore se— 
+æiunelaque longe. Id. ib. 45: Quasi omni tempore se— 
 motom fuerit, lo•geque remotum. 
 RENOVARE et REDINTEGQARE distant. Auct. ad Herenn. 
 11. 30: Enumeratio est. per quam colligimus et com- 
@@ -8902,14 +8090,14 @@ plagas dici funes illos, quibus retia tenduntur circa imam
 et summam partem. Gesn. vove 
 REVM FACERE est in iudicio legi us interrogare de cri- 
 mine de quo postulatum est; Reum agere (f) est accu- 
-sare, eL actionem prosequi. Leg. Schardli Lexicon luridic. 
+sare, eL actionem prosequi. Leg. Schardli Lexicon Iuridic. 
 p. 819. col. a. Nam primum postulabat actor a praetore, 
 ut accusare liceret; quo impetrato, nomen deferebat, 
 postremoa ccusabat. Coelius ad Cic. Ep. Fam. VIII. 6: Illud 
 mihi occurrit, quod inter postulationem et nominis de- 
 lationem uxor a Dolabella discessit. Valer. Maximus VI. 
 8: M. Antonius, avorum nostrorum temporibus clarissi- 
-mus orator, incesti reus agebatur. ld. VIII. : Flavius 
+mus orator, incesti reus agebatur. Id. VIII. : Flavius 
 a C. Valerio aedile apud populum reus actus. Sed haec 
 fere confunduntur, sicut et postulare et accusare. 
 REVS STIPVLANDO est idem qui stipulatur: reus pro- 
@@ -9222,7 +8410,7 @@ mae sunt clitellae, atque instar sellarum quiddam ha-
 bent, licet proprie non sint sellae, quum In sellis ho- 
 mines sedeant, in clitellis non sedeant, sed imponantur 
 onera et sarcinae. In sagma igilur homines non sedisse, 
-Schefferus arbitralur. ld. p. 9. Sellae, aut strata perti- 
+Schefferus arbitralur. Id. p. 9. Sellae, aut strata perti- 
 nebant ad homines, non sagmae aut clitellae. Sagum et 
 simpliciter stratum dictum esse. idem ex Seneca et Apu- 
 leio ostendit. Stratum istiusmodi fuit primum antiquis- 
@@ -9370,7 +8558,7 @@ et qualiscumque satisfactio, qua creditor contentus fuæiti
 oonLinetur, ut auctor est Ulpianus D. de verb. Sign. 
 QLXXVI. Et satisfacere est verbzs,; et sausraalies 
 excusatio. Cicero Philippic. 11. 20: Acceperam iam ante 
-Caesaris litteras, ut mlhi satisfeti paterer a .te. ld. 
+Caesaris litteras, ut mlhi satisfeti paterer a .te. Id. 
 VII. {3: Hic tu me etiam insmulas, nec sati#gctionem 
 meam accipis. 
 SATISFACTIONIS solemnis hae erumque partes et for- 
@@ -9538,7 +8726,7 @@ esset extra velum secretarii Eupilius Calvisianus consularis,
 intra velum ingrediens sententiam dictavit, et foras egressus 
 adferens tabulam legit: Euplianum Christianum edicta prin- 
 cipum contemmentem, et Deos blasphemantem, gladio ani- 
-madverti iubeo. ld. ex actis S. Claudii, et socior. ib. Lysias 
+madverti iubeo. Id. ex actis S. Claudii, et socior. ib. Lysias 
 introrressus obduxit velum: postea exiens ex tabula recitavit 
 sententiam. 10. Columbus in not. ac Lactantii locum. 
 008 e 
@@ -9583,7 +8771,7 @@ luterrogatus a consule, quid de his censeret quae de•
 matre eius locuta secus argueretur, reticuit. Virg. hen. v. 
 (l) G. de Naufr. v. 
 (2) Exempla vid. apud Svet. Tib. LIX: Sub idem tempus, 
-acta res in senatu. ld. Domit. XI: Quosdam maiestatis eos, 
+acta res in senatu. Id. Domit. XI: Quosdam maiestatis eos, 
 in curiam induxerat; ec... facile perfecerat, ut more ma- 
 iorum puniendi condemnaretur. 
 Digitizers by 
@@ -9766,7 +8954,7 @@ pertinet, contentio ad curiam et forum. Ille ad gratiam,
 haec ad gloriam conciliandam plurimum facit. 
 SERTVM et SERTA, cum nihil adiicimus, promiscuo 
 usurpantur, ut Virg. Aen. I. : Sertisque recentibus 
-halant. ld. Ecl. VI. 46: Serta procul tanlum capiti dea 
+halant. Id. Ecl. VI. 46: Serta procul tanlum capiti dea 
 lapsa iacebant. Si autem sertos dixero, addo flores; si 
 sertas, addo coronas. Notandum autem,sertum gen. neutr. 
 coronam quoque, Sive corollam significare, h. e. circu- 
@@ -9886,7 +9074,7 @@ ad formam crucis cum tilulo cohortis. Vexilla erant
 parva vela. Illa habebant Caesarum ex auro argentove 
 Imagines innexas a summo ad medium; haec quoquc 
 eorum nomina praeferebant. Svet. Ner. XIII : Inter signa 
-militaria, atque vexilla. ld. Vespas. vl : Nomenque eius- 
+militaria, atque vexilla. Id. Vespas. vl : Nomenque eius- 
 vexillis omnibus sine mora inscripserunt. Tuc. Hist. I. 
 36 : Medium inter signa Olbonem vecilli8 circumdarent. 
 ld. 11. 48 : Correptis signis verillisque ruere. Hinc ma- 
@@ -10007,7 +9195,7 @@ SOMNVS est sensuum quies et quidem nataAlis ee-
 Placida; sopor est profundus, et plerumque noxius, ub 
 temulentorum, fcssorum et aegrotorum. M. Coelius ap. 
 Quintil. [v. 2 : Namuue ipsum offendunt temulento so- 
-pore profligatum. ld. Ibid. : Semisomno sopore inter ma•• 
+pore profligatum. Id. Ibid. : Semisomno sopore inter ma•• 
 num centurionum concubinarumque iactabatur. Plin. H. 
 N. xxl. : lunci semine somnum allici: sed modum 
 servandum ne sopor fiat. 
@@ -10302,7 +9490,7 @@ hominem appeHari, qui quum possil ratione uti, im-
 tamea non ulitur, i(aluce, sciacco . imprudente. 
 Solido opponitur callidus. acutus; stulto providus, prudaa. 
 Plaut. Bacchid. v. f. 2: StylLi, 8tüi. futui, fungi, bardü 
-blenni, buccones. ld. Trin. I. 2. 47b: Nihil est proecto• 
+blenni, buccones. Id. Trin. I. 2. 47b: Nihil est proecto• 
 "ultias neque stolidius. TH. VALL. 
 STVPOR esl stultitiae; Furor insaniae. Furor est maius; 
 Stupor minus. Deinde stupor est in re cognita; Impu- 
@@ -10424,7 +9612,7 @@ res . Tabularior . Publicorum . Fac . Cur.
 TACERE, RETICERE et OBTICERE. boc differunt, quods 
 Cacemus consilia, reticemus dolores, oblicemus quorurn 
 nos pudet. Ter. Heaut 1. f. 33: Ne refice, ne verere, 
-crede, inquam, mihi. ld. Eun. v. 1. 4: Virgo, conscissa, 
+crede, inquam, mihi. Id. Eun. v. 1. 4: Virgo, conscissa, 
 veste, lacrumans obticet. Donat. 
 TACITVRNVS est, qui facile •tacet; Tacitus argutus etiam, 
 qui polest aliquando tacere; seu tacitus tacet dum non 
@@ -10570,7 +9758,7 @@ TERES et RUTVRDVS : hastam dic teretem, malum die.
 osse rotundum. R. 
 TERGVN proprie est dorsum. Unde terga vertere pro 
 'fugere; tergus est corium, ut Virg. Aen. I. 245 : Ter- 
-gora deripiunt costis, et viséera nudant. ld. tamen Aen. 
+gora deripiunt costis, et viséera nudant. Id. tamen Aen. 
 11. 763. Tergum pro dorso ponit his verbis : Hinc rap- 
 tas fugientibus ingerit hastas In tergum. Immo tergum 
 dicit pro corio. Aen. I. 372 : Taurino quantum possent 
@@ -10681,7 +9869,7 @@ nesti amore ducuntur. Et timemug (I) domina ty-
 pannos; Veremw parentøs et senioré et qai saM rn 
 tilim10 aut dignitate constituti. Cio. Senæt. N: 
 Metuebant eun servi, sereban•tge, oarcm omneg 
-habebant. ld. Quint. : Summa gratia et eloqueniia, 
+habebant. Id. Quint. : Summa gratia et eloqueniia, 
 qaaråm alteram '*eor, altK&m metam Liv. : Ve- 
 fdmar qaidem vos, Romani, et si ita vultis, etiam li- 
 •fi&inus,• sed plus et ænnnr et .timemtjs deos iinmortäles. 
@@ -11260,7 +10448,7 @@ Digitizer} by
 
 tant; vicinitas est vicinorum propinquitas, vel molliludo. 
 Haec est conversationis coniunctio; itla vieinorum. Ter. 
-And. I. f. 43: Commigravit huc viciniae. ld. Heaut. I. 
+And. I. f. 43: Commigravit huc viciniae. Id. Heaut. I. 
 4: Virtus tua me, vel vicinilas. Cic. Verr. VI : 
 gnum, quod notum erat, vicinitati buccina dalur. 
 VICTIMA maior est, et teuris constat; Hostia minor, 
