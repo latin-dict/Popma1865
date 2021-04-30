@@ -11,14 +11,14 @@ Source files of [De differentiis verborum](https://latin-dict.github.io/dictiona
 
 ### Mark-up
 
-* `$$1$$` - every article starts with a unique number corresponding the item in `lexicon.json`.
+* `$$1$$` - every article starts with a unique number corresponding to the item in `lexicon.json`.
 * `+Amare+` - headword
 * `*...*` - quotation
-* `Dicitur ==actori==, atque etiam ==procuratori== tuo` - double sign `=` marks headwords inside of the quotation
+* `*Dicitur ==actori==, atque etiam ==procuratori== tuo*` - double sign `=` marks headwords inside of the quotation
+* `"..."` - similar to quotations, this is an example of the word use (see Agmen). This tag is rare.
 * `#Cic. Phil. XIV.#` - souce of the citation
 * `_Hoc_` - italic text, is used almost exclusively for the words "Hoc", "Ille", "Illud", and so on.
-* `"..."` - similar to quotations, this is an example of the word use (see Agmen). This tag is rare.
-* `+Pluvia+ V. %Imber%` — percent sign marks links to other articles
+* `+Pluvia+ V. %Imber%` — percent sign `%` marks links to other articles
 
 
 ### Notepad++
