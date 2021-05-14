@@ -1066,7 +1066,7 @@ $$324$$
 
 $$325$$
 +Capio+ (1) id, cuius dominium acquisivi; +Accipio+ id, quod teneor restituere. _Illud_ fit propria auctoritate, _hoc_ ex voluntate alterius. #Ulpianus ad Edictum 49. L. 71. D. de Verb. Sign.#: *==Capere== cum effectu accipitur; ==Accipere== vero, si quis non sic accipit, ut habeat. Ideoque non videtur quis ==capere==, quod est restituturus*. #Id. L. 20#: *Ut legatarii celerique, quidquid in testamento ==acceperunt==, careant his, quae sibi relicta sunt*. #Paulus ad Edictum 1. L. V. D. de Damno inf.#: *Ut missus est in possessionem, etiam eam per longi temporis spatium in suum dominium ==capere== possit*. _Illud_ iuris est, _hoc_ facti. 
-(1) +Capio+ approbante #Valla#, interdum habet reciprocum quemdam usum, ut in eodem sensu nunc uni et eidem actio, nunc passio attribuatur. "Cepi voluptatem", et "voluptas cepit me", idem significant. Fit autem ista reciprocatio in paucis active, ut in hoc exemplo habito; sed in nonnullis passive, ut "cepi delectationem" et "captus sum delectatione". Quando vero capio significat passive delectari, fere non resolvitur per activum, ut "captus sum", vel "capior amore, dulcedine, specie tua, specie honorum", id est, delector. Non "amor", vel "dulcedo", "me cepit". Quando artem non significatur delectatio quaedam, fere active utimur, non passive. Sic "capio dolorem", "cepi molestiam et dolorem" dicitur. Item, "Cepit me taedium, oblivio et odium"; at non "cepi odium".
+(1) +Capio+ approbante #Valla#, interdum habet reciprocum quemdam usum, ut in eodem sensu nunc uni et eidem actio, nunc passio attribuatur. "==Cepi== voluptatem", et "voluptas ==cepit== me", idem significant. Fit autem ista reciprocatio in paucis active, ut in hoc exemplo habito; sed in nonnullis passive, ut "==cepi== delectationem" et "==captus== sum delectatione". Quando vero capio significat passive delectari, fere non resolvitur per activum, ut "==captus== sum", vel "==capior== amore, dulcedine, specie tua, specie honorum", id est, delector. Non "amor", vel "dulcedo", "me ==cepit==". Quando artem non significatur delectatio quaedam, fere active utimur, non passive. Sic "==capio== dolorem", "==cepi== molestiam et dolorem" dicitur. Item, "==Cepit== me taedium, oblivio et odium"; at non "==cepi== odium".
 
 $$326$$
 +Capitalis poena+ est, qua capite plectimur, seu quae caput vel naturale vel civile aufert. Sic "capitalis hostis", vel "capitale odium", qui vel quod caput, hoc est, vitae exilium, petit. +Poena sanguinis+, quae tantum caput naturale. 
@@ -2695,7 +2695,7 @@ $$823$$
 
 $$824$$
 +Funis+ (1) est maior crassiorque: +Restis+ minor. Unde in navibus +funes+; in lectis et sellis +restes+ dicuntur. #Varro de R. R. I. 22#: *Sic quae fiunt de cannabi, lino, iunco, palma, scirpo, ut ==funes==, ==restes==, tegetes*. #Colum. XI. 3#: *Illinitur vel nauticis veteribus ==funibus==, vel quibuslibet aliis ==restibus==*. #Lucil. Satyr. VI#: *Tres a Deucalione grabati ==restibus== tenti*. +Laqueus+ fere est, qui artus et ligamina artuum habet.
-(1) "Funis aurea" (in foemin. gen.) dicit #Lucretius#, quid autem proprie sit iste "funis aureus", tradit #Turnebus Advers. V. 25. col. 165. seq. tom. I.#
+(1) "==Funis== aurea" (in foemin. gen.) dicit #Lucretius#, quid autem proprie sit iste "==funis== aureus", tradit #Turnebus Advers. V. 25. col. 165. seq. tom. I.#
 
 $$825$$
 +Funus+ est cadaver iam ardens; quod dum portatur, +exequias+ dicimus, crematum +reliquias+ et +bustum+, conditum iam, +sepulcrum+. #Serv.#
@@ -3258,7 +3258,7 @@ $$994$$
 +Interrogatio+ est illa cui necessario respondetur, aut etiam, aut non. +Percontatio+, cui nihil horum. #Donat.# #R.#
 
 $$995$$
-+Interulam+ et +Tunicam+ teste #Salmasio ad Tertull. de Palio p. 409#, professor quidam sic distinxit, quasi tunica sub toga semper gestaretur, interula sub pallio, quo nihil, ait #Salmasius#, imperitius nec ineptius dici potest. Unde gentium expiscati sint bellam istam differentiam, id equidem nescire possum, sed nec ipsi me docere, si viverent, nam id nusquam est, et tunica sub pallio communiter gestata, haud secus quam sub toga. Unde illud vulgare proverbium: "Tunica propior pallio"; et apud #Plautum in Poen. V. 2. 15#: *Sed quaenam illaec avis est, quae huc cum ==tunicis== advenit? Numnam it a balneis circumductus pallio?* Ex quibus versibus constat, palliatos etiam tunicas habuisse. Protecto tam palliati, quam togati, tam Graeci, quam Romani +tunicas+ habebant, et sub tunicis +interulas+. Eadem quippe differentia Latinis +tunicae+ et +interulae+, quae Graecis χιτῶνος et χιτ<choice><sic>ο</sic><corr>ω</corr></choice>νίσκου. +Interula+ sub tunica habebatur, et ἄμεσος corpori insidebat, atque ἐπί γυμνοῦ, ut vocant Graeci. Lineae autem erant, et nostris respondebant camisiis.
++Interulam+ et +Tunicam+ teste #Salmasio ad Tertull. de Palio p. 409#, professor quidam sic distinxit, quasi tunica sub toga semper gestaretur, interula sub pallio, quo nihil, ait #Salmasius#, imperitius nec ineptius dici potest. Unde gentium expiscati sint bellam istam differentiam, id equidem nescire possum, sed nec ipsi me docere, si viverent, nam id nusquam est, et tunica sub pallio communiter gestata, haud secus quam sub toga. Unde illud vulgare proverbium: "==Tunica== propior pallio"; et apud #Plautum in Poen. V. 2. 15#: *Sed quaenam illaec avis est, quae huc cum ==tunicis== advenit? Numnam it a balneis circumductus pallio?* Ex quibus versibus constat, palliatos etiam tunicas habuisse. Protecto tam palliati, quam togati, tam Graeci, quam Romani +tunicas+ habebant, et sub tunicis +interulas+. Eadem quippe differentia Latinis +tunicae+ et +interulae+, quae Graecis χιτῶνος et χιτ<choice><sic>ο</sic><corr>ω</corr></choice>νίσκου. +Interula+ sub tunica habebatur, et ἄμεσος corpori insidebat, atque ἐπί γυμνοῦ, ut vocant Graeci. Lineae autem erant, et nostris respondebant camisiis.
 
 $$996$$
 +Intro+ significat ad locum, ut "eo intro": +Intus+ in loco, ideoque intus est. Notat situs in occluso, et denotat quoque motum ex occluso, ut "sum intus". Quam differentiam #Lucilius# quoque refert his verbis: *Nam veluti ==intro== aliud longe esse, atque ==intus==, videmus; Sic et ==apud te== longe aliud est, neque idem valet ==ad te==. ==Intro== nos vocat ad sese, tenet ==intus== apud se*. #Plaut. Aulul. I. 2. 3#: *Redi nunc iam ==intro==, atque ==intus== serva*. #Id. Capt. I. 2. 89#: *Ibo ==intro==, atque ==intus== subductam ratiunculam*.
@@ -4598,7 +4598,7 @@ $$1409$$
 (1) Antiqui ideo plantabant pomaria, et in illis pomosas arbores, ut ex pomis potum pararent. 
 
 $$1410$$
-+Pompa+ a graeco verbo πέμπο est apparatus solemnis et transvectio per publicas vias, in qua aliqua spectatu digna ferantur ab aliquo agmine incedentium. Quae celebritas plerumque fiebat lento et gravi incessu. Itali appellant <span lang="it">una processione</span>. Differt a +supplicatione+, quae publicas preces significat vel ob rem bene gestam, vel ad Deorum iram averruncandam. Nos: <span lang="it">preghiere pubbliche</span>. #Svet. Cal. XV#: *Instituit matri Circenses carpentumque, quo in ==pompa== traduceretur*. #Cic. Phil. XIV, 14#: *Praetor urbanus ==supplicationes== per dies quinquaginta ad omnia pulvinaria constituat*. #Plaut. Mil. I. 1. 67#: *Ut te hodie quasi ==pompam== illa praeterducerem*. #Th. Vall.#
++Pompa+ a graeco verbo πέμπ<choice><sic>ο</sic><corr>ω</corr></choice> est apparatus solemnis et transvectio per publicas vias, in qua aliqua spectatu digna ferantur ab aliquo agmine incedentium. Quae celebritas plerumque fiebat lento et gravi incessu. Itali appellant <span lang="it">una processione</span>. Differt a +supplicatione+, quae publicas preces significat vel ob rem bene gestam, vel ad Deorum iram averruncandam. Nos: <span lang="it">preghiere pubbliche</span>. #Svet. Cal. XV#: *Instituit matri Circenses carpentumque, quo in ==pompa== traduceretur*. #Cic. Phil. XIV, 14#: *Praetor urbanus ==supplicationes== per dies quinquaginta ad omnia pulvinaria constituat*. #Plaut. Mil. I. 1. 67#: *Ut te hodie quasi ==pompam== illa praeterducerem*. #Th. Vall.#
 
 $$1411$$
 +Pompeii+ porticus, si possidet; +Pompeia+, si publicavit; +Pompeiana+, si in alterius domitationem venit. #Fronto.#
@@ -5519,1278 +5519,557 @@ $$1704$$
 $$1705$$
 +Sponsio+ et +Compromissum+ sunt res diversae. In iudiciis +sponsiones+, in arbitriis +compromissa+ fieri solebant; _illud_, nisi vere actio intenderetur, _haec_ si damnatus arbitri sententiae pareret. +Compromittere+ dicuntur, qui hinc inde promittunt, se arbitri sententiae obtemperaturos. Inde compromissarius iudex. +Compromissum+ ipsum erat ceria pecunia ab utroque litigatore mutuo promissa, nisi arbitri sententiae pareret. +Sponsio+ autem in iudicio de certa pecunia fiebat, quam daret, qui vel Iota causa, vel quaestione, quae in causam incideret, victus esset. Provocans +sponsione+ dicebat: +spondeo+, me tantam pecuniam daturum, ni, etc. Provocatus autem contra restipulabatur. #Heineccius antiq. R. IV. tit. XI. § 4#: *In causis bonae fidei et arbitrariis aliquando deponebatur pecunia, quae ==compromissum== appellabatur*. #Cic. Rosc. Com. IV#: *Quaero abs te, quid ita de hac pecunia ==compromissum== feceris, arbitrum sumpseris, quantum aequius et melius sit, dari, repromittive, si pareret*. Quum enim periculum esset, ne alterutra pars arbitri sententiae staret, plerumque haec pecunia deponebatur, ut multae loco eriperetur ei, qui hoc modo elusisset arbitrum.
 
+$$1706$$
++Sponte+ facere et _invite_ facere infer se opponuntur. +Ultro+ vero facit, qui non expectat, dum rogetur aut admoneatur, aut provocetur, ut faciat. Praeterea +sponte+ etiam locum habet in rebus inanimis, ut cum dicimus, "corpora gravia sua ==sponte== deorsum ferri"; +ultro+ vero tantum in rebus animatis, atque adeo in his, quae rationis sunt participes. #Servius ad Virg. Aen. II. 145#: *==Ultro== non est ==sponte==, nam iam rogaverat, ==insuper== et venit ab eo, quod est ultra, quia plus, quam rogaverat, praestiterunt*. Scilicet amplius quid notat +ultro+, quam +sponte+. Id enim "==ultro== fieri" dicitur, quod praeter exspectationem fit, et praeter quam fieri adsolet. #Ter. Eun. I. 1. 1#: *Quid igitur faciam? non eam? ne nunc quidem, cum arcessor ==ultro==?* et mox #I. 1. 29#: *Te ==ultro== accusabis, et dabis ei ==ultro== supplicium*. Id igitur vult Simo, venisse Chremetem praeter morem gentis atticae, et praeter suam ipsius spem. Docuit tamen #Gesnerus in thes.# v. _ultro_, propriam vocabuli +ultro+ vim in eo esse, ut initium aliquod actionis significet ab eo, unde non exspectabatur. +Ultro+ quum aliquid fieri dicimus, nihil praecessisse indicamus eorum, quae alias solent. Itaque interdum per +insuper+ reddi potest, interdum +sponte+ videtur significate.
 
-+Sponte+ facere et +invite+ facere infer se opponuntur. 
-Ullro vero facit, qui non expectat, dum rogetur aut ad- 
-'moneatur, aut ut facial. Praeterea ap&nte 
-•Gliam locum babet in rebus inanimis, ut cum dicimus, 
-eecpora gravia sua $?onte deorsum ferri; u'fro vero tan- 
-num in rebus animaus, atque adeo in his, quøe rationis 
-•sunt participes. Servius ad Virg. Aen. 11. 145: Uttro 
-non est sponte, ram iam rogaverat, insuper et veniF 
-ab eo, quod est ullras•quia pli*, qaym ropvef't, #ae- 
-estiterunt. Scilicet amplius quid notat ullro, quam sponte. 
-Id eaim uuro fieri dicitur, quod praeter exspectaüonem 
-fib, et preeter quan fieri adsolet. Ter. Eun. l; 4. : 
-eQuid igltur faciam? non earn? ne nune qtidem, cum 
-.areessor ultro? et mox I. 4. 29: Te ultro accusabis, et 
-dabis ei ultro suppliciurn. Id igitur vult Simo, venisse 
-•remetem praeter morem gentis atticae, et praeter 
-suem ipsius spem. Docuit Lamen Gesnerus in thes. v. 
-:ultro, propriam vocabuli ultro vim in eo esse, ut initium 
-aliquod actionis significet ab eo, uude non exspectaba- 
-tur. Ultro quum aliquid fieri dicimus. nihil praecessisse 
-indicamus eorum, quae alias sölent. Ituque. inlerdum per 
-üuuper reddi polest, interdum sponte videtur significate. 
+$$1707$$
++Stagna+ et +Piscinae+ differunt. #Plin. HN. XXIII. 7#: *E manu vescuntur pisces in pluribus quidem Caesaris villis; sed quae veteres prodidere, in ==stagnis==, non ==piscinis==, admirati*. +Stagnum+, iudice #Gesnero in chreston. plin. p. 806.# erat locus, quo sponte et sine opera humana aqua erat collecta; +piscina+ autem lacus, ab hominibus effossus, vel piscium servandorum causa, vel alius commodi. In +stagnis+ pisces maiore fruuntur libertate.
 
+$$1708$$
++Statio+ distat ab +Excubiis+ +Vigiliisque+. De stationibus ita #Lipsius L. V. de Milit. rom. p. 87#: *Romanis mos fuit totas cohortes et turmas habere, et ponere quietas ante ipsas portas. Id vocabant ab ipsa re ==stationes==. Stabant enim.* #Caes. B. G. IV. 32#: *Duas cohortes in ==stationem== succedere iussit*. Palam hic pedites habes; at equites in #Sallust. Iug. C#: *Neque secus, atque iter facere, castra munire; excubitum in portas cohortes ex legionibus, pro castris equites auxiliarios mittere*. Distinguunt passim +stationes+ a +vigiliis+. #Liv. III. 5#: *==Vigiliae== in urbe, ==stationes== ante portas, praesidiaque in muris disposita*. #Tac. Ann. I. 32#: *==Vigilias==, ==stationes==, et si qua alia praesens usus indixerat*. +Excubiae+ et +vigiliae+, testibus #Vegetio# et #Polybio#, e quatuor viris; e contrario +stationes+ e pluribus, immo integris turmis aut cohortibus constabant.
 
-STAGNA et PISCINAE differunt. Plin. HN. XXIII. T: 
-manu vescuntur Pisces in pluribus quidem Caesaris vil— 
-lis; sed quae veteres prodidere, in stagnis, non piscinis, 
-admirati. Stagnum, iudice Gesnero in chreston. plin. 
-p. 806. erat locus, quo sponte et sine opera humana 
-a ua erat collecta; ptscina autem lacus, ab hominibus.. 
-e ossus, vel piscium servandorum causa, vel alius corn. 
-modi. In stagnis Pisces maiore fruuntur libertate. 
-STATIO distat ab ExcvB11S VIGILIISQVE. De stationibus 
-ita Lipsius L. V. de Milit. rom. p. 87: Romanis mos 
-fuit totas cohortes et turmas habere, et ponere quietas 
-ante ipsas portas. Id vocabant ab ipsa re stationes. Sta- 
-bant enim. Caes. B. G. lv. 32: Duas cohortes in statio— 
-nem succedere iussit. Palam hic pedites habes• at equites 
-in Sallust. lug. c: Neque secus, atque iter iacere, ca- 
-stra munire; excubitum in portas cohortes ex legionibus, 
-pro castris equites auxilianos miltere. Distinguunt pas- 
-sim stationes a vigiliis. Liv. 111. 5: Vigiliae in urbe, 
-stationes ante portas, praesidiaque in muris disposita. 
-Tac. Ann. I. 32: Vi9ilias, stationes, et si qua alia prae- 
-sens usus indixerat. Excubiae et vigiliac, testibus Vegetio 
-et Polybio, e quatuor viris; e contrario stationes e plu- 
-ribus, immo integris turmis aut cohorlibus constabant. 
-STATVRA significat cor oris quantitatem, ut statura 
-eminens, brcvis: Status (R) est corporis habitus, dispo— 
-sitio et Ter. Eon. 111. 5. 49: Videre nimium 
-vellem, Qui esset status. Donate 
-STILLARE, est guttas emitlere ex corpore, eæstillare 
-ipsum corpus guttatim finire. Donat. R. 
-STIMVLAMVR inviti; excitamur etiam ultro. Goclen. Hr 
-STIPENDIARIVS. V. VECTIGALIS. 
-STIPENDIVM a TRIBVTO ita differt, ut species a genere. 
-Nam stipendium proprie est pecuniaria militum merces, 
-seu, quod confertur in mercedem militum; tributum au- 
-tem est, quod in quemcumque usum reipublicae tribui- 
-tur. Ita omne stipendium est tributum, non contra. Quod 
-sensit Pomponius lurisconsultus D. Verb. sign. XXVII. 
-cum stipendium etiam tributum appellari ait. Sed ab im- 
-perio Augusti, qui cum populo provincias est partitus, 
-(I) Status est circa gestum situmque membrorum, Nguro 
-Circa ornatum et habitum vestis, insignium et armorum. 
-Taedian. R. 
-Google 
-Digitizeö by 
+$$1709$$
++Statura+ significat corporis quantitatem, ut "==statura== eminens, brevis": +Status+ (1) est corporis habitus, dispositio et σχῆμα. #Ter. Eun. III. 5. 49#: *Videre nimium vellem, Qui esset ==status==*. #Donat.#
+(1) +Status+ est circa gestum situmque membrorum, +figura+ circa ornatum et habitum vestis, insignium et armorum. #Paedian.##R.#
 
+$$1710$$
++Stillare+, est guttas emittere ex corpore, +exstillare+ ipsum corpus guttatim finire. #Donat.# #R.#
 
-•coepit alia harum vocum differentia, atqne eadem fere.' 
-quae aerarii et fisci. Quippe stipendium dictum . quod 
-bello victae provinciae Caesari quotannis pendebant; 
-tributum quod populi in aerarium inferebant. Unde prae-• 
-'dia alia stipendiaria, alia tribularia, auctore Theophilo. 
-STIRPS in significationc generis et sobolis, foeminino. 
-genere usurpatur . ut ait Virgil. Aen. VII. 293: Heu 
--stirpem invisam. Sed cum arborem et materiam signi- 
-ficat, masculino. Virg. Aen. 11. f 70: Sed stirpem Teuci•i 
-nullo discrimine sacrum Sustulerant. Sosipat. 
-STOLIDVS significat hebefem, agrestem, aut ineptum, 
-•vanus est levis, inconstans atque fallax. Sallust. Fragm. 
-ap. Gell. XVIII 4: At Cn. Lentulus patriciae gentis, • 
-collega eius, cui cognomentum Clodiano fuit, perincer- 
-tum stolidior, an vanior. Lucret. I. 1067: Sed vanus sto- 
-lidi8 haec omnia finxerit error. Gellius XVIII. 4. tradit : 
-Stolidos vocari non tam stultos et excordes, quam tetros 
--et molestos et illepidos, quos Graeci xai 
-dicunt; vanos autem esse mendaces et infidos, 
-levia inaniaque pro gravibus et veris astutissime compo- 
-nentes. Atque ita Sallustium his vocibus usum. Quod mihi 
-quidem non videtur. Neque enim Sallustius notavit Len- 
-tulum, ut morosum pariter et mendacem, sed et ineptum 
-et impetu magis, quam ratione utentem, tum eliam le- 
-vem et inconstantem. Stolidus est ad naturam bruto- 
-:rum; stultus (4) imprudens; ratuus qui nihil sapit. H. 
-STRABO oculos distortos habet, luscus uno captus est 
-•oculo. Gocl. I. c. H. Strabo plus vitii habet. quam pae- 
-tus. Hor. Sat. I. 3. 45: Strabonem Adpellat paetum 
-pater. Scholiastes ita ad h. I. commentatur: strabo di—• 
-citur, qui est distortis oculis, paetus, qui leviter decli- 
-natis, cuius huc aut illuc tremuli volvuntur. Hoc autem 
-decere magis, quam dedecere videtur, et venereum est; 
-quare ipsa Venus paeta dicitur. Ovid. Art. Am. 11. 659: 
-Si paeta est, Veneri similis; si flava, Minervae. Conf. 
-Gesn. annot. ad Hor. I. c. 
-STRENVVS. V. F0RTIS. 
-STRIA et STRIX in hoc differunt, quum utraque sit in 
-eo columnarum genere, quod striatum dicitur, ut stria 
-(I) Stultus hebetior corde, sic: Ego me ipsum stultum etiam 
-existimo, ratuum esse non opinor, h. e. obtusis quidem sen- 
-*Sibus, non tamen nuHis. CA. Plaut. Bacch. v. i. 2. Isidorus 
-yG6081e 
+$$1711$$
++Stimulamur+ inviti; +excitamur+ etiam ultro. #Goclen.# #H.#
 
+$$1712$$
++Stipendiarius+. V. %Vectigalis%.
 
-pan eminens, stric pan Nya, vel canalieulus• 
-at sulcus, quo stria una ab anera discernitur. V.itruw.• 
-ld. 3: Columnarum striae faeiendae suet xxrv. ita ex-- 
-cavatae, ut norma in cavc striae cum fuerit coniecta 
-circumacla ita anconibus striarum dex'era ac sinistra 
-angulos Langat, ut acumen normae eircum rolundatioae• 
-tangendo pervagari possit. 
-STVDIVM animi esl; Digciplöna artis. Front. R. 
-STVLTVS et STOLIDVS, si Valerium Maximum (VI. 9. n' 3. 
-extern.) audiamue, unum aque idem sonace viden&ua. 
-Ait enim : Cimonis vero opinione 
-fueunt referta : eiusdem imperia salutaria Alheniensew 
-senserunt. Itaque coägit eos stuporis semelipsos dam. 
-nare, qui eum stoliåsm crediderant. Verum si opli$B0B 
-scriptores inspiciamus, qui pæétn utramque vocem coa. 
-iunötim usurpaut, ali uod stne discrimen inter illos. 
-notabimus; sto'idum viåelicet ad brutorum naturam ma- 
-gig «ccedere, atque hominem signiåcare, qui fece 
-tionis sit expers, italice slupid9, scimunito; stuiåanv very * 
-hominem appeHari, qui quum possil ratione uti, im- 
-tamea non ulitur, i(aluce, sciacco . imprudente. 
-Solido opponitur callidus. acutus; stulto providus, prudaa. 
-Plaut. Bacchid. v. f. 2: StylLi, 8tüi. futui, fungi, bardü 
-blenni, buccones. Id. Trin. I. 2. 47b: Nihil est proecto• 
-"ultias neque stolidius. TH. VALL. 
-STVPOR esl stultitiae; Furor insaniae. Furor est maius; 
-Stupor minus. Deinde stupor est in re cognita; Impu- 
-dentia post rem cognitam abiectus pudor. Denique stupor 
-est inclinatio, el minus, Stupiditas est habitus, et maius. 
-Goclen. H. 
-STVPRVM iu virginem et viduam; adulterium in 
-tam; ineestus in consanguineas et sacras. H. 
-SVADBMVS facilia; persuadenus difUciEia; suadere fa— 
-cienlis est; persuadere perficientis. Valla v. 50. 
-SVB nonnunquam pro clam ponitur. Ut: subripuil, 
-clam fapuit. Aut fere notat aliqnid subditum. In aut 
-intus significat aut minus aut valde, et in composi— 
-lione pro non ponilur, uL: indoclus. Corn. Front. R. 
-SVBDVCI dicuntur, quae nolumus amiltere, supponi, 
-quae non desideramus. Donat. Subducimus, et quae re- 
-tm subtrahimus et quae in promtu offerimus belio. Sal— 
-lust. Cat. LXIX : Catilina optumum quemque in primarm 
-aciem subducit. Agraet. R. 
-Dagatzet by 
-0081e 
+$$1713$$
++Stipendium+ a +Tributo+ ita differt, ut species a genere. Nam +stipendium+ proprie est pecuniaria militum merces, seu, quod confertur in mercedem militum; +tributum+ autem est, quod in quemcumque usum reipublicae tribuitur. Ita omne +stipendium+ est +tributum+, non contra. Quod sensit #Pomponius Iurisconsultus D. Verb. sign. XXVII.# cum *==stipendium== etiam ==tributum== appellari* ait. Sed ab imperio Augusti, qui cum populo provincias est partitus, coepit alia harum vocum differentia, atque eadem fere, quae aerarii et fisci. Quippe +stipendium+ dictum, quod bello victae provinciae Caesari quotannis pendebant; +tributum+ quod populi in aerarium inferebant. Unde praedia alia +stipendiaria+, alia +tributaria+, auctore #Theophilo#.
 
+$$1714$$
++Stirps+ in significatione generis et sobolis, foeminino genere usurpatur, ut ait #Virgil. Aen. VII. 293#: *Heu ==stirpem== invisam*. Sed cum arborem et materiam significat, masculino. #Virg. Aen. II. 170#: *Sed ==stirpem== Teucri nullo discrimine sacrum Sustulerant*. #Sosipat.#
 
+$$1715$$
++Stolidus+ significat hebetem, agrestem, aut ineptum, +vanus+ est levis, inconstans atque fallax. #Sallust. Fragm. ap. Gell. XVIII. 4#: *At Cn. Lentulus patriciae gentis, collega eius, cui cognomentum Clodiano fuit, perincertum ==stolidior==, an ==vanior==*. #Lucret. I. 1067#: *Sed ==vanus== ==stolidis== haec omnia finxerit error*. #Gellius XVIII. 4.# tradit: *==Stolidos== vocari non tam stultos et excordes, quam tetros et molestos et illepidos, quos Graeci μοχθηρούς καί φορτικούς dicunt*; vanos autem esse mendaces et infidos, levia inaniaque pro gravibus et veris astutissime componentes. Atque ita #Sallustium# his vocibus usum. Quod mihi quidem non videtur. Neque enim #Sallustius# notavit Lentulum, ut morosum pariter et mendacem, sed et ineptum et impetu magis, quam ratione utentem, tum etiam levem et inconstantem. +Stolidus+ est ad naturam brutorum; +stultus+ (1) imprudens; +fatuus+ qui nihil sapit. #H.#
+(1) +Stultus+ hebetior corde, sic: *Ego me ipsum ==stultum== etiam existimo, ==fatuum== esse non opinor*, h. e. obtusis quidem sensibus, non tamen nullis. Cf. #Plaut. Bacch. V. 1. 2.# #Isidorus X.# #R.#
 
+$$1716$$
++Strabo+ oculos distortos habet, +luscus+ uno captus est oculo. #Gocl. l. c.# #H.# +Strabo+ plus vitii habet, quam +paetus+. #Hor. Sat. I. 3. 45#: *==Strabonem== Adpellat ==paetum== pater*. Scholiastes ita ad h. I. commentatur: +strabo+ dicitur, qui est distortis oculis, +paetus+, qui leviter declinatis, cuius huc aut illuc tremuli volvuntur. Hoc autem decere magis, quam dedecere videtur, et venereum est; quare ipsa Venus paeta dicitur. #Ovid. Art. Am. II. 659#: *Si ==paeta== est, Veneri similis; si flava, Minervae*. Conf. #Gesn. annot. ad Hor. I. c.#
 
+$$1717$$
++Strenuus+. V. %Fortis%.
 
-. Svwpq, 
-sülusere uql fupdu(b polere 
-godegq. 
-eL the, 
-$YBT1bE de 1(1, Stqiqii 
-oralionis etiam genus et, ceph 
-"d „ exilß>, Gi*O 
-dubilßt, dß pr,onweiøte, Vult igi&ur dih 
-"*per 'Odem 
-utilug his Wklilß id, quod! irwq•. 
-reper,tum eqL 
-qu«l 
-quae eti qupq) 
-donantpr. Gjce dg,; 
-poguli suffragii& polui. Agraet. R. 
-VMIMVS, quae posita sunt; accipimus quae porrigun- 
-tur, sumimus, ipsi. accipimug ab alio quod datur, Sive 
-rem datam capendo tollimtö. 
-SVPER est, quod eminet; supra quod substratum ali- 
-quid habet; subter, quod a re aliqua superiori premi- 
-tur et conculcatur; subtus, quod demissum non 
-cntingitur. Age. notal continuum. eiqee 
-dab subte«; nont sea4imn, 
-pondåb intrag supta dB et boo. antea dee umpor... 
-eat a haboob ek esL proprie 
-pediens mentis elatio: armgantiß auLam in 
-perem cadit. Corn. Fm. 
-SVRPRVåßANAVM es*, quo' non nece.viuo ut; Eper- 
-v.um eat, qwxi eV suparnniL Sall.. Catil« 
-IlliA supenyaoanaum eat, pgnare pro pobætia pu»qrum, 
-Quod Demosthene, qui oratiooe 
-Oil: QUTQK mepnvgi«g p..Q:ö h. 
-e. Huic auteo upervgcaaeum oså me accuape. Gelliuø 
-L 22 : Quad guperuuoeum esael ao non 
-El mox : Nosknos veåeres superesse *lias dixißW pro sue 
-pepfluentj 
-SVPPLICIA de tormenüs dicimus:: Sgppliogtioøes de prep 
-cibus, divinis. Agraet. R. 
-SYPREMV$„ svmmus et gliimus et superiorem et intem 
-Rioree significat. AgnaeL. R. 
-SVSPICAX arguit; swpigiosga recipit. Corn. Fr. H. 
-SYLVA generale est; saltw sylva densa•, Kucu: diis sacra. 
-Google 
-Digitizeö by 
+$$1718$$
++Stria+ et +Strix+ in hoc differunt, quum utraque sit in eo columnarum genere, quod striatum dicitur, ut +stria+ sit pars eminens, +strix+ vero pars cava, vel canaliculus et sulcus, quo +stria+ una ab altera discernitur. #Vitruv. III. 3#: *Columnarum ==striae== faciendae sunt XXIV: ita excavatae, ut norma in cavo ==striae== cum fuerit coniecta, circumacta ita anconibus ==striarum== dextra ac sinistra angulos tangat, ut acumen normae circum rotundatione tangendo pervagari possit*.
 
+$$1719$$
++Studium+ animi est; +Disciplina+ artis. #Front.# #R.#
 
-SYMBOLA est collatio eranigtae ad convivium : quisque 
-enim quod ad manum era', conferebat : mutato vero 
-genere symbolum vocabant annulum, vel quidvis aliud,• 
-arrhae loco solitum dari ei sodalium, qui iubebatur coe- 
-nam parare. Casaub. Animadv. in Athen. 111. 31. quid 
-vero est symbolus ? etc. Front R. 
-SILENTIYM auspiciorum proprium verbum erat, eoque 
-nomine, ut Cicero interpretatur, appellabant, quod omni 
-vitio carebat. Festus inter sinistrum auspicium et silen- 
-aum hoc interesse ex Atteio Capitone scribit : Quod si-' 
-nistrum in auspicando laetum et prosperum auspicium 
-significet; at 8iIentium, ubi dumtaxat vacat vitio: Igi- 
-tur silentio surgere quum dicitur, significat non inter- 
-pellari, quo minus rem gerat, 
-sinistrum vero hortari 
-quoque auspicia ad agendum, quod animo quis propo-' 
-suent. Conf. Gesnerus in thes. v. silentium. 
-T. 
-TABERNA. V. OFFICINA. 
-TABVLA et LINTEVM PICTVRATVM perperam a nonnullis 
-promiscue usurpantur. Illa enim est italis: una dipin- 
-tura in sul legno; hoc vero : un dipinto sulla tela. Cic. 
-Fin. v. : Epicuri imaginem non modo in labulis, sed 
-etiam in poculis habere. Plin. HN. xnl. 21. Nero ius- 
-serat se pingi in linteo. TH. VALL. 
-TABVLARIVM (Leg. 92. D. de Legat., 111.) est publi- 
-cum; Tablinum privatum. Nam tabularium, graece dp- 
-xeiov, erat repositorium instrumentorum et litterarum, 
-seu locus publicus adservandis instrumentis et tabulis, 
-in quibus omnia praedia, pascua, vectigalia, portoria, 
-redemtionesque publicanorum perscripta eranl; Tabli- 
-num vero erat locus in nedibus prope atrium, in quo 
-veteres Romani coenabant* et tabulas rationum sua- 
-rum reponebant. Plin. HN. xxxv. 2 : Tablina codicibus 
-implebantur, et monumentis rerum in magistratu ges- 
-tarum. Virg. Georg. II. 502 : Insanumque forum, aut 
-populi tabularia .vidit. Liv. XLIII. {6: Censores in atrium 
-Libertaüs adscenderunt, et ibi signatis tabellis publicis, 
-clausoque tabulario, et dimissis servis publicis. Vetus 
-Inscriptio : C . Calpetanus . Statius . Sex . Metronius . 
-Digitizee by 
-008 Ie 
+$$1720$$
++Stultus+ et +Stolidus+, si #Valerium Maximum (VI. 9. n° 3. extern.)# audiamus, unum atque idem sonare videntur. Ait enim: *Cimonis vero incunabula opinione ==stultitiae== fuerunt referta: eiusdem imperia salutaria Athenienses senserunt. Itaque coëgit eos stuporis semetipsos damnare, qui eum ==stolidum== crediderant.* Verum si optimos scriptores inspiciamus, qui passim utramque vocem coniunctim usurpant, aliquod sane discrimen inter illas notabimus; +stolidum+ videlicet ad brutorum naturam magis accedere, atque hominem significare, qui fere rationis sit expers, italice <span lang="it">stupido</span>, <span lang="it">scimunito</span>; +stultum+ vero hominem appellari, qui quum possit ratione uti, imprudens tamen non utitur, italice, <span lang="it">sciocco</span>, <span lang="it">imprudente</span>. +Stolido+ opponitur _callidus_, _acutus_; +stulto+ _providus_, _prudens_. #Plaut. Bacchid. V. 1. 2#: *==Stulti==, ==stolidi==, fatui, fungi, bardi, blenni, buccones*. #Id. Trin. I. 2. 178#: *Nihil est profecto ==stultius== neque ==stolidius==*. #Th. Vall.#
 
+$$1721$$
++Stupor+ est stultitiae; +Furor+ insaniae. +Furor+ est maius; +Stupor+ minus. Deinde +stupor+ est in re cognita; +Impudentia+ post rem cognitam abiectus pudor. Denique +stupor+ est inclinatio, et minus, +Stupiditas+ est habitus, et maius. #Goclen.# #H.#
 
-. Perpenna . Luréo . P . Sartius . Decianus . Curato- 
-res . Tabularior . Publicorum . Fac . Cur. 
-TACERE, RETICERE et OBTICERE. boc differunt, quods 
-Cacemus consilia, reticemus dolores, oblicemus quorurn 
-nos pudet. Ter. Heaut 1. f. 33: Ne refice, ne verere, 
-crede, inquam, mihi. Id. Eun. v. 1. 4: Virgo, conscissa, 
-veste, lacrumans obticet. Donat. 
-TACITVRNVS est, qui facile •tacet; Tacitus argutus etiam, 
-qui polest aliquando tacere; seu tacitus tacet dum non 
-loqmtur; taciturnus taéenda reticet et oblicet. 
-TALOS inter et TESSERAS intercedit discrimen, Cic. de 
-Sen. XVI : Nobis senibus ex lusionibus multis tg108 re- 
-Iinquant et tesseras. Gronovius ex antiquitate demons- 
-trat, tesseras fuisse a talis diversas, quippe talorum ma- 
-ior numerus. In testimonii partem adducit illud Mart. 
-Epigr. XIV. Non sim talorum numero par tessera. 
-Talis enim quatuor ludebatur, tessetis plerumque dua- 
-bus, ad summam tribus. Tesserae nempe binae duodecim 
-habebant puncta, si exsistant duo seniones, in qui- 
-bus per tesseras numeratur usque ad MI. puncta. Vi- 
-detur tamen senio iunctus fuisse, dictus alias basilicus, 
-item Venus, cui opponebatur canicula. Lucem his dat 
-Pers. Sat. 111 48: Quid dexter senio ferret, Scire erat 
-in votis, damnosa canicula quantum Raderet. Tali de- 
-scriptionem ex Stephano Londinensi dedit Gesn. in thes. 
-v. talus. l'essera erat cubus Sive solidum quadratum, 
-a quaternis singulorum sex angulis laterum dictum 
-Téacapes quatuor. A tesseris calculi iterum differunt. 
-Martial. LV. : Hic mihi bisseno numeratur tessera 
-puncto; Calculus hic gemino discolor hoste perit. 
-TANDEM refertur ad tempus, et differt ab adverbio po- 
-stremo, quod usurpatur praesertim in enumerationibus. 
-Virg. Aen. VI. 64 : Iam tandem Italiae fugientis pren- 
-dimus oras. Cic. ND. I. 37 : Quaero igitur vester Deus 
-primum ubi habitet; deinde quae causa eum loco mo- 
-véat; postremo Deus quid appetat. TR. VALL. 
-TARDVM inter et PINGVEM multum interest. Turpius 
-dicitur pinguis quam tardus. Hor. Sat. I. 3. 58 : Illi 
-Tardo cognomen pingui et damus. l'ardus est homo cau- 
-tus, pinguis stupidus, v. Gesn. ad h. I. 
-TECTA, ne videantur, tacita, ne dicantur. Tecta sunt, 
-me haec alii sciant, tacita, ne i se indicet. Donat. R. 
-TEGVLA est plana, et latera abel hinc inde erecta; 
-Google 
-Qigitizeö by 
+$$1722$$
++Stuprum+ iu virginem et viduam; +adulterium+ in nuptam; +incestus+ in consanguineas et sacras. #H.#
 
+$$1723$$
++Suademus+ facilia; +persuademus+ difficilia; +suadere+ facientis est; +persuadere+ perficientis. #Valla V. 50.#
 
-est curva. *bøtemitor; buc s*'impqnje, 
-tur. Plaut. Mil. IL. 6.24; Qud 
-eo et tegu" Tu. 
-V. Anju. 
-TBbLVREN deam et glQlnm terrestnem dioinus, 
-vero elementum et solum glahem. R. 
-TEMERARIVS est. qui sine saluLis ebiicit 
-pariculis, .4uda.c sine ratione impeturp 
-d" non ptunet; Ineraeiu; nan •time'. Gm. mtQ, 
-TEMERITAS sine cmsilio dicitur, aud.ü 
-Iium. Agr. 
-(f) animor,uæ; rerun; 
-tempørUß culi .øi et 
-rum. Agr. 
-TENPLURE sibi a menda$is. eat abetinere; g.maw 
-rempublicam kgibus eja Pmprie aulæn 
-perre {uüpqre el mod0 ac4ianes sw 
-ru divanas Qroponlionaliler øompooere. H, 
-TEMPLA nonaulli exislimaat esse iig at- 
-tribulor.um; Dalubra mullar• aedium sub 
-teclo, a diLu.vio -plu,viae munihrum; Fang, •fat.: 
-petuntur. Alii delubraea diøunt 'ampla, in quihus sun* 
-labra corporibus abluendis, more Dpdonaei dovis, 
-Apollinis Delpbici, in quonum delubrjs labdes triwdesr 
-que viemtu•r. Paeöan. R. Taøplum (2) aedificiøm; 
-(1) Temperantia abstinentiam simul complectitur; est enfQ 
-temperantio domeelica et Givili8, duobusque modis in' rems 
-ab iis, in pqWsWP sÅt, parw.•e 
-rator. R. 
-(2) Non vero templum solum loci sacripropria notio eel. sed 
-etiam suram, delubrun, qnum, qacrariüm, 
-signi#cave jp,vemmye. Fiecis temporibgs 
-haec digerenllam jnterCessvs$e, cerium,egt, progressg tamen 
-temporum, et Ciceronis iam aevo, non usufpatam scriptionbbus 
-latinis eruditissi•mi Vivi adnotavøra, Sam. PjOisous lox. antique 
-sub templum. Bevnb. Mongaucop T. u. P. I. pu. 46. Intenxn 
-gmen pon omnes aedes sacras templ+ esse, ex Gellio 
-7, discimus: Aedes enim sacrae dicemntur eae, quae ad sa- 
-crum quemdam essent constitutae usum, j psa tamen augurationig 
-Ie e non sacrae redditae erant. 'ac. Gutheriu in iura PQDU'. 
-. 2: Sic aedes Vestae ad sacra peragepda patebat, cpnsør 
-cra,tague a pontjflce erat, minime tamen templum dicebatur 
-cum Ruma non inaugurari eam voluerjt, Gelhug xrv. 7: 'Gutbe- 
-riug c. l. Error vero, quod lerumque templum et aedessacra. 
-confunduntur. inde mea iu\icio originem sumgiC, quod, quic. 
-Google 
-Digitizeö by 
+$$1724$$
++Sub+ nonnunquam pro _clam_ ponitur. Ut: "==sub==ripuit, clam rapuit". Aut fere notat aliquid subditum. +In+ aut intus significat aut minus, aut valde, et in compositione pro _non_ ponitur, ut: "==in==doctus". #Corn. Front.# #R.#
 
+$$1725$$
++Subduci+ dicuntur, quae nolumus amittere, +supponi+, quae non desideramus. #Donat.# +Subducimus+, et quae retro subtrahimus et quae in promtu offerimus bello. #Sallust. Cat. LXIX#: *Catilina optumum quemque in primam aciem ==subducit==*. #Agraet.# #R.#
 
-desia coetas hominnm; a densitRLo aH)0N1n; Fa- 
-num a Fando; Sccellum sine tecto; Delubmn quasi, ia 
-quo peccau, Bid—hi ab ovibw bibaiibus. 
-TEMVLENTVS vino, temeraaiu$ nuura. Ter. Andr. I. 
-: Sane pol illa temünta est mulier ei temauü R. 
-TBNDßR8 proprie denotet rem trabeqdo ip lmgua dip 
-l.tare; deinde es' nisu et yrtgere; per 
-tendere est periipacitet et sine remisRione 
-lud constantiae; boc pertinaciae est. Vi . Au. v. 
-Locum lendunt superare priorem Ter. feaut. v. 5. 91: 
-Video, non licere, tLt hoc prladre. • 
-TENVIS signi6cat dimiLbtio»em rei, gubliis sero aqui„ 
-tatem habet. Ergo laudatu subüle inpnium, tenue vi- 
-tupoeal,ur. in Virgil. n. 
-omnes fere aedes sacras templa simul fulge cpnstat. et sanptas 
-quoque reperies. dum sacra in eig facla sclmus, alt. 
-loc. Pampon. Mela de situ orbiA 111.6, cur Bit *er- 
-CIAis jbi sita emciun;. i vero quivis scire posset videtß, 
-an tegwlum aeAis sacrae locus esset, in postico eius leges pop 
-nebant, quibus, an templa essent, descriptum Ie ebatur. Pfin. 
-Ep. x: 58. Porro delubre.m venit, quoi harM) admfuebaat dißø., 
-rentiom. sub uno cacto deor,uæ simulacra 
-beret. templum vero saltem unius adsen;arel. uti Bern 
-Montfaucon antiqu. explic. Tom. II. P. I. p. 46. Gutheriug rd. 
-adnotat. Quidam etiam delubrum, locum ante temNum, 
-aqua curvil. ubique labra abLuendorum corponu-o nontio- 
-temporißus area loci sacr 
-ec • Vario de LL. v. a fandO Ones templi, derivat •thblumquö 
-evadeba&, ei inaedidearetur. Adr. Turnpbus adversu. 1". 
-9. 19. Lure IL 3. pomqnq4,wn tem 
-parvum dict m tuisse Ciceronis tempore censent. 
-certurn, quos in eo etiam ab aede sacra djveryutn fuerit, quo 
-eculiarem habuerit custodem . cui fani cura commlssa, qui 
-ani maai*r jn antiquo lapide GuUwr. diciV. Q. ReCieiQ, M. 
-F. Fat. raw. I)Åau.c. Superest.. u' sqcelÅQ paupa - 
-neau;us, cuius nobis descriptionem dedit Gellius VT. 13. Fest 
-teste, est locus dils sacratus sine tecto. Neque ad privatos spe— 
-ctabanL, u' sacrarium. Socrarium ent locus in aedibus priva- 
-torum, quo deum privai0 oplku veaerab4nLur. et qbi 
-sacra reD0 ebaot, quod in aedificio pnvato neri pote$. . 
-2. ff. de åiv. rér. Piliscus lex antiqu. in sacrarrum. Sed ad" 
-saeeUg-n populo liberrimus pate' aditug, eaquo censorum cura 
-evaz. ne in privacorum aedibu'. sed ia publico esset. cuiu$ 
-rej testem vel maxime Livium ba»emus, qui M. Aemilio Lepido. 
-et hf. Fulvio censoribus laudi tribuit. quod. complura sacella 
-pUblica, quae occupata essent a privatis, publica, paterentquø 
-populo, e&cerint. 
-Google 
-Digitizeö by 
+$$1726$$
++Subsideo+ et +Subsido+ diversum habent significatum. +Subsideo+ notat subtus sedere vel fundum petere; +subsido+ autem deorsum cadere, descendere, fitque cum motu, et motum significat, v. #Gesn. thes.#
 
+$$1727$$
++Subtile+ ab +Acuto+ distinguit #Cic. de Orat. III. 18#: *Stoici orationis etiam genus habent, fortasse ==subtile==, et certe ==acutum==; sed ut in oratore, exile*. Vult igitur esse discrimen inter acutum et subtile. Non semper eodem modo utitur his verbis. Hic +subtile+ est id, quod acriori ingenio reperti et perspicacius est inventum; +acutum+, quod velut aculeis et quibusdam rationum acuminibus viget.
 
-TERES et RUTVRDVS : hastam dic teretem, malum die. 
-osse rotundum. R. 
-TERGVN proprie est dorsum. Unde terga vertere pro 
-'fugere; tergus est corium, ut Virg. Aen. I. 245 : Ter- 
-gora deripiunt costis, et viséera nudant. Id. tamen Aen. 
-11. 763. Tergum pro dorso ponit his verbis : Hinc rap- 
-tas fugientibus ingerit hastas In tergum. Immo tergum 
-dicit pro corio. Aen. I. 372 : Taurino quantum possent 
-circumdare tergo. Alias terga sunt hominum; tergora 
-animalium. Sosip. R. 
-TmMINVS manu ponitur et proprie eSt, ubi aliquid 
-incipit, aut desinit; finis generale est. H. 
-TERRA et SOLVM diversa sunl Servip ad Aen. v. {99: 
-Solum, inquit, notat, unicuique rei quod subiacet, unde 
-est solum navis mare; aér uvium; stellarum coelum. Ter- 
-rae solum dicit Lucretius v. 213. Peculiari tamen ra- 
-tione solum terra est, quia hominum et animalium est 
-fundamentum. V. Gesn. thes. v. Solum. 
-TERROR proprie est, qui aliis infertur, ut si dicas : 
-Ille habet terrorem, h. e. timendus est, unde et terri- 
-bili8 metus dicitur, quem habent timentes. Sic territamus 
-homines terribilibus minis, ut a malo deterreamus. Quam- 
-quam vero animus imperterritus terricula non curat; 
-attamen te divini iudicii terror a peccatis absterreat. 
-Comenius. 
-TESTAMENTVM inter et Codicillos quae differentia in- 
-tercedat, patet apertissime ex Plin. Ep. 11. 16. Codicilli 
-sunt scriptura, qua defunctus sine solemnilate volunta- 
-tem suam de eo testalus est, quod post mortem fieri 
-voluit. Hi non idem possunt, quod testamentum, nisi 
-illo sint confirmati. Proinde testamenta solemnius cons- 
-cripta sunt codicillis. 
-TESTARI et ANTESTARI. Antestari est verbum legale, 
-quando solebant testium aures tenere et ita dicere : 
-memento, te mihi in illa causa testem futurum. Est 
-ergo antestari, antequam manus iniiciat. Acron R. 
-THEATRVM •et AMPHITHEATRVM quid differant, ostendit 
-Plin. HN. de C. Curione xxxvl. 24, loquens his verbis : 
-Theatra duo iuxta fecit amplissima e ligno, cardinum 
-singulorum, versatili suspensa libramento, in quibus 
-utrisque antemeridiano ludorum spectaculo edito, inter 
-sese aversis, ne invicem obstreperent scenae: repente 
-circumactis ut contra starent, postremo iam die disce- 
-Google 
-Digitizeö by 
+$$1728$$
++Suffragia+ populi et quae honorant, dicuntur et quae donantur. #Cic. de Praefectura Urbana#: *Istum vix ullis populi ==suffragiis== redimere potui*. #Agraet.# #R.#
 
+$$1729$$
++Sumimus+, quae posita sunt; +accipimus+ quae porriguntur. +Sumimus+ ipsi, +accipimus+ ab alio quod datur, sive rem datam capiendo tollimus.
 
-dentibus tabulis, et cornibus inter se coöuntibus facie— 
-•bat amphitheatrum; et gladiatorum spectacula edebal. 
-Et Cassiodorus Variar. Ep. v. 42 : Cum theatrum he- 
--misphaerium graece dicatur . amphitheatrum quasi in 
-unum duo iuncta visoria, recte constat esse nommatum. 
-Isidorus dicit, amphitheatrum dictum, quod ex duobus 
-theatris sit factum. Nam amphitheatrum rolundum est, 
-theatrum vero ex medio amphitheatro est, semicirculi 
-figuram habens. Cf. Perotti cornucop. Epigr. I. col 78. 
-seqq. Hic celebrantur in urbe tria theatra, ut theatrum 
-Pompeii, Balbi, Marcelli, de quibus Strabo v. et Ovid. 
-Art. Am. nl. 394: Visile conspicuis terna theatra locis. 
-Amphitheatrum unum am lissimum Statilii Tauri quod 
-tempore Augusti extruit tatilius Taurus. et postea Ne- 
-romano incendio consumtum Vespasianus restituit, et 
-Titus filius absolvit dedicavitque, ut tradunt Svetonius, 
-Martialis, Papinius et alii. 
-TBENSA sunt sacra vehicula, pompa ordinum et hos- 
-tiarum. I'hensas alii a divinitate dici putanl: alii, quod 
-ante ipsas lora tenduntur, quae gaudent manu tenere 
-.et tangere, qui eas deducunt. Paedian. R. 
-THERMAE differunt a balneis. Siquidem thermae a graeca 
--voce calor. dicuntur loca, ubi aquis sponte ca- 
-.lentibus, aut cellis subiecto igne calefachs homines la- 
-vantur aut sudant. In balneis vero sunt etiam cellae 
-frigidartae, quae thermarum nomine venire non possunt. 
-Thermae aquis sponte calentibus fuerunt Olim ad Baias; 
-hodieque in Subalpinis ad Aquas Statiellas. Praeterea 
-thermarum nomine ( uti monet Marcellius, De Stil. 
-inscr. vol. I. p. 234) apud Romanos non balneae so- 
-lum publicae undicabantur, sed aedificia plane admi— 
-randa, in quibus praeter lavacra et laconica, nihil eo- 
-rum defuisse videiur, •quae possent voluptalem explere 
-atque animum relaxare. luven. Sat. VII. 233: Dum pe- 
-tit aut thermas aut Phoebi balnea, dicat Nutricem An- 
-chisae, etc. V. Balneae. TH. VALL. 
-TIARA differt a MITRA. Taubm. ad Plaut. Pers. lv. 2. 
-Tiaram diversam a mitra fuisse, et genus pileoli, quo 
-Persae Chaldaeique usi sint, docet Herod. VII. et S. 
-Hieronymus ad c. 3. Dan. De cuius forma curiose Bris- 
-sonius de regno Persarum I. 24. ubi, ait, tiaram fuisse 
-forma pilei, quod absque ulla orae latitudinae, aequabile 
-ex omni parte et rotundum erat ac in acutum desi- 
-Google 
-Digitizeö by 
+$$1730$$
++Super+ est, quod eminet; +supra+ quod substratum aliquid habet; +subter+, quod a re aliqua superiori premitur et conculcatur; +subtus+, quod demissum altius non contingitur. #Agr.# +Super+ notat continuum, eique respondet subter; +supra+ notat interiectum spatium, eique respondet intra; +supra+ de re et loco, +antea+ de tempore.
 
+$$1731$$
++Superbia+ est a super habendo et est proprie supergrediens mentis elatio: +arrogantia+ autem etiam in pauperem cadit. #Corn. Fr.# #H.#
 
-aene, dexam •c pauliutum 
-pendhs habeb8t. Eam bucoas •Clåßse •ostor- 
-dutib4 Metam. xl. : Tdmpoi•a purpureis lentaKt 
-vela-re, et luven. VI. 545: Phrygia testi- 
-'tur buu tiara. Dempsteres in adnot. ad Rosin. A. R. 
-m. M6. ita : Quid üscriminié Sit inlet mitram et 
-fiaram, primus, qui stium, admoåuil Brissonius. Nam 
-%ximus Syrios SRfi. x. mitrophoram a tiaropboto 
-discernit et 'HeN)dot. VIL tiaram Peysas gestasse Nri- 
-bit, Cigsetß vero Pileos, sea mitraø. Diffei•entig haec a 
-f«tia, ut puto, est; nah Gha kltiata erat iii 
-14nodbm dimidigtae lmae•, mitra Non itbm. Deignatut- 
-que Im discrimeü non obscere a Liutprando in legi- 
-*6he : Mulieres nætrøe Cimtae et lerk&atae, vii 
-quitant pi}eati. Conf. Sahnge. Exerc. plin. p. 263. et 892. 
-TIMER% proprie dst servorum. qui fömidine penat 
-•continentur; Vereri est liberoånn, qui viflUtis et 
-nesti amore ducuntur. Et timemug (I) domina ty- 
-pannos; Veremw parentøs et senioré et qai saM rn 
-tilim10 aut dignitate constituti. Cio. Senæt. N: 
-Metuebant eun servi, sereban•tge, oarcm omneg 
-habebant. Id. Quint. : Summa gratia et eloqueniia, 
-qaaråm alteram '*eor, altK&m metam Liv. : Ve- 
-fdmar qaidem vos, Romani, et si ita vultis, etiam li- 
-•fi&inus,• sed plus et ænnnr et .timemtjs deos iinmortäles. 
-Timeo titi idem est, ac sollioitus sum pm te; Timeo 
-est *éfbrryido te, ut H. 
-TIMOÄ est maloram, pudor ta-nWi böfioram. 
-Thor est dé futuro, odium praeænü. R. 
-TIMOR stm*tur physiee enque adfectn, qdo animal 
-'frtürum aliquod malum refortnidat. 7%miditae ethice, 
-et*le habitus vitiosus, quo homo timet, quod, ubi, 
-pndo, quoinmlo, quantum timere hÖa decet. 
-qui pedibøs non valet insistere, quales 
-• ebtii, infirtm, grandes netO Transferturetiam 
-ad animum. Nutare est elicuits tnale soti•htae 
-molis, ruinam minanLi9. VociUare Ét alternö in- 
-ømsthtntetu esse. 
-TOGA quid (tilfgrat a stola, constat inter omnes. Erat 
-(I) Timeo ab illo, cuius causa possum aliquid mali pati 
-etiam si ipse nihil in me mali congulat: metuo illum. qui 
-ülhi ipsi aliquid facturus est. Donat. R. 
-Digitizee by 
-008 Ie 
+$$1732$$
++Supervacaneum+ est, quod non necessarium est; +Supervacuum+ est, quod abundat et superfluit. #Sall. Catil. LVIII#: *Illis ==supervacaneum== est, pugnare pro potentia paucorum*. Quod sumsit a Demosthene, qui in oratione περὶ στεφάνου ait: *οὕτος  δ᾽ἐκ περιουσίας μοῦ κατηγορεῖν*, h. e. "huic autem ==supervacaneum== est me accusare". #Gellius I. 22#: *Quod ==supervacaneum== esset, ac non necessarium*. Et mox: *Nostros veteres superesse alias dixisse pro superfluenti et ==supervacuo==*. 
 
+$$1733$$
++Supplicia+ de tormentis dicimus: +Supplicationes+ de precibus divinis. #Agraet.# #R.#
 
-4+5 
-vh•ilis, Båte maliébris. Instita, fusii satis 
-•togae subsuta stolam effecisse, vel cent ÉtoPard #Ödu— 
-*isse videtur, ea talog imogqtre pedeg togeFéi. Reli- 
-togam stdläU ftiise girii*em• IsidbråS xfx•. 25. 
-&eet : Aitiquigsiihis tempotibus toga uttique sexui cbifi- 
-mtK1iS epat, sed pogtea faciä est Ijropribrn ves- 
-foeminae vero ueb&titur ii}lo tempore sto- 
-lis, heque tamen omnes; mek•etriceg et impudidåe 
-toga tiCi Cdgebantüt; V. BriW&A I. sel. ex ince antiq. 
-p. {O. s'. Ct Gesn. thes. v. instita. Tdgdin vestem fulsse 
-exteriöi•em; t&hieani interiorem, ver puedi nmUnt. 
-e" levure et erigere : Aüferre Iévtituth trads- 
-&Yt'é. Vitt. Aen. vril. 440: Tollite cunct&, inqui&, eoep- 
-au{EFte ldbdréS. Nwn. 
-Tbkl lecti pretiose strati ptqncipum homi- 
-num, diis vero strati lecti dicebantur pulvinc•ria, qaibus 
-.Sknulä&U deorum, et festis qqidem diebus dupes sacrae 
-ihiPöhébaitUr. Heumannus ad Cic. Mil. *XII. Exempla 
-titiidfiue VoAili significatum confirmantin Rddere su- 
-föret. De toro Sen. Agam. *111. Pellex todi re- 
-:gii. Conf. Virg. Ren. 11. 2. Statius Sylv. 111. 4. 86. 
-TÖRQVEM inter et MONILE differemiam statuit Isidorus 
-XIX. 31 : Torques, ait. et bullae a Vit'ig g€runttir, a foe- 
-minis mjritia et catenae. Sane FeStås etiarh II: Mönile 
-dietiim esti ohattis mulieris, qualetn habuisse Eryphi- 
-fibulae fertiht. Ovid. contra Met. v. 51 : Indutus 
-CllIattiYdem 'tyriam, quam Iitnbbs Obibat AureUS : orna- 
-bint uu\räta mmiilia Colliim. Sbhetrerds de antiqu. tor- 
-quibüå 'P. b13 OVidio pugnare ipsam nominis OH— 
-*itiérn ptitåt. 10. Nicolai dutem in notis obseftat, praeter 
-dtiarh M. Lanckisium iri ärtha spirititali, 
-et Th. Bdl•thölihdth in ter. de armil. vet. p. 43. 
-Vrbbasse, rildnile noti sölum feminis, 
-sed etiam vifis 
-00iiVenire. Bartholitiö calculum addit Cålvihus in lei 
-iUPidic. p. 590. Bene igitur Faber sctibit : Mönile, ot- 
-namehtukhJdölti Virginutn vel im*enurn ingenuorum, inde 
-dictum, quod virtutis admbneät, conf. Gesn. thes. v. 
-monile. 
-TORQVEMVS hominem, extorquemus veritatem. Do- 
-Mdt. R. 
-TofiRIS adhuc a-rdens, extinctus tilio Get. h. 
-TOTVM est unius corporis plenitudo, ut totum iddito- 
-rium, id. est, integrum; Omid de ühivét•siÉ didittiUS. 
-Google 
-Digitizeö by 
+$$1734$$
++Supremus+, +summus+ et +ultimus+ et superiorem et inferiorem significat. #Agraet.# #R.#
 
+$$1735$$
++Suspicax+ arguit; +suspiciosus+ recipit. #Corn. Fr.# #H.#
 
-ut omne auditorium, idest, universa auditoria. Servias- 
-TOTVS V. Omnis. 
-TRANQVILLITATEU a MALACIA distinguit Seneca Ep. 
-LXVII: Sed in Otio inconcusso iacere, non est tran-- 
-quillitas, malacia est. Tranquillitas igitur non est sine 
-omni actione et motu. Malacia, vocabulum graecum, 
-. sed civitate romana donatum, proprie usurpatur, cum 
-mare stat sine ventis, et fere sine motu. Caesar B. G. 
-111. {5, ubi de mare loquitur, utrumque vocabulum con-, iunxit : Ac iam conversis in eam partem navibus, quo 
-ventus ferebat, tanta subito malacia ac tranqui"itas ex— 
-titit, ut se loco movere non possent. Postponit h. l. 
-tranquillitatem malaciae, ut crederes, tranquillitatem 
-omm fere motu carere, malaciam non item. Sed quis 
-. nescit, differentias saepissime ab ipsis romanis negligi 
-scriptoribus. 
-(1) rem aliquam cum aliquo; non decido 
-autem rem aliquam, sed de aliqua re et per aliquem, 
-. item absolute. Vid. Goclenii Observ. LL. p. 249. di- 
-. centis, duas hasce formulas solo eloquendi modo dif— 
-ferre. H. 
-TREPIDATIO ad vocem refertur loquentium, cursatio ad 
-sonum pedum. Donat. 
-TRIBVLA et PLOS,TELLVM vehicula erant, quibus veteres 
-.frurnenta terebant in area, diversi tamen generis. Varro 
-de R. R. I. 52, alterum ab altero differre, conceptie 
-verbis. docet: E spicis in aream eacuti grana. Quod ft 
-apud glios iumentis iunctis ac tribulo. Id Ft e tabula la— 
-pidibus aut ferro asperata, guo imposito auriga aut pon— 
-dere grandi trahitur iumentzs iunctis, ut discutiat e spica 
-grana : aut ej assibus dentatis cum orbiculis, quod vocanr 
-plostellum poenicum. In eo quis sedeat atque agitet, quae 
-grahant, iutnenta. Th. Reinesius in diss. de lingua pu— 
-nica tribulam cum plosteUo confundit. Error, iudice 
-Vitringa com. iu Ies. t. 11. p. BO. exiguus est, quod 
-exigua inter haec 'instrumenta differentia fuerit. Utrius— 
-que figuram expressit Schoettgenius in antiqu. triturae• 
-(I) Transfer!, quod manifestum est, ecpedire, quod defl- 
-niendum. a so vere, quod dividendum. Transigere est. uod 
-aut conateri npn timeat, aut negationem excludat; expe ire, 
-*quod definitione solvatur; absolvere, quod per qualitatem Ii— 
-citum esse monstretur. Paedian. R. 
-Google 
-Digitizeö by 
+$$1736$$
++Sylva+ generale est; +saltus+ sylva densa, +lucus+ diis sacra.
 
+$$1737$$
++Symbola+ est collatio eranistae ad convivium: quisque enim quod ad manum erat, conferebat: mutato vero genere +symbolum+ vocabant an<del hand="transcriber">n</del>ulum, vel quidvis aliud, arrhae loco solitum dari ei sodalium, qui iubebatur coenam parare. #Casaub. Animadv. in Athen. III. 31.# quid vero est symbolus? etc. #Front.# #R.#
 
-V. 34. 36. ex eo autem Herm. Christ. Paulsen in tract. 
-lingua germanorum de agricultura orientalium conscri- 
-pto. Longum foret, verba Schoettgenii exscribere. Dis- 
-putat idem contra Schefferum de Re Vehicul. 11. 7. {28: 
-e cuius sententia asseres plostelli dentati non leves ae- 
-qualesque, sed in modum serrae crebris incisuris as- 
-perali dénlatique sunt. Sed fraudi viro fuit, vox axibus, 
-uam ille, pro assibus, seu, ut minus recte quidam 
-icunt, asseribus sumsit. Differentiam horum verborum 
-exprimit etiam Virg. Georg. I. 454: Tribulaqre, tra— 
-baeque,• et iniquo pondere rastri. Lege sis Paulsen. (32. 
-TRIBVLA grana terit•,_ Tribuli nascuntur in agris. H, 
-TRIBVNALIA dicuntur maiora exercentium (v. g. tri— 
-bunorum triumvirum, quaestorum etc.) iudicia, subsellia 
-autem minora, et eorum, qui non in sellis curulibus, 
-nec tribunalibus sedebant. Goclen. H. 
-TRIBVNVS et PRAEFECTVS valde discrepant. In militia 
-romana praefectorum nomen ad auxilia et socios, non 
-ad legiones pertinebat. Quod tribuni in legione, praa— 
-tecti in auxiliis erant. Reperimus autem praefectos cum 
-an exercitu equestri auxiliorum, tum in pedestri. Nota— 
-vit tamen clar. Damnius Berolinus ad Cic. Ep. Fam, 
-11. 47, praerectum, absolute positum constanter, signifi— 
-care ducem equitum. Vellem testes addidisset. 
-TRIBVTARIVS. V. VECTIGALIS. 
-TRIBVTVM est pecunia, quae populo imperatur, ita 
-dictum, quod a singulis proportione census exigitur, ut 
-Varro tradit, vel ab intributrone• aut quod militibus 
-tribuitur, auctore Ulp. D. de Verb. Sign. XXVII : Vecti- 
-gal proprie dicitur, quod pro invectione, vel evectione 
-mercium debetur. Sed generaliter significat omne, ex 
-uo respublica reditum habet, veluti vectigal portus, 
-ecumarum, vicesimae, scripturae, salinarum, metallo- 
-rum. et similiurn. Ultro tribula erant redemturae ope— 
-rum publicorum faciendorum, quae censores quinto quc— 
-que anno mancipibus certa mercede locabant, sic ap- 
-pellata, quod ab ipsis locatoribus ultro attribuerentur 
-et persolverentur. Plutarchus in vita Catonis vocat 'Ep— 
-Itaque tributum et vectigal erat. fructus et re— 
-ditus reipublicae. Illud graecis est TAOS, et res atque 
-fundos maxime spectat; hoc graecis et in capita 
-_resque mobiles Imponitur. Ultro tributa autem erane 
-sumtus et impensae publicae. Varro Lihg. Lat. v. 2 : 
-Auanii Popmae etc. 
-Google 
-Digitized by 
+$$1738$$
++Silentium+ auspiciorum proprium verbum erat, eoque nomine, ut #Cicero# interpretatur, appellabant, quod omni vitio carebat. #Festus# inter +sinistrum+ auspicium et +silentium+ hoc interesse ex #Atteio Capitone# scribit: *Quod ==sinistrum== in auspicando laetum et prosperum auspicium significet; at ==silentium==, ubi dumtaxat vacat vitio*: Igitur "==silentio== surgere" quum dicitur, significat non interpellari, quo minus rem gerat, "==sinistrum==" vero hortari quoque auspicia ad agendum, quod animo quis proposuerit. Conf. #Gesnerus in thes.# v. _silentium_.
 
+$$1739$$
++Taberna+. V. %Officina%.
 
-Lustrum nomioatum tempus quinqueanale a lundo, 
-hoe est, solvendo, quod quinto quoque anno vectigalia 
-ultro tributa per censores persolvebantur. Liv. XXXIX. 
-: Vectigalia sumnis pretiis, ullro tribula infimis Io- 
-caverunt. Idem XLIII. {6 : Edixerunt. ne quis eorum 
-qui, C. Fulvio, A. Postumio Censoribus, ublica vecli- 
-galia, aut ultro tributa conduxissent, ad {astam suam 
-accederet. Sed interdum vectigal latissime pro tributo 
-atque stipendio accipitur, et vectigabes provinciae agrive 
--pro stipendiariis vel tributariis. Festus. Vecligal aes di- 
-citur, quod 0b tributum el stipendium, et equestre, et 
-ordinanum populo debetur. 
-TRICENI de tncenis dices; trigeni, de triginta. Agraet. R. 
-TRISTIS et SEVERVS diversam habent significalionem. 
-Ter. Andr. v. 2. {6: Tristis severitas inest in vultu, 
-atque in verbis fides. Cic. Amic. XIII : Tristiåa autem 
-et in omni re severitas habet illa quidem graviuatem. 
-Tac. distinguit Hist. I. : Aestimalione recta severus, 
-deterius interpretantibus tri81ior habebatur. V. Wester- 
-hius ad Ter. l. c. 
-TRVCIDO graecis plus est quam occido, seu 
-graecorum illud Est enim trucido immaniter, 
-seu summa cum saevitia atque truculentia occido; ut 
-siquis occidatur ictibus. Gocl. H. 
-in bello ad convocandos milites, tibia in sacris 
-uteba•tur. Tibiae ex buxo, tubae ex aere plerumque ar- 
-gentoque factae; tibiae minores, oblongae et foramino- 
-He, tubae maiores, ad exlremilatem incurvae saliem 
-licet caeteroquin in longitudinem protensae, ac sine fo- 
-raminibus. Struv. Syntagm. A. Q. p. 639. Differenüa 
-harum vocum etiam palet ex proverbio: tibiam tubae 
-comperare. 
-TVMVLTVS est perturbatio magna et repens, quae ex 
-ioslili incursu, aut populari seditione oritur (d); turba 
-vero est turbatio minor. Cicero Philipp. vnl: Quid est 
-anim tumultus, nisi perturbatio tanta, ut maior rumor 
-oriatur? Unde etiam nomen ductum est tumultus. Itaque 
-(l) Tamunum a bello differre Cicero Ont. Phillipp. II. 0-- 
-Dicebant sodi Antonii, esse tumultum mitius verbum, 
-uam bellum. sed CicerO r e 
-ellum, ut si quis dicat hom 
-•multum dicit diclt quoque bellåm, ut sub geneN 
-species. Haec écknius roc. napr p, 
-Google 
-Digitizeö by 
+$$1740$$
++Tabula+ et +Linteum+ picturatum perperam a nonnullis promiscue usurpantur. _Illa_ enim est italis: <span lang="it">una dipintura in sul legno</span>; _hoc_ vero: <span lang="it">un dipinto sulla tela</span>. #Cic. Fin. V. 1#: *Epicuri imaginem non modo in ==tabulis==, sed etiam in poculis habere*. #Plin. HN. XIII. 21#: *Nero iusserat se pingi in ==linteo==*. #Th. Vall.#
 
+$$1741$$
++Tabularium+ #(Leg. 92. D. de Legat., III.)# est publicum; +Tablinum+ privatum. Nam +tabularium+, graece ἀρχεῖον, erat repositorium instrumentorum et litterarum, seu locus publicus adservandis instrumentis et tabulis, in quibus omnia praedia, pascua, vectigalia, portoria, redemtionesque publicanorum perscripta erant; +Tablinum+ vero erat locus in aedibus prope atrium, in quo veteres Romani coenabant, et tabulas rationum suarum reponebant. #Plin. HN. XXXV. 2#: *==Tablina== codicibus implebantur, et monumentis rerum in magistratu gestarum*. #Virg. Georg. II. 502#: *Insanumque forum, aut populi ==tabularia== vidit*. #Liv. XLIII. 16#: *Censores in atrium Libertatis adscenderunt, et ibi signatis tabellis publicis, clausoque ==tabulario==, et dimissis servis publicis*. Vetus Inscriptio: *C . Calpetanus . Statius . Sex . Metronius . M . Perpenna . Lurco . P . Sartius . Decianus . Curatores . ==Tabularior== . Publicorum . Fac . Cur*.
 
-410 
-•maiores nostri tumultum italicum, quod erat domesticus, 
-qumultum gallicum, quod erat Italiae finilimus, praeterea 
-mullum tumultum nominabant. Liv. xxv. 4: Qui turba 
--ac tumultus concitatores foerant. 
-TVNC, temporis adverbium est; Tum, ordinis. Clarus. H. 
-TVRBAM angustus locus facit; frequentiam mullitudo. 
-Corn. Front. 
-facit turbinis; si 
-TVRBO quando appellativum esl, 
-•nomen proprium, turbonis, ut Horal. Sat. 11. 3. 310 : 
-Turbonis in armis. Serv. R Alius a turbine trochus erat. 
-Trochus erat circulus aeneus magnus, cui annuli multi in- 
-serti erant, ut strepitu obvii trocho cederent de via. Ansa 
-adprehensus in longum mittebatur, volutabaturque cum 
-•strepenlibus annulis. Hanc ansam Propertius clavem vocat. 
-Turbines autem erant, quorum inferior cuspis in eodem 
-loco non circumageretur, sed scutica agitali vagarentur. 
-Tirg. Aen. Yd. 378: Ceu quondam lorto volilans sub 
-vespere turbo, Quem pueri magno in gyro, vacua atria 
-•circum, Intenti ludo exercent: Ille actus habena Cur- 
-Tatis ferlur spaliis. V. Bulenger de ludis vet. p. I f. s. 
-TVRPE et FOEDVM uam habeant distanliam, manife- 
-stum est. Nam turpe evior res; foedum vim habet maio• 
-•rem. Quaedam enim lurpiludo libera est et ab omni 
-• poena soluta. Goclen. R. Cic. de Off. I. 34: Luxuria 
-•.vero cum omni aetati turpis, tum senecluli roedissima 
-est. Non. 
-TVRPE est, quod omni laude alque honore est spo:- 
-liandum; nelanum, quod lege cumprimis est coércen- 
-dum. Neranum plus, turpe minus. Distinxit Cic. Off. II. 
-22: Habere enim quaestui rempublicam non modo turpe 
-æst, sed sceleratum etiam atque nerarium. Manutius ad 
-ita: Turpe reddit sordidum, sceleratum facinus, 
-publice contra ius in rempublicam admissum. 
-TVRPITVDO est animi, quae celata esse potesl. Foeditas 
-autem proprie oculis oblicitur. Sed tamen hoc discri- 
-men a latinis vel optimis non semper servatur. R. 
-TVTELA ad eos spectat, qui per aetalem se defendere 
-unequeunt, fides et clientela ad illos, qui sumcienii robore 
-•destituuntur. 
-TVTOR datur personae, curator vero rei. Tutor datur 
-ämpuberibus, curator puberibus. R. 
-Google 
-Digitizer} by 
+$$1742$$
++Tacere+, +Reticere+ et +Obticere+, hoc differunt, quod +tacemus+ consilia, +reticemus+ dolores, +obticemus+ quorum nos pudet. #Ter. Heaut. I. 1. 33#: *Ne ==retice==, ne verere, crede, inquam, mihi*. #Id. Eun. V. 1. 4#: *Virgo, conscissa<del hand="transcriber">,</del> veste, lacrumans ==obticet==*. #Donat.#
 
+$$1743$$
++Taciturnus+ est, qui facile tacet; +Tacitus+ argutus etiam, qui potest aliquando tacere; seu +tacitus+ tacet dum non loquitur; +taciturnus+ tacenda reticet et obticet.
 
-ULCISCOR illatam iniuriam, vindico, ne accipiam. R. 
-ULCVS est, quod nascitur, et fit in primis, cum acris; 
-humor carnem ulcerate Vulnus, quod ab alio infertur. 
-A r. Ulcus tecta et clausa est malignitas; Virg. Georg. 
-453: Quam si quis ferro potuit rescindere summum 
-Ulceris os. Alitur vitium, vivitque tegendo. Vulnus hians 
-ac patens. Virg. Aen. IX. 87: Produxi, pressive oculos, 
-aut vulnera lavi veste tegens. Non. Ulcus mnatum, vulnus 
-illatum. 
-ULLVS. V. ALIQVIS. 
-ULTIMVS orbis, novissimus ordinis. H. 
-UMBO et SINVS differunt ita, ut, ubi inciperet sinus 
-togae, ibi umbo desineret, et ipsum veluti umbonem am- 
-biret. Ea mens Tertulliani est: Nec artifice necesse est, 
-qui pridie rugas ab exordio formet, et inde deducat in 
-tilias, tolumque contracti umbonis figmentum custodi- 
-bus forcipibus adsignet. Mox: Recognito rursus umbone, 
-et si quid exorbilavit, reformato, partem quidem de 
-laevo promittat, ambitum vero eius, ex quo sinus na- 
-scitur, iam deficientibus tabulis retrahat a scapulis, et 
-exclusa dextera in laevam adhuc congerat, cum alic 
-ariter tabulato in tergo devoto. Umbo iste Tertulliani 
-aud dubie a sinu distinctus, centrum nempe et modus 
-artifex coöuntium plicarum. Ceterum non semper 
-bonem arcte coactum fuisse, docet Persius v. 33. 
-UNGVIS graece Bvvk, est in animalibus, quae habent 
-digitos. Ungula graece Biri, in illis, quae pedes habent- 
-solidos aut bifidos. Pl. HN. VIII. 70: Boves solidis un- 
-guiis. Cf. Plaut. Men. w. 5. "3. Plin. HN. 11. : Huic 
-(elephanto) informes membro quidem quinque, sed in- 
-divisi ac leviter discreti, ungulisque haud unguibus similes. 
-Ovid. Met. I. 742: Ungulaque in quinos dilapsa absumitur 
-ungues. TH. VALL. 
-URBS constat muris; Civitas incolis. Virgil. Aen. 11. 
-963: Urbs antiqua ruit, multos dominata per annos. 
-URERE inter et Sepelire discrimen intercedere, quili— 
-bet facile concedet, ut adeo longa expositione supersedere 
-possimus. Sepeliri proprie dicebantur: quorum cadaveræ 
-Digitizers by 
-0081e 
+$$1744$$
++Talos+ inter et +Tesseras+ intercedit discrimen, #Cic. de Sen. XVI#: *Nobis senibus ex lusionibus multis ==talos== relinquant et ==tesseras==*. #Gronovius ex antiquitate# demonstrat, +tesseras+ fuisse a +talis+ diversas, quippe +talorum+ maior numerus. In testimonii partem adducit illud #Mart. Epigr. XIV. 15#: *Non sim ==talorum== numero par ==tessera==*. +Talis+ enim quatuor ludebatur, +tesseris+ plerumque duabus, ad summam tribus. +Tesserae+ nempe binae duodecim habebant puncta, si exsistant duo seniones, in quibus per tesseras numeratur usque ad XII. puncta. Videtur tamen senio iunctus fuisse, dictus alias basilicus, item Venus, cui opponebatur canicula. Lucem his dat #Pers. Sat. III. 48#: *Quid dexter senio ferret, Scire erat in votis, damnosa canicula quantum Raderet*. +Tali+ descriptionem ex #Stephano Londinensi# dedit #Gesn. in thes.# v. _talus_. +Tessera+ erat cubus sive solidum quadratum, a quaternis singulorum sex angulis laterum dictum, τέσσαρες quatuor. A +tesseris+ +calculi+ iterum differunt. #Martial. IV. 17#: *Hic mihi bisseno numeratur ==tessera== puncto; ==Calculus== hic gemino discolor hoste perit*.
 
+$$1745$$
++Tandem+ refertur ad tempus, et differt ab adverbio +postremo+, quod usurpatur praesertim in enumerationibus. #Virg. Aen. VI. 61#: *Iam ==tandem== Italiae fugientis prendimus oras*. #Cic. ND. I. 37#: *Quaero igitur vester Deus primum ubi habitet; deinde quae causa eum loco moveat; ==postremo== Deus quid appetat*. #Th. Vall.#
 
-ignem non experiebantur, sed integra tradebantur humo- 
-{Cic. Leg. 11. 23: Hominem mortuum in uit lex in XII. 
-tab. in urbe ne sepelito neque urilo. Quol autem addit, 
-neque urito, indicat; non qui uratur, sepeliri, sed qui 
-humetur. Interdum tamen sepelire ponitur pro urere. 
-.Ter. Andr. I. f. 191 : Procedit; sequimur; ad sepul- 
-crum venimus, in ignem imposita est. Ad quem locum 
-Westerhovius ita commentatur; sepulcrum h. I. mani- 
-festo notat ipsum locum, ubi comburebatur cadaver. 
-Sequitur enim continuo: In ignem imposita est. Pariter 
-Tac. Ann. 11. 73: Flor. Ill. 21. 22: Cic. Flacc. xcv : 
-Ep. Fam. lv. {2: Sulpicius, scribens de Marcelli funere, 
-locum rogi itidem sepulturam vocat. Nec aliter intelli- 
-gendus est locus Corn. Nep. Eum. XIII : Svet. Dom. xv. 
-Eodem respexit Plaut. Menaech. I. 2. 43. ubi cyathos 
-sorbillando diem producturus Menaechmus inquit: Clam 
-uxorem ubi sepulcrum habeamus et hunc comburamus 
-diem. An ideo locus rogi sepulcrum diclus, quod quan- 
--doque ossa sepeliebantur. eodem loco, quo cadaver erat 
-combustum? Lxemplum refert Virg. •Aen. xl. 211. 
-USVCAPERE et USVRPARE lurisconsulti distinguunt. Usu- 
-capere est usu adquirere, et possessione suum facere, 
-sicut usucapio est dominii adeplio adquisitioqne per con- 
-tinualionem possessionis, temporis lege definiti. Usurpare 
-(D. de Usur. 111.) autem est apprehendere id, quod alius 
-possidet, eaque re possessionem illius interrumpere; et 
-usurpatio est possessionis interruptio. Unde ex leg. XII 
-Tab. : Usu uxor nondum usucapta, si ante annum a ma- 
-rito trinoctium abfuisset, dicebatur usurpata esse: quod 
-interrupta eius usacapio erat, iésaque apprehendebatur 
-ab iis, quorum antea in poteslate fuerat, puta paren- 
-tum, aut tutorum, et mariti potestate exibat, ut Gellius 
-.et Macrobius tradunt. Sed oratores et historici usurpa- 
-tionem frequentem usum vocant, et usurpare accipiunt 
-pro crebro aliquid agere aut dicere, ut Cicero multis in 
-locis, et Liv. xx1V. 22: Admonet saepe usurpatae Dio- 
-enysii tyranni vocis. 
-Usvs (de Usu et Habit. x. xl MI.) est ius utendi re 
-.aliena, salva rerum substantia; Usufructus aulem omnem 
-:rei fructUm significat, et ius utendi fruendique praestat, 
-tam ad quaestum aut voluptatem, quam necessitatem. 
-Ita in usufructu et usus est; at in usu fructus non con— 
-Ninetur. Ab illo dicitur usuarius, qui usum habet; ab 
-Digitizer} by 
-0081e 
+$$1746$$
++Tardum+ inter et +Pinguem+ multum interest. Turpius dicitur +pinguis+ quam +tardus+. #Hor. Sat. I. 3. 58#: *Illi ==Tardo== cognomen ==pingui== et damus*. +Tardus+ est homo cautus, +pinguis+ stupidus, v. #Gesn.# ad h. I.
 
+$$1747$$
++Tecta+, ne videantur, +tacita+, ne dicantur. +Tecta+ sunt, me haec alii sciant, +tacita+, ne ipse indicet. #Donat.# #R.#
 
-422 
-hoc usufructuarius qui fractum: de quibus prolixe tra— 
-ctant iurisconsulti. Cicero Caecin. : Cuius enim U8tz 
-inquit, eius et fructus fundi. 
-Usvs et EXPERIENTIA differunt, ut causa emciens et 
-effectus. 
-Usvs est generale ut: Haec usu pereunt : Abusus spe— 
-ciale. Ac iurisconsulti quidem abusum proprie in iis 
-constituunt, quae usu consumuntur, seu quocum usus in 
-ipsa consumtlone posilus est. Goclen. Utilitas ex adeptione 
-alicuius commodi quaeritur. Cic. in Partit. Orat. R. 
-Usv venil, quod fit frequentius; Contingit et accidit 
-etiam quod non est consuetum. H. 
-UTERQVE venil,et UTRIQVE veniunt, utrumque dicitur. Agr- 
-Cic.: lubeo promi utrosque binos, ut habeam. V. Ambo. R. 
-UTERVS est mulierum, et quidem proprie locus foetum 
-concipiens. Unde uterini fralres dicuntur ex uno utero 
-editi. Alvus, qua defluunt sordes. Sallust. Fragm. : Si- 
-mulans sibi alvum purgari. Venter, qui videtur. luven. 
-Sat. IV. {07 : Montani quoque venter adest abdomine 
-tardus. Serv. 
-UTI est ad necessitatem et honestc insumere. Abuti 
-est ad alium usum re uti, quam in quem ea compa- 
-rata est, vel rem omnino consumere et perdere: sicut 
-usus est utililas: abusus est consumtio et perditio. Svet. 
-Ner. xxx: Qui abuterentur ac perderent. Ter. Andre 
-Pro). 5: Nam in prologis scribundis operam abutitur. 
-Plaut. Asin. I. 3. 44: Ubi illaec, quae dedi ante? abu— 
-sast. Cicero in Topicis: Usus enim non abusus legatus 
-est. Ubi Boethius: Utimur his, quae nobis utentibus per— 
-manent; his vero abutimur, quae nobis utentibus pereunt. 
-UTRVBI significat utro in loco; Utrobique est utroque 
-in loco, seu in utraque parte; Ulrinque de loco, id est, 
-ex, vel ab utraque parte; Ulraque ad locum, id est, in 
-utrumque locum. Goclen. Ulrubi dubitationem habet 
-utrius loci; Utrobique affirmationem ulriusque loci. Nae- 
-vius in Tarentilla: Utrubi coenaturi• eslis, hiccine, an. 
-in triclinio? Cato in Servium Galbum pro Lusitanis : 
-De frumento utrubi bona. utrubi mala gratia capiatur. 
-Plaut. Stich. v. 5. 9: Utrubi accumbo'? utrubi tu vis. 
-Ulpianus ad Edictum 62. I. D. Praetor ait: Utrubi hie 
-homo, quo de agitur, maiore parte huiusce anni fuit. 
-Theophilus, Graecus Institutionum interpres, utrubi •in-- 
-ierpretatur rap' åroré??. 
-Google 
-Dig.t.zecd by 
+$$1748$$
++Tegula+ est plana, et latera habet hinc inde erecta; +Imbrex+ est curva. _Illa_ substernitur; _haec_ superimponitur. #Plaut. Mil. II. 6. 24#: *Quod meas confregisti ==imbrices== et ==tegulas==*. #Th. Vall.#
 
+$$1749$$
++Telum+. V. %Arma%.
 
-VADO. V. INCEDIT. 
-VALE. V. AVE. 
-VALGVS et VATI%, item vatrax et vatricosus (a 
-rpaxcg, rana, quasi qui pedibus tortis est instar ranae) 
-est, qui habet pedes distorlos et diversos, ita ut pars 
-introrsus exslet, pars extrorsus procedat, quales can- 
-crorum et lacertorum; Varus est, qui habet crura in— 
-cuma, pedesque introrsus figit. Plaut. Fragm. ap. Fest.: 
-Aut varum, aut valgum, aut compernem. Varro R. R. IL 
-9: Sint cruribus rectis c ac potms varis quam valiis. 
-Ulpianus ad edictum Aedil. Curul. xxl. 4. 10. deAedil. 
-Quaesitum est, an balbus et blaesus, et atypts, 
-isque, qui tardius loquilur, et varus et vatius, sanus ait. 
-VALLAMVS proprie castrum, sepimus ovile. R. 
-VALLVM dicitur ipsa munitio et quidem ex aggesta 
-terra a iacio; Vatti sunt pall, fustes, quibus in 
-terram destitutis et fareinaf.is vallum munitur, seu sunt 
-sudes humi defixae ad valli praemunimen.' Serv. Virgil. 
-Georg. I. 264 : ExacuunL alii vallos. 
-VANVS est (I), qui etiam sine utilitate mentitur . 
-mendax, qui tanlum ad decipiendum. Sane vanus apud 
-idoneos scriptores stultus invenitur. Ut luvenal. 111. {59: 
-Sic libitum vano, qui non distinxit. Othoni. Serv. R. 
-VARICVS et VARICOSVS differunt. Illa vox indicat eutL, 
-qui distortis est cruribus, ac descendit a varus, priore a 
-poétis producta, quare Ovid. Art. am. 111. 303: Ambu- 
-lat, ingentes varrca fertque grades. At haec, nempe 
-varicosus est, cuius venae in suris intumescunt, prima 
-a poélis correpta. Persius Sat. v. {89: Dixeris haec inter 
-varicosos centuriones; et luvenalis Sat. VI. 395: Va— 
-ricosus fiet haruspex. Ad quem locum B. Autumnus 
-(l) Va•i dlcuntur, non, ut vulgu* dicit, desipientes aut he- 
-betes aut inepti: sed, ut veterum doctissjmi dixerunt, men- 
-daces et infldl et levia inaniaque pro gravibus et veris astutis- 
-Sime componentes. Stolidi non tam vocantur stulti ec excories. 
-quam tari eC molesti et illepidi. A. Gell. xvul. 4. 
-Digitizers by 
-0081e 
+$$1750$$
++Tellurem+ deam et globum terrestrem dicimus, +terram+ vero elementum et solum globum. #Serv.# #R.#
 
+$$1751$$
++Temerarius+ est, qui sine respectu salutis obiicit se periculis. +Audax+ sine ratione impetum facit. Ergo +audax+ non providet; +temerarius+ non timet. #Corn. Fronto.#
 
-ita: Haruspex multum stando, dum deos et exta con- 
-sulit, evadet varis et obtortis plantis, vel retortis in— 
-trorsum pedibus varus fiet, dum diutissime stare et exta 
-inspicere et consulere cogitur. Vel potius varicosus, cui 
-varices sunt tumidi, et qui venas tumidiores habet, quod 
-fit diuturna statione, cum sanguis deorsum in pedum 
-venas decumbil (Hippocr. Aphor. VI. 21. Porro va- 
-rus primam producit, unde prior explicatio non constat. 
-VARIEGATA et CLAVATA vestis differunt. Haec insuendo 
-clavos suo loco, illa per totum intexendo fiebat. De hoc 
-discrimine agit Quintilianus VIII. 5: Ut amerent lumen 
-clavus et purpurae in loco insertae, ita certe neminem deceat 
-•intertexta pluribus notis vestis; id est vestis purpureis et 
-albis liciis intertexta, scilicet circumquaque et per tolump 
-quales vestes variegatae erant et muliebres, v. Ferra— 
-rius Anal. ad rem vest. p. 9. 
-VECTIGALIA inter et Reditus üetur distinguere Svet- 
-Cal. xvl: Ac si quibus regna restituit, adiecit et fru— 
-clum omnem vectigaliorum et rediluum medii temporis. 
-Beroaldus sequens statuit discrimen. Vectigalia sunt pu— 
-blici reditus, reditus vero sunt privata vectigalia. EI ita 
-utrumque distinxit Tranquillus perinde ac diversa, quam- 
-vis et interdum vectigalia-pro reditibus privatis acci- 
-iantur. Hor. Sat. II. 2. {00: Ego vectigalia magna, 
-ivitiasque habeo Iribus amplas regibus. Cic. Parad. vl 
-Ex meo tenui vectigali ali uid etiam redundat. Enimvero 
-bene monet Ernestius a Suet. I. c. distinctiones Be- 
-roaldi in principe quidem romano fieri posse, ubi aera- 
-rium publicum fuit patrimonium, fiscus principis res 
-rivata. Sed aliter est in regno, quale erat Antiochi 
-ommageni, de cuius vectigalibus et reditibus Tranquil- 
-lus loquitur. Ac primum quidem, pergit Ernestius, non 
-necesse est, subliliter ista verba sensu distinguere; 
-quippe saepe scriptores duo verba eadem vi iungunt. 
-Apud Tac. quidem Ann. 11. 42: Fruclus regni simpli- 
-citer dicuntur. Sed potest commode vectigaliorum no- 
-mine intelligi ea pecunia, quae Vénit ex portoriis, de- 
-cumis, scriptura, etc.; reditus autem ea, quae venit 
-e metallis regiis, tributis etc. V. Stipendium. Tributum. 
-VECTOR est ille, qui portat, et qui portatur. Agraet. R. 
-VEGERE est movere, impellere et agitare, ut ventus 
-veget undas, spiritus vitalis veget herbas et stirpes; Vi- 
-gere est florere, et pollere. Hinc vegetus dicitur sanu$ 
-Google 
-Digitizers by 
+$$1752$$
++Temeritas+ sine consilio dicitur, +audacia+ post consilium. #Agr.#
 
+$$1753$$
++Temperantia+ (1) est animorum; +temperatio+ rerum; +temperies+ caeli et corporis et aëris et imprimis ventorum. #Agr.#
+(1) +Temperantia+ abstinentiam simul complectitur; est enim +temperantia+ domestica et civilis, duobusque modis in rebus commodis discernitur, et ea, quae absunt, non expetendo, et ab iis, quae in potestate sunt, abstinendo. #Cic. in partit. Orator.# #R.#
 
-incolumis; Vigens est fortis atque robustus. Nam ve- 
-getum de corpore, vigens etiam de animo dicitur, auc— 
-tore Nonio. 
-VELOCITAS corporis, celeritas animi est. Agr. H. 
-VELVT, uti quasi, tamquam, ceu significant saepe ima- 
-•ginem : Sicut, sicuti, ut similitudinem. H. 
-VENALE expositum; vendibile facile venditu. H. 
-VENALICII dicuntur ipsi servi venales : Venaliciarii au- 
-tem sunt mangones, qui servorüm negotiationem exer- 
-scent. Africanus Quaestion 3. I. {01. D. de Verb. sign.: 
-Mangones non mercatores, sed venaliciarios appellari; 
-a quo dissentit vetus inscriptio romana : L. Valerius . 
-Zabdae . mercatori . venaliciario. Interdum tamen vena- 
-licii pro venaliciariis accipiuntur. Cic. Orat. LXX. : Ne- 
-que me divitiae movent, quibus omnes Africanos et Lae- 
-hos multi venalicii mercatoresque superarunt. Svet. de 
-Claris Rhetor. I : Venalicii cum Brundisii gregem vena- 
-lium navi educerent. 
-VENIVNT, qui accedunt, veneunt, qui venduntur. A- 
-graet. R. 
-VENVSTAS muliebr.is; Dignitas virilis pulcritudo. H. 
-VERBVM est dictio articulata et significabilis; vox est 
-quilibet sonus ore prolatus. Tac. Hist. 111. 65. : Verba 
-voccsque duos testes habebant. Hor. Ep. I. I. 34: Sunt 
-verba et voces : ubi verba (1) sunt disputationes et ora- 
-tiones philosophicae, ut in antiqua formula: Verba ha- 
-bere et orationem : Voces sunt sententia et dicta. 
-VERECVNDIA est custos virtutum omnium, dedecus fu- 
-giens, laudemque maxime consequens. Cic. in Partit. 
-Orator. p. 442. R. 
-VERENDi maior quaedam vis est, quam colendi. Cic. 
-Amic. XXII : Neque solum inter se colent amici, sed 
-etiam verebuntur. Nam maximum ornamentum amici- 
-tiae tollit, qui ex ea tollit verecundiam. Vavassor. 
-VEREOR plus est; metuo minus, Goclen. H. 
-VERITATEM amicus debet, obsequium assentator. Do- 
-nat. R. 
-VERSVRA a FOENERATIONE aliquid differt. Foeneratur 
-xenim, qui dat; versuram facit, qui accipit mutuo, teste 
-(l) Verbum proprle id est. sententia vel enunciatio, 
-uno ligatur et distringitur verbo, a veteribus dicebatur. 
-Google 
-Digitizer} by 
+$$1754$$
++Temperare+ sibi a mendaciis, est abstinere; +temperare+ rempublicam legibus est moderari. Proprie autem +temperare+ est tempore et modo actiones mensurare, seu res diversas proportionaliter componere. #H.#
 
+$$1755$$
++Templa+ nonnulli existimant esse singulorum diis attributorum locorum; +Delubra+ multarum aedium sub uno tecto, a diluvio pluviae munitarum; +Fana+, unde fata petuntur. Alii +delubra+ ea dicunt templa, in quibus sunt labra corporibus abluendis, more Dodonaei Iovis, aut Apollinis Delphici, in quorum delubris lebetes tripodesque visuntur. #Paedian.# #R.# +Templum+ (1) aedificium; +Ecclesia+ coetus hominum; +Lucus+ a densitate arborum; +Fanum+ a Fando; +Sacellum+ sine tecto; +Delubrum+ quasi, in quo peccata diluuntur, +Bidental+ ab ovibus bidentibus.
+(1) Non vero +templum+ solum loci sacri propria notio est, sed etiam aedem sacram, delubrum, fanum, sacrarium, sacellum significare invenimus. At quamquam priscis temporibus inter haec differentiam intercessisse, certum est, progressu tamen temporum, et Ciceronis iam aevo, non usurpatam scriptionibus latinis eruditissimi viri adnotavere, #Sam. Pitiscus lex. antique# sub _templum_. #Bernh. Montfaucon T. II. P. I. pag. 46.# Interim  tamen non omnes aedes sacras templa esse, ex #Gellio XIV. 7#, discimus. +Aedes+ enim +sacrae+ dicebantur eae, quae ad sacrum quemdam essent constitutae usum, ipsa tamen augurationis lege non sacrae redditae erant. #Iac. Gutherius in iure pontif. III. 2#: *Sic ==aedes== Vestae ad sacra peragenda patebat, consecrataque a pontifice erat, minime tamen templum dicebatur cum Numa non inaugurari eam voluerit*, #Gellius XIV. 7#; #Gutherius# c. I. Error vero, quod plerumque +templum+ et +aedes sacra+ confunduntur, inde meo iudicio originem sumsit, quod, quia omnes fere aedes sacras templa simul fuisse constat, et sanctas quoque reperies, dum sacra in eis facta scimus, #Gutherius# cit. loc. #Pompon. Mela de situ orbis III. 6#: *cur sanctum sit ossa Herculis ibi sita efficiunt*. Quod vero quivis scire posset ac videre, an templum aedis sacrae locus esset, in postico eius leges ponebant, quibus, an templa essent, descriptum legebatur. #Plin. Ep. X. 58.# Porro +delubrum+ venit, quod hanc admittebat differentiam, ut sub uno tecto multorum deorum simulacra haberet, templum vero saltem unius adservaret, uti #Bernh. Montfaucon antiqu. explic. Tom. II. P. I. p. 46#. #Gutherius III. 3.# adnotat. Quidam etiam delubrum, locum ante templum, ubi aqua currit, ubique labra abluendorum corporum mortuorum causa reperiuntur, autumant. Ad +fanum+ quod adtinet, antiquissimis temporibus area loci sacri dicebatur, quod hinc et #Varro de LL. V.# a fando fines templi, derivat templumque evadebat, si ei inaedificaretur, #Adr. Turnebus adversar. III. 9. 19.# #Guther. de iure pontif. II. 3.# Et postmodum templum parvum dictum fuisse Ciceronis tempore censent. Illud certum, quos in eo etiam ab aede sacra diversum fuerit, quod peculiarem habuerit custodem, cui fani cura commissa, qui fani magister in antiquo lapide #Guther.# dicitur: *Q. Peticio. M. F. Fal. Mag. ==Fani==. Dianae*. Superest, ut de +sacello+ pauca moneamus, cuius nobis descriptionem dedit #Gellius VI. 13#. #Festo# teste, est locus diis sacratus sine tecto. Neque ad privatos spectabant, ut sacrarium. +Sacrarium+ erat locus in aedibus privatorum, quo deum privato cultu venerabantur, et ubi sacra reponebant, quod in aedificio privato fieri potest. #I. IX. § 2. ff. de div. rer.# #Pitiscus lex antiqu. in sacrarrum.# Sed ad +sacellum+ populo liberrimus patet aditus, eaque censorum cura erat, ne in privatorum aedibus, sed in publico esset, cuius rei testem vel maxime #Livium# habemus, qui M. Aemilio Lepido, et M. Fulvio censoribus laudi tribuit, quod, complura sacella publica, quae occupata essent a privatis, publica, paterentque populo, effecerint.
 
-Fesb. Plura *mins de L .civ. R. A1. p;- 
-{18. v. •Venura. 
-VERTEX capitis est et in primis eius summihs, ebi 
-capilli gyrant, '"tax auminB. Clar- •V. 
-VESTIBVLW. V. 
-VETVS est, quod a&lem : mutun —t, quod 
-hominum memoriam,exceu; sicut TeEusEas igüGgat 
-tempus infiaitam, «nius Ei4ieet mn ezsut. 
-maul. Cueul. I. 2. 4 : Ut veteris .eupida sum. 
-Vetus pleruynque refertur ad iniørdurn ad 'Mie 
-R. Vetug ad noba; lad 
-anGquitatem referLur; Antiquum exoessit 
-trum. Sed genea ab,annis dicitur. H. 
-VETVSTICARE et VRTEMMIARE Nigid. Gramm, 
-x. differre oslendit. Dicimus enim, quae veiustate dete- 
-riora finnt, vetus'isoere, quoe melieca, ueøraure. 
-VEXILLVM. V. Signnm. 
-VIA est quilibet locus per quem ire liaet•, Viws:ß$t 
-via in urbe; Limes et Trames, •via Iransversa 
-pendiaria, italice: una scorciatoia; Semita, via 
-Ibl. urs g-eüro, nuzrciapiede; Call", •via in— 
-ter montes, peeorem wetigiis tnila. luv. Sal. uå. : 
-transitus •arcto Vieorutn in flexu et 
-convicia mandrae Eripient •wmnos ureo Nilulisque ma- 
-rinis. Svet. Iul. XXXIX : Ut .plenique,aut inter 
-vices eut inter cias, Labgrnaculis positis manerent. Ad. 
-Ner. xml : Circumque vines,v.batur ludibugdtz. Live 
-xxxl. 39 : Profecbos inde frangvgnsis -limiGbus, 
-praüit gubiLum h0&li. Sall. lugur. ul : Pcr tramü4& 
-occultos exercitum Metelli antevenit. Liv. xxd. u: 
-in .silvam •ventum est,ubi plures diversae sanitaerepant, 
-eum perpauc.is,uia divertit. 'PbauL. Trin. 11.4.80: 
-ego illi de 'ia,de Inv. •XXII. 44 : Nos;hic, pecorum 
-more, •per aeÉLivos tsallas, deviosque calks exercitum due 
-cimus. Curt. : Quiver aallæ et pene invias rupes 
-domi pecora,ageæ vconsueverint. V. Iler. TH. 
-VIATICVM erat certa pecunia, quae imperatoribus ad 
-bellum proficisænlibus eonsäluøbatur; Vagaries -Yero 
-proconsulibus•in provincias abeuatibus ad necessaria titi' 
-neris comparanda. R. 
-VICINIA (4) significat locum, ubi plures vicini habi- 
-(I) Vicinia vicorum conlunctio, vicinitas hominum•convør; 
-sauo est propter vicoram coniunctionem. Front. R. 
-Google 
-Digitizer} by 
+$$1756$$
++Temulentus+ vino, +temerarius+ natura. #Ter. Andr. I. 4. 2#: *Sane pol illa ==temulenta== est mulier et ==temeraria==*. #R.#
 
+$$1757$$
++Tendere+ proprie denotet rem trahendo in longum dilatare; deinde est cum nisu et contentione pergere; +pertendere+ est pertinaciter et sine remissione insistere. _illud_ constantiae; _hoc_ pertinaciae est. #Vir. Aen. V. 155#: *Locum ==tendunt== superare priorem*. #Ter. Heaut. V. 5. 9#: *Video, non licere, ut coeperam, hoc ==pertendere==*.
 
-tant; vicinitas est vicinorum propinquitas, vel molliludo. 
-Haec est conversationis coniunctio; itla vieinorum. Ter. 
-And. I. f. 43: Commigravit huc viciniae. Id. Heaut. I. 
-4: Virtus tua me, vel vicinilas. Cic. Verr. VI : 
-gnum, quod notum erat, vicinitati buccina dalur. 
-VICTIMA maior est, et teuris constat; Hostia minor, 
-et capras, oves offert. Front. R. 
-vrcvs. V. VIA. PAM. 
-VIDEMVS quod in promtu est, investigamus, quod non 
-videmus. Ped. R. 
-VIDERE est cognitionis et curae, proprie autem est 
-oculis perripere, ut videry quid agatur, videre, ne res 
-pereat; visere est officii, ut visere aegrotum, amicum, 
-vel visere ad aegrotum, amicum, ideoque in hoc sensa- 
-sumLum, idem est ac saepius videre, quid quis agat. 
-Nam utrumque veteres dixorunt. Ter. Hec. I. 2. 418 : 
-Nostra illico it visere ad eam. Varro R. R. 11. : Cum 
-proretam fessum visere vcnissemus. Frequenter tamen 
-visere pro videre usurpatur. Alias videmus natura; 
-tamus voluntate; intuemur cura; espicimus ex impro— 
-viso; animadvertimus animo; cernimus oculis. Fronto. 
-VIDETE est imperativam; videtote mandativum. Corn. 
-Front. R. 
-VILLA est domus extra urbem, in qua vel agri co- 
-lendi, vel valetudinis et animi relaxandi causa habita- 
-mus. Italice : una casa di campagna. Rus latius patet, 
-et significat agrum Sive cult.um Sive incultum, et do- 
-mum ipsam in agro positam. Itali: un podere con una 
-casa di campagna. Cic. Rosc. Com. XII : Qui ager ne- 
-que villam habuit, neque ex ulla parle fuit cultus. Ter. 
-Eun. II. f. {O: Ego rus ibo, atque ibi manebo. TH. 
-VALL. 
-VINCERE est probare, confirmare et argumentis do- 
-cere; Evincere autem est obt.inere, ut in iudicio dicitur 
-evincere, qui .legitimo certamine apud iudicem obtinet, 
-et sic rem iure dominii ab aliquo aufert, ut evincere 
-haeredilatem. et evincere per bonorum possessionem. 
-Nam prima libera hic auget significationem, ut in emi- 
-gro, elaboro, emereor, et aliis multis. Lucret. VI. 497: 
-Multa simul vincam consurgere nubibus ipsis. Idem ibid. 
-708 : Nam neque eum ferro. nec (rigore vincere possis. 
-Alied est vincere seiuge, aliud vüwere seigges. Vincit se- 
-iuge qui hoc genere currus certans, fit superior. Vincib 
-Digitizers by 
-0081e 
+$$1758$$
++Tenuis+ significat diminutionem rei, +subtilis+ sero acuitatem habet. Ergo "laudatu ==subtile== ingenium", "==tenue== vituperatur". #Christoph. Landinus in Virgil.# #R.#
 
+$$1759$$
++Teres+ et +Rotundus+: hastam dic +teretem+, malum dic esse +rotundum+. #R.#
 
-428 
-.seiuges, qui seiuges habet adversarios, quibuscum cursu 
-contendit. Schefferus de re veh. 11.{4. 183. ubi errorem 
-quoque Onuphrii notat, qui hoc discrimen non observarat. 
-VINDICTA vel VINDICATIO factum punit, vel futurum 
-prohibet atque propulsat; ullio persequitur contume- 
-liam, vel iniuriam factam, aut damnum datum, vel vin- 
-dicat factum, et vindicta etiam legitima est. et pertinet 
-ad animadversionem magistratus in reos. Ultio aliorum 
-quorumlibet est. Comenius ultionem imprimis Deo ad- 
-scribit his verbis : Vis ulcisci iniurias tuas ? non inul- 
-tae manebunt, si ultionem permittas ultori Deo. Cato 
-Originum IV : Si quis membrum rupit aut os fregil, ta- 
-lione vindicta proximus cognatus ulciseilur. Varro R. R. 
-111. 9 : Lux pinguetudinis vindicta. 
-VIOLARE et OFFENDERE differunt. Cic. off. I. 99: lus- 
-titiae partes sunt non violme homines, verecundiae non 
--omendere. Facile patet, gravius esse violare quam offendere. 
-VIRGAE, FERVLAE, FLAGELLA, differunt. Cic. Rab. perd. 
-111 : Porcia lex virgas ab omnium corpore amovit, hic 
-misericors flagella retulit. Acerr. 11. 24. R. 
-VIRGVLTA sunt, quae de radice pullulant, viburna au- 
-tem minuta Silva, humilia virgulta, ut genistae et hu- 
-iusmodi. Anton. in Virg. Eclog. I. R. 
-VIRIDARIVM differt ab horto et hortis. Est autem locus, 
-virentibus arboribus et planlis consitus, etque herbis 
-amoenus. Italice: un verziere. Ita apud nos proprio no- 
-mine regium viridarium ad Valentinum appellabis L'orto 
-botanico del Valentino, quem horti botanici nomine per- 
-peram donatum video. V. Hortus. TK. VALL. 
-VIRTVS hominis summum bonum est, quae et in ora- 
-tione et in cursu potest videri; fortitudo VIS corporis 
-ad sustinendos labores; vigor animi habet elationem; 
-velocilas corporalis celeritas, quasi velox et cita; vehe- 
-mentia a vi, id est impetu mentis. Corn. Fronto. 
-VIRTVTES animi sunt; vires corporis. H. 
-VIS et iuris, potestas exercilii luris apud iurisc. Vis 
-est corporis et potentis, nequitia vero consilii. Phaedr. 
-11. 6: Vis et nequitia quidquid oppugnant, ruit. R. 
-VISERE (1) semel; Visilare visionum frequentiam in- 
-dicat. Fronto. 
-(l) Yiure omeii est, videre quaerentis aliquem. Visere omcii 
--esc apud aegrotos, videre cognitionis. Donat R. 
-Google 
-Digitized by 
+$$1760$$
++Tergum+ proprie est dorsum. Unde "==terga== vertere" pro fugere; +tergus+ est corium, ut #Virg. Aen. I. 245#: *==Tergora== deripiunt costis, et viscera nudant*. #Id.# tamen #Aen. IX. 763.# +tergum+ pro _dorso_ ponit his verbis: *Hinc raptas fugientibus ingerit hastas In ==tergum==*. Immo +tergum+ dicit pro _corio_, #Aen. I. 372#: *Taurino quantum possent circumdare ==tergo==*. Alias +terga+ sunt hominum; +tergora+ animalium. #Sosip.# #R.#
 
+$$1761$$
++Terminus+ manu ponitur et proprie est, ubi aliquid incipit, aut desinit; +finis+ generale est. #H.#
 
-Vrsvs naturalem videndi facultatem designat, et in— 
-transitive sumitur; conspectus actum oculorum notat 
-quo adiicitur ad alios, et propterea transitive sumitur. 
-Vrsvs genere masculino utimur, cum de his loqui- 
-mur, quibus videmus. Ut si dicam : Nubecula abest vi- 
-sibus meis. Sin neutro utamur, ea, quae videntur si- 
-gnificamus. Serv. R. 
-VITES. Sub vitem hastas iacere dicitur veles, cum eas 
-sub manu sursum mittit : Sub vitem proeliari dicuntur 
-milites, cum sub vinea militari pugnant: Sub vinean 
-iacere dicuntur cum adstantibus centurionibus iacere 
-coguntur sudes. Fest. R. 
-VITIVM (f) et VITIOSITAS sunt generaliora; malitia est 
-specia!ius. Exempla Ciceroniana leg. apud Goclen. in 
-Observ. LL. 250. H. 
-VITTAE sacerdotis sunt, laurus vero etiam imperatoris 
-victoris. Serv. R. 
-VITVPERATIO vitium parit; Culpatio a culpa incipit. 
-VIVERE est vitam secure agere, vitam vivere esL vitarn 
-iucunde agere, vitam trahere est duriter vitam agere. H. 
-VIVVM de victuro dicimus, viventem de morituro. 
-Agr. R. 
-VOLEMA ab eo, quod volam seu palmam impleant, 
-dicta sunt. Gallis prra bona et grandia; Vola autem est 
-cavitas manus; seu medietas palmae, vel pedis. Unde et 
-involare dicimus. 
-VOLONES erant servi, qui bello punico 11 militare vo- 
-lebant interrogati; Voluntarii erant emeriti, qui iterum 
-militare volebant. Salmas. ad Florum 11. 6. 23. R. 
-VOLVENTIA, quae volvunt, volubilia, quae volvuntur. 
-VOLVCRIS. V. Aus. 
-VOLVNTAS facto gaudet; Voluptas fieri cupit. Fronto. 
-VOTI damnatus est, cum quis 0b impetratam rem, cu- 
-ius causa votum ante su@ceperat, obstrictus tenetur, vo- 
-tum Sive rem Deo promissam persolvere. Voti reus diis 
-in eventum conditionis promisit; 
-iure adpellari potest 
-voti debitor, ea videlicet ratione, ut si quando eventus 
-(l) Vitia proprie sunt in ipsa natura et habitu, peccata 
-vero proprie in affectu sine actione. Goclen. Vitium est, si 
-tonat tantum, catamitas, si tonat et grandinat et etiam fulminatE 
-Donat. R. 
-Google 
-Digitizeö by 
+$$1762$$
++Terra+ et +Solum+ diversa sunt<add hand="transcriber">.</add> #Servio ad Aen. V. 199#: *==Solum==*, inquit, *notat, unicuique rei quod subiacet, unde est ==solum== navis mare; aër avium; stellarum coelum*. "Terrae solum" dicit #Lucretius V. 213#. Peculiari tamen ratione +solum+ terra est, quia hominum et animalium est fundamentum. V. #Gesn. thes.# v. _Solum_.
 
+$$1763$$
++Terror+ proprie est, qui aliis infertur, ut si dicas: "Ille habet ==terrorem==", h. e. timendus est, unde et "==terribilis== metus" dicitur, quem habent timentes. Sic +territamus+ homines +terribilibus+ minis, ut a malo +deterreamus+. Quamquam vero animus imperterritus terricula non curat; attamen te divini iudicii +terror+ a peccatis +absterreat+. #Comenius.#
 
-optato responderit, votum, id est, res promissa, ab eo, 
-uamvis invito, exigj queat. Macrobius Saturn. 111. 2. 
-aec vox proprie sacrorum esL, ut reus vocetur, qui 
-Niscepto voio se numinibus obligqL, damnatus autem, 
-qui promissa non solvit. Is. Pontanus ad cit. Macrobii 
-locum. Macrobius intelligit, eum proprie voti damna- 
-tum adpellari, qui promissum votum cum non solvit, 
-damnatus habeatur, ut solvat. Itaque praecedit obliga- 
-.iio quam qui praestitit, voti reus dicitur. Qui autem 
-reus voti non solvit, is damnalus voti est, ad id sol- 
-vendum. Iac. Perizonius ad Sanctii Minerv. lv. 4. 14. 
-Esl voti reus, qui se obligavit diis ad praestandum ali- 
-quid, si consequatur id, quod petit. Id vero ubi iam 
-conseculus est, dicitur voti damnatus, hoc est, damna- 
-tus ad praeslandum id, quod voto promisit. Compotem 
-voli aliqucm facere est emcere, ut aliquis consequatur 
-isi, et in potestale quasi habeat, quod ipsi fuerat ante 
-in optatis. V. 10. Ad. Emmrich. diatrib. de vera no- 
-tione locuLionis voli damnatum esse. 
-VOTVM raciebant sine multa cognitione in periculo 
-praesenti, vota concipiebant vel suscipiebant etiam extra 
-periculum, re ante bene considerata. R. 
-VVLNVS illatum; Ulcus innatum. H. 
-VVLNVS a PLAGA differt. Salm.as. exerc. Plin. p. 355. 
-Plagc est eyroæ•h, ubi cutis tanLum laxatur et scindi- 
-tur. Vulnus, n xog, cum distrahitur et tollitur ac 
-separatur a corpore. Sed differentia neque a prosae 
-tionis scriploribus, neque a poétis observata est. Celsus, 
-uem passim evolvi, his verbis promiscue uLitur. Ipse 
-icero mortiferam plagam infligere dicit, in Vatin. 
-VVLTVS proprie hominis; Os omnium; Facies plurium. 
-Vultus mutatur; Facies permanet. Vultus est voluntas, 
-quae pro motu animi in facie ostenditur. Italice : L'a- 
-ria, la ionomia; Facies, i psa oris species. Nos: le fat- 
-tezze. allust. Catil. xv : Prorsus in facie vultuque ve- 
-cordia inerat. Cic. Brut. LXV : Quamquam et ex facie et 
--.ex vullu videbalur. 
+$$1764$$
++Testamentum+ inter et +Codicillos+ quae differentia intercedat, patet apertissime ex #Plin. Ep. II. 16#. +Codicilli+ sunt scriptura, qua defunctus sine solemnitate voluntatem suam de eo testatus est, quod post mortem fieri voluit. Hi non idem possunt, quod +testamentum+, nisi illo sint confirmati. Proinde +testamenta+ solemnius conscripta sunt +codicillis+.
+
+$$1765$$
++Testari+ et +Antestari+. +Antestari+ est verbum legale, quando solebant testium aures tenere et ita dicere: memento, te mihi in illa causa testem futurum. Est ergo +antestari+, antequam manus iniiciat. #Acron.# #R.#
+
+$$1766$$
++Theatrum+ et +Amphitheatrum+ quid differant, ostendit #Plin. HN. de C. Curione XXXVI. 24#, loquens his verbis: *==Theatra== duo iuxta fecit amplissima e ligno, cardinum singulorum, versatili suspensa libramento, in quibus utrisque antemeridiano ludorum spectaculo edito, inter sese aversis, ne invicem obstreperent scenae: repente circumactis ut contra starent, postremo iam die discedentibus tabulis, et cornibus inter se coëuntibus faciebat ==amphitheatrum==; et gladiatorum spectacula edebat*. Et #Cassiodorus Variar. Ep. V. 42#: *Cum ==theatrum== hemisphaerium graece dicatur, ==amphitheatrum== quasi in unum duo iuncta visoria, recte constat esse nominatum*. #Isidorus# dicit: *==amphitheatrum== dictum, quod ex duobus ==theatris== sit factum. Nam ==amphitheatrum== rotundum est, ==theatrum== vero ex medio ==amphitheatro== est, semicirculi figuram habens.* Cf. #Perotti cornucop. Epigr. I. col 78. seqq.# Hic celebrantur in urbe tria +theatra+, ut theatrum Pompeii, Balbi, Marcelli, de quibus #Strabo V.# et #Ovid. Art. Am. III. 394#: *Visite conspicuis terna ==theatra== locis*. +Amphitheatrum+ unum amplissimum Statilii Tauri quod tempore Augusti extruit Statilius Taurus, et postea Neroniano incendio consumtum Vespasianus restituit, et Titus filius absolvit dedicavitque, ut tradunt #Svetonius#, #Martialis#, #Papinius# et alii.
+
+$$1767$$
++Thensa+ sunt sacra vehicula, +pompa+ ordinum et hostiarum. +Thensas+ alii a divinitate dici putant: alii, quod ante ipsas lora tenduntur, quae gaudent manu tenere et tangere, qui eas deducunt. #Paedian.# #R.#
+
+$$1768$$
++Thermae+ differunt a +balneis+. Siquidem +thermae+ a graeca voce θέρμη calor, dicuntur loca, ubi aquis sponte calentibus, aut cellis subiecto igne calefactis homines lavantur aut sudant. In +balneis+ vero sunt etiam cellae frigidariae, quae +thermarum+ nomine venire non possunt. +Thermae+ aquis sponte calentibus fuerunt olim ad Baias; hodieque in Subalpinis ad Aquas Statiellas. Praeterea +thermarum+ nomine (uti monet #Marcellius, De Stil. inscr. vol. I. p. 234#) apud Romanos non balneae solum publicae indicabantur, sed aedificia plane admiranda, in quibus praeter lavacra et laconica, nihil eorum defuisse videtur, quae possent voluptatem explere atque animum relaxare. #Iuven. Sat. VII. 233#: *Dum petit aut ==thermas== aut Phoebi ==balnea==, dicat Nutricem Anchisae*, etc. V. %Balneae%. #Th. Vall.#
+
+$$1769$$
++Tiara+ differt a +Mitra+. #Taubm. ad Plaut. Pers. IV. 2.# +Tiaram+ diversam a +mitra+ fuisse, et genus pileoli, quo Persae Chaldaeique usi sint, docet #Herod. VII.# et #S. Hieronymus ad c. 3. Dan.# De cuius forma curiose #Brissonius de regno Persarum I. 24.# ubi, ait, +tiaram+ fuisse forma pilei, quod absque ulla orae latitudin<del hand="transcriber">a</del>e, aequabile ex omni parte et rotundum erat ac in acutum desinens, conum flexum inclinatumque ac paullulum propendens habebat. Eam tempora et buccas velasse ostendunt. #Ovid. Metam. XI. 181#: *Tempora purpureis tentant velare ==tiaris==*, et #Iuven. Sat. VI. 515#: *Phrygia vestitur bucca ==tiara==*. #Dempsterus in adnot. ad Rosin. A. R. p. m. 416.# ita: Quid discriminis sit inter mitram et tiaram, primus, qui sciam, admonuit #Brissonius#. Nam #Maximus Syrius Serm. X.# mitrophorum a tiarophoro discernit et #Herodot. VII.# tiaram Persas gestasse scribit, Cisseos vero pileos, seu mitras. Differentia haec a forma, ut puto, petenda est; nam +tiara+ formata erat in modum dimidiatae lunae, +mitra+ non item. Designaturque hoc discrimen non obscure a #Liutprando# in legatione sua: *Mulieres nostrae ==tiaratae== et teristratae, viri equitant pileati*. Conf. #Salmas. Exerc. plin. p. 263. et 392#.
+
+$$1770$$
++Timere+ proprie est servorum, qui formidine poenae continentur; +Vereri+ est liberorum, qui virtutis et honesti amore ducuntur. Et +timemus+ (1) dominos et tyrannos; +Veremur+ parentes et seniores et qui sunt in honore aliquo aut dignitate constituti. #Cic. Senect. XI#: *==Metuebant== eum servi, ==verebantur== liberi, carum omnes habebant*. #Id. Quint. I#: *Summa gratia et eloquentia, quarum alteram ==vereor==, alteram ==metuo==*. #Liv. XLIX#: *==Veremur== quidem vos, Romani, et si ita vultis, etiam ==timemus==; sed plus et ==veremur== et ==timemus== deos immortales*. "==Timeo== tibi" idem est, ac sollicitus sum pro te; "==Timeo== te" est reformido te, ut adversarium. #H.#
+(1) +Timeo+ ab illo, cuius causa possum aliquid mali pati etiam si ipse nihil in me mali consulat: +metuo+ illum, qui mihi ipsi aliquid facturus est. #Donat.# #R.#
+
+$$1771$$
++Timor+ est malorum, +pudor+ tantum bonorum. #Donat.# +Timor+ est de futuro, +odium+ de praesenti. #Serv.# #R.#
+
+$$1772$$
++Timor+ sumitur physice estque adfectus, quo animal futurum aliquod malum reformidat. +Timiditas+ ethice, estque habitus vitiosus, quo homo timet, quod, ubi, quando, quomodo, quantum timere non decet.
+
+$$1773$$
++Titubat+, qui pedibus non valet insistere, quales sunt ebrii, infirmi, grandes natu vulnerati. Transfertur etiam ad animum. +Nutare+ est alicuius male solidatae molis, ruinam minantis. +Vacillare+ est alterno motu inconstantem esse.
+
+$$1774$$
++Toga+ quid differat a +stola+, constat inter omnes. Erat _illa_ virilis, _haec_ muliebris. Instita, fascia satis lata, togae subsuta stolam effecisse, vel certe stolam produxisse videtur, ut ea talos imosque pedes tegeret. Reliquam togam stolae fuisse similem #Isidorus XIX. 25.# docet: *Antiquissimis temporibus ==toga== utrique sexui comminus erat, sed postea facta est proprium virorum vestimentum, foeminae vero utebantur ex illo tempore ==stolis==, neque tamen omnes; meretrices et impudicae toga uti cogebantur*; v. #Brisson l. sel. ex iure antiq. p. 10. s.# et #Gesn. thes.# v. _instita_. +Togam+ vestem fuisse exteriorem; +tunicam+ interiorem, vel pueri norunt.
+
+$$1775$$
++Tollere+ est levare et erigere: +Auferre+ levatum transferre. #Virg. Aen. VIII. 440#: *==Tollite== cuncta, inquit, coeptosque ==auferte== labores*. #Non.#
+
+$$1776$$
++Tori+ vocabantur lecti pretiose strati principum hominum, diis vero strati lecti dicebantur +pulvinaria+, quibus simulacra deorum, et festis quidem diebus dapes sacrae imponebantur. #Heumannus ad Cic. Mil. XII.# Exempla utriusque vocabuli significatum confirmantia addere superfluum foret. De toro #Sen. Agam. XIII#: *Pellex ==tori== regii*. Conf. #Virg. Aen. II. 2.# #Statius Sylv. III. 1. 86#.
+
+$$1777$$
++Torquem+ inter et +Monile+ differentiam statuit #Isidorus XIX. 31#: *==Torques==*, ait, *et bullae a viris geruntur, a foeminis ==monilia== et catenae*. Sane #Festus# etiam #II#: *==Monile== dictum est ornatus mulieris, qualem habuisse Eryphilam fabulae ferunt*. #Ovid.# contra #Met. V. 51#: *Indutus clamydem <choice><sic>t</sic><corr>T</corr></choice>yriam, quam limbus obibat Aureus: ornabant aurata ==monilia== collum*. #Schefferus de antiqu. torquibus p. 13# pro #Ovidio# pugnare ipsam nominis originem putat. #Io. Nicolai# autem in notis observat, praeter #Schefferum# etiam #M. Lanckisium in arrha spirituali#, et #Th. Bartholinum in ter. de armil. vet. p. 12. 13.# probasse, +monile+ non solum feminis, sed etiam viris convenire. #Bartholino# calculum addit #Calvinus in lex iuridic. p. 590#. Bene igitur #Faber# scribit: *==Monile==, ornamentum colli virginum vel iuvenum ingenuorum, inde dictum, quod virtutis admoneat*, conf. #Gesn. thes.# v. _monile_.
+
+$$1778$$
++Torquemus+ hominem, +extorquemus+ veritatem. #Donat.# #R.#
+
+$$1779$$
++Torris+ adhuc ardens, extinctus +titio+ fiet. #H.#
+
+$$1780$$
++Totum+ est unius corporis plenitudo, ut "==totum== auditorium", id est, integrum; +Omne+ de universis dicimus, ut "==omne== auditorium", id est, universa auditoria. #Servius.#
+
+$$1781$$
++Totus+ V. %Omnis%.
+
+$$1782$$
++Tranquillitatem+ a +Malacia+ distinguit #Seneca Ep. LXVII#: *Sed in otio inconcusso iacere, non est ==tranquillitas==, ==malacia== est*. +Tranquillitas+ igitur non est sine omni actione et motu. +Malacia+, vocabulum graecum, sed civitate romana donatum, proprie usurpatur, cum mare stat sine ventis, et fere sine motu. #Caesar B. G. III. 15#, ubi de mare loquitur, utrumque vocabulum coniunxit: *Ac iam conversis in eam partem navibus, quo ventus ferebat, tanta subito ==malacia== ac ==tranquillitas== extitit, ut se loco movere non possent*. Postponit h. l. tranquillitatem malaciae, ut crederes, tranquillitatem omni fere motu carere, malaciam non item. Sed quis nescit, differentias saepissime ab ipsis romanis negligi scriptoribus.
+
+$$1783$$
++Transigo+ (1) "rem aliquam" cum aliquo; non +decido+ autem "rem aliquam", sed "de aliqua re" et "per aliquem", item absolute. Vid. #Goclenii Observ. LL. p. 249.# dicentis, duas hasce formulas solo eloquendi modo differre. #H.#
+(1) +Transigere+, quod manifestum est, +expedire+, quod definiendum, +absolvere+, quod dividendum. +Transigere+ est, quod aut confiteri non timeat, aut negationem excludat; +expedire+, quod definitione solvatur; +absolvere+, quod per qualitatem licitum esse monstretur. #Paedian.# #R.#
+
+$$1784$$
++Trepidatio+ ad vocem refertur loquentium, +cursatio+ ad sonum pedum. #Donat.#
+
+$$1785$$
++Tribula+ et +Plostellum+ vehicula erant, quibus veteres frumenta terebant in area, diversi tamen generis. #Varro de R. R. I. 52#, alterum ab altero differre, conceptis verbis docet: *E spicis in aream excuti grana. Quod fit apud alios iumentis iunctis ac ==tribulo==. Id fit e tabula lapidibus aut ferro asperata, quo imposito auriga aut pondere grandi trahitur iumentis iunctis, ut discutiat e spica grana; aut ex assibus dentatis cum orbiculis, quod vocant ==plostellum== poenicum. In eo quis sedeat atque agitet, quae trahant, iumenta*. #Th. Reinesius in diss. de lingua punica# +tribulam+ cum +plostello+ confundit. Error, iudice #Vitringa com. iu. Ies. t. II. p. 130.# exiguus est, quod exigua inter haec instrumenta differentia fuerit. Utriusque figuram expressit #Schoettgenius in antiqu. triturae p. 34. 36.# ex eo autem #Herm. Christ. Paulsen in tract.# lingua germanorum de agricultura orientalium conscripto. Longum foret, verba #Schoettgenii# exscribere. Disputat idem contra #Schefferum de Re Vehicul. II. 7. 128#: e cuius sententia *asseres ==plostelli== dentati non leves aequalesque, sed in modum serrae crebris incisuris asperati dentatique* sunt. Sed fraudi viro fuit, vox axibus, quam ille, pro assibus, seu, ut minus recte quidam dicunt, asseribus sumsit. Differentiam horum verborum exprimit etiam #Virg. Georg. I. 154#: *==Tribulaque==, trabaeque, et iniquo pondere rastri*. Lege sis #Paulsen. 132#.
+
+$$1786$$
++Tribula+ grana terit; +Tribuli+ nascuntur in agris. #H.#
+
+$$1787$$
++Tribunalia+ dicuntur maiora exercentium (v. g. "tribunorum triumvirum, quaestorum" etc.) iudicia, +subsellia+ autem minora, et eorum, qui non in sellis curulibus, nec tribunalibus sedebant. #Goclen.# #H.#
+
+$$1788$$
++Tribunus+ et +Praefectus+ valde discrepant. In militia romana +praefectorum+ nomen ad auxilia et socios, non ad legiones pertinebat. Quod +tribuni+ in legione, +praefecti+ in auxiliis erant. Reperimus autem +praefectos+ cum in exercitu equestri auxiliorum, tum in pedestri. Notavit tamen clar. #Damnius Berolinus ad Cic. Ep. Fam. II. 17#, +praefectum+, absolute positum constanter, significare ducem equitum. Vellem testes addidisset.
+
+$$1789$$
++Tributarius+. V. %Vectigalis%.
+
+$$1790$$
++Tributum+ est pecunia, quae populo imperatur, ita dictum, quod a singulis proportione census exigitur, ut #Varro# tradit, vel ab intributione; aut quod militibus tribuitur, auctore #Ulp. D. de Verb. Sign. XXVII#<choice><sic>:</sic><corr>.</corr></choice> +Vectigal+ proprie dicitur, quod pro invectione, vel evectione mercium debetur. Sed generaliter significat omne, ex quo respublica reditum habet, veluti "==vectigal== portus, decumarum, vicesimae, scripturae, salinarum, metallorum", et similium. +Ultro tributa+ erant redemturae operum publicorum faciendorum, quae censores quinto quoque anno mancipibus certa mercede locabant, sic appellata, quod ab ipsis locatoribus ultro attribuerentur et persolverentur. #Plutarchus in vita Catonis# vocat Ἐργολαβίας. Itaque +tributum+ et +vectigal+ erat fructus et reditus reipublicae. _Illud_ graecis est τέλος, et res atque fundos maxime spectat; hoc graecis φόρος, et in capita resque mobiles imponitur. +Ultro tributa+ autem erant sumtus et impensae publicae. #Varro Ling. Lat. V. 2#: *Lustrum nominatum tempus quinquennale a luendo, hoc est, solvendo, quod quinto quoque anno ==vectigalia== et ==ultro tributa== per censores persolvebantur*. #Liv. XXXIX. 44#: *==Vectigalia== summis pretiis, ==ultro tributa== infimis locaverunt*. #Idem XLIII. 16#: *Edixerunt, ne quis eorum, qui, C. Fulvio, A. Postumio Censoribus, publica ==vectigalia==, aut ==ultro tributa== conduxissent, ad hastam suam accederet*. Sed interdum +vectigal+ latissime pro +tributo+ atque stipendio accipitur, et +vectigales+ provinciae agrive pro stipendiariis vel +tributariis+. #Festus#: *==Vectigal== aes dicitur, quod ob ==tributum== et stipendium, et equestre, et ordinarium populo debetur*.
+
+$$1791$$
++Triceni+ de tricenis dices; +trigeni+, de triginta. #Agraet.# #R.#
+
+$$1792$$
++Tristis+ et +Severus+ diversam habent significationem. #Ter. Andr. V. 2. 16#: *==Tristis== ==severitas== inest in vultu, atque in verbis fides*. #Cic. Amic. XIII#: *==Tristitia== autem et in omni re ==severitas== habet illa quidem gravitatem*. #Tac.# distinguit #Hist. I. 14#: *Aestimatione recta ==severus==, deterius interpretantibus ==tristior== habebatur*. V. #Westerhovius ad Ter. l. c.#
+
+$$1793$$
++Trucido+ graecis ἀποκτείνω plus est quam +occido+, seu graecorum illud φονεύω. Est enim +trucido+ immaniter, seu summa cum saevitia atque truculentia +occido+; ut siquis occidatur ictibus. #Gocl.# #H.#
+
+$$1794$$
++Tuba+ in bello ad convocandos milites, +tibia+ in sacris utebantur. +Tibiae+ ex buxo, +tubae+ ex aere plerumque argentoque factae; +tibiae+ minores, oblongae et foraminosae, +tubae+ maiores, ad extremitatem incurvae saltem, licet caeteroquin in longitudinem protensae, ac sine foraminibus. #Struv. Syntagm. A. Q. p. 639.# Differentia harum vocum etiam palet ex proverbio: "==tibiam== ==tubae== comparare".
+
+$$1795$$
++Tumultus+ est perturbatio magna et repens, quae ex hostili incursu, aut populari seditione oritur (1); +turba+ vero est turbatio minor. #Cicero Philipp. VIII#: *Quid est enim ==tumultus==, nisi perturbatio tanta, ut maior rumor oriatur? Unde etiam nomen ductum est tumultus. Itaque maiores nostri ==tumultum== italicum, quod erat domesticus, ==tumultum== gallicum, quod erat Italiae finitimus, praeterea nullum tumultum nominabant*. #Liv. XXV. 4#: *Qui ==turba== ac ==tumultus== concitatores fuerant*.
+(1) +Tumultum+ a +bello+ differre #Cicero Orat. Phillipp. II.# ostendit. Dicebant socci Antonii, esse +tumultum+ mitius verbum, quam +bellum+. Sed #Cicero# repugnans dicebat, esse plus, quam +bellum+, ut si quis dicat hominem, dicit etiam animal: ita, qui +tumultum+ dicit, dicit quoque +bellum+, ut sub genere continetur species. Haec #Goclenius loc. nuper alleg. p. 249#.
+
+$$1796$$
++Tunc+, temporis adverbium est; +Tum+, ordinis. #Clarus.# #H.#
+
+$$1797$$
++Turbam+ angustus locus facit; +frequentiam+ multitudo. #Corn. Front.#
+
+$$1798$$
++Turbo+ quando appellativum est, facit turbinis; si nomen proprium, turbonis, ut #Horat. Sat. II. 3. 310#: *==Turbonis== in armis*. #Serv.# #R.# Alius a +turbine+ +trochus+ erat. +Trochus+ erat circulus aeneus magnus, cui annuli multi inserti erant, ut strepitu obvii trocho cederent de via. Ansa adprehensus in longum mittebatur, volutabaturque cum strepentibus annulis. Hanc ansam #Propertius# clavem vocat. +Turbines+ autem erant, quorum inferior cuspis in eodem loco non circumageretur, sed scutica agitati vagarentur. #Virg. Aen. VII. 378#: *Ceu quondam torto volitans sub vespere ==turbo==, Quem pueri magno in gyro, vacua atria circum, Intenti ludo exercent: Ille actus habena Curtatis fertur spatiis*. V. #Bulenger de ludis vet. p. 11. s.#
+
+$$1799$$
++Turpe+ et +Foedum+ quam habeant distantiam, manifestum est. Nam +turpe+ levior res; +foedum+ vim habet maiorem. Quaedam enim turpitudo libera est et ab omni poena soluta. #Goclen.# #R.# #Cic. de Off. I. 34#: *Luxuria vero cum omni aetati ==turpis==, tum senectuti ==foedissima== est*. #Non.#
+
+$$1800$$
++Turpe+ est, quod omni laude alque honore est spoliandum; +nefarium+, quod lege cumprimis est coërcendum. +Nefarium+ plus, +turpe+ minus. Distinxit #Cic. Off. II. 22#: *Habere enim quaestui rempublicam non modo ==turpe== est, sed sceleratum etiam atque ==nefarium==*. #Manutius# ad h. l. ita: *==Turpe== reddit sordidum, sceleratum facinus, publice contra ius in rempublicam admissum*.
+
+$$1801$$
++Turpitudo+ est animi, quae celata esse potest. +Foeditas+ autem proprie oculis obiicitur. Sed tamen hoc discrimen a latinis vel optimis non semper servatur. #R.#
+
+$$1802$$
++Tutela+ ad eos spectat, qui per aetatem se defendere nequeunt, +fides+ et +clientela+ ad illos, qui sufficienti robore destituuntur.
+
+$$1803$$
++Tutor+ datur personae, +curator+ vero rei. +Tutor+ datur impuberibus, +curator+ puberibus. #R.#
+
+$$1804$$
++Ulciscor+ illatam iniuriam, +vindico+, ne accipiam. #R.#
+
+$$1805$$
++Ulcus+ est, quod nascitur, et fit in primis, cum acris humor carnem ulcerat. +Vulnus+, quod ab alio infertur. #Agr.# +Ulcus+ tecta et clausa est malignitas; #Virg. Georg. III. 453#: *Quam si quis ferro potuit rescindere summum ==Ulceris== os. Alitur vitium, vivitque tegendo*. +Vulnus+ hians ac patens. #Virg. Aen. IX. 87#: *Produxi, pressive oculos, aut ==vulnera== lavi veste tegens*. #Non.# +Ulcus+ innatum, +vulnus+ illatum.
+
+$$1806$$
++Ullus+. V. %Aliquis%.
+
+$$1807$$
++Ultimus+ orbis, +novissimus+ ordinis. #H.#
+
+$$1808$$
++Umbo+ et +Sinus+ differunt ita, ut, ubi inciperet sinus togae, ibi +umbo+ desineret, et ipsum veluti umbonem ambiret. Ea mens #Tertulliani# est: *Nec artifice necesse est, qui pridie rugas ab exordio formet, et inde deducat in tilias, totumque contracti ==umbonis== figmentum custodibus forcipibus adsignet*. Mox: *Recognito rursus ==umbone==, et si quid exorbitavit, reformato, partem quidem de laevo promittat, ambitum vero eius, ex quo ==sinus== nascitur, iam deficientibus tabulis retrahat a scapulis, et exclusa dextera in laevam adhuc congerat, cum alia pariter tabulato in tergo devoto*. +Umbo+ iste #Tertulliani# haud dubie a +sinu+ distinctus, centrum nempe et modus artifex coëuntium plicarum. Ceterum non semper +umbonem+ arcte coactum fuisse, docet #Persius V. 33#.
+
+$$1809$$
++Unguis+ graece ὄνυξ, est in animalibus, quae habent digitos. +Ungula+ graece <choice><sic>ὀλπὴ</sic><corr>ὁπλή</corr></choice>, in illis, quae pedes habent solidos aut bifidos. #Pl. HN. VIII. 70#: *Boves solidis ==ungulis==*. Cf. #Plaut. Men. IV. 5. 113.# #Plin. HN. XI. 101#: *Huic (elephanto) informes membro quidem quinque, sed indivisi ac leviter discreti, ==ungulisque== haud ==unguibus== similes*. #Ovid. Met. I. 742#: *==Ungulaque== in quinos dilapsa absumitur ==ungues==*. #Th. Vall.#
+
+$$1810$$
++Urbs+ constat muris; +Civitas+ incolis. #Virgil. Aen. II. 363#: *==Urbs== antiqua ruit, multos dominata per annos*.
+
+$$1811$$
++Urere+ inter et +Sepelire+ discrimen intercedere, quilibet facile concedet, ut adeo longa expositione supersedere possimus. +Sepeliri+ proprie dicebantur, quorum cadavera ignem non experiebantur, sed integra tradebantur humo. #Cic. Leg. II. 23#: *Hominem mortuum inquit lex in XII. tab. in urbe ne ==sepelito== neque ==urito==*. Quot autem addit, "neque ==urito==", indicat<choice><sic>;</sic><corr>:</corr></choice> non qui uratur, sepeliri, sed qui humetur. Interdum tamen +sepelire+ ponitur pro +urere+. #Ter. Andr. I. 1. 191#: *Procedit; sequimur; ad sepulcrum venimus, in ignem imposita est*. Ad quem locum #Westerhovius# ita commentatur; sepulcrum h. I. manifesto notat ipsum locum, ubi comburebatur cadaver. Sequitur enim continuo: *In ignem imposita est*. Pariter #Tac. Ann. II. 73#: #Flor. III. 21. 22#: #Cic. Flacc. XCV#: #Ep. Fam. IV. 12#: #Sulpicius#, scribens de Marcelli funere, locum rogi itidem sepulturam vocat. Nec aliter intelligendus est locus #Corn. Nep. Eum. XIII#: #Svet. Dom. XV.# Eodem respexit #Plaut. Menaech. I. 2. 43.# ubi cyathos sorbillando diem producturus Menaechmus inquit: *Clam uxorem ubi sepulcrum habeamus et hunc comburamus diem*. An ideo locus rogi sepulcrum dictus, quod quandoque ossa sepeliebantur eodem loco, quo cadaver erat combustum? Exemplum refert #Virg. Aen. XI. 211#.
+
+$$1812$$
++Usucapere+ et +Usurpare+ Iurisconsulti distinguunt. +Usucapere+ est usu adquirere, et possessione suum facere, sicut +usucapio+ est dominii adeptio adquisitioque per continuationem possessionis, temporis lege definiti. +Usurpare+ #(D. de Usur. III.)# autem est apprehendere id, quod alius possidet, eaque re possessionem illius interrumpere; et +usurpatio+ est possessionis interruptio. Unde ex #leg. XII Tab.#: Usu uxor nondum +usucapta+, si ante annum a marito trinoctium abfuisset, dicebatur +usurpata+ esse: quod interrupta eius +usucapio+ erat, ipsaque apprehendebatur ab iis, quorum antea in potestate fuerat, puta parentum, aut tutorum, et mariti potestate exibat, ut #Gellius# et #Macrobius# tradunt. Sed oratores et historici +usurpationem+ frequentem usum vocant, et +usurpare+ accipiunt pro crebro aliquid agere aut dicere, ut #Cicero# multis in locis, et #Liv. XXIV. 22#: *Admonet saepe ==usurpatae== Dionysii tyranni vocis*.
+
+$$1813$$
++Usus+ #(de Usu et Habit. X. XI. XII.)# est ius utendi re aliena, salva rerum substantia; +Ususfructus+ autem omnem rei fructum significat, et ius utendi fruendique praestat, tam ad quaestum aut voluptatem, quam necessitatem. Ita in usufructu et usus est; at in usu fructus non continetur. Ab illo dicitur _usuarius_, qui usum habet; ab hoc _usufructuarius_ qui fractum: de quibus prolixe tractant iurisconsulti. #Cicero Caecin.#: *Cuius enim ==usus==, inquit, eius et ==fructus== fundi*.
+
+$$1814$$
++Usus+ et +Experientia+ differunt, ut causa efficiens et effectus.
+
+$$1815$$
++Usus+ est generale ut: "Haec ==usu== pereunt": +Abusus+ speciale. Ac iurisconsulti quidem +abusum+ proprie in iis constituunt, quae +usu+ consumuntur, seu quocum +usus+ in ipsa consumtione positus est. #Goclen.# +Utilitas+ ex adeptione alicuius commodi quaeritur. #Cic. in Partit. Orat.# #R.#
+
+$$1816$$
++Usu venit+, quod fit frequentius; +Contingit+ et +accidit+ etiam quod non est consuetum. #H.#
+
+$$1817$$
++Uterque venit+, et +Utrique veniunt+, utrumque dicitur. #Agr.# #Cic.#: *Iubeo promi ==utrosque== binos, ut habeam*. V. %Ambo%. #R.#
+
+$$1818$$
++Uterus+ est mulierum, et quidem proprie locus foetum concipiens. Unde "==uterini== fratres" dicuntur ex uno utero editi. +Alvus+, qua defluunt sordes. #Sallust. Fragm.#: *Simulans sibi ==alvum== purgari*. +Venter+, qui videtur. #Iuven. Sat. IV. 107#: *Montani quoque ==venter== adest abdomine tardus*. #Serv.#
+
+$$1819$$
++Uti+ est ad necessitatem et honeste insumere. +Abuti+ est ad alium usum re uti, quam in quem ea comparata est, vel rem omnino consumere et perdere: sicut +usus+ est utilitas: +abusus+ est consumtio et perditio. #Svet. Ner. XXX#: *Qui ==abuterentur== ac perderent*. #Ter. Andre Prol. 5#: *Nam in prologis scribundis operam ==abutitur==*. #Plaut. Asin. I. 3. 44#: *Ubi illaec, quae dedi ante? ==abusast==*. #Cicero in Topicis#: *==Usus== enim non ==abusus== legatus est*. Ubi #Boethius#: *==Utimur== his, quae nobis utentibus permanent; his vero ==abutimur==, quae nobis utentibus pereunt*.
+
+$$1820$$
++Utrubi+ significat utro in loco; +Utrobique+ est utroque in loco, seu in utraque parte; +Utrinque+ de loco, id est, ex, vel ab utraque parte; +Utraque+ ad locum, id est, in utrumque locum. #Goclen.# +Utrubi+ dubitationem habet utrius loci; +Utrobique+ affirmationem utriusque loci. #Naevius in Tarentilla#: *==Utrubi== coenaturi estis, hiccine, an in triclinio?* #Cato in Servium Galbum pro Lusitanis#: *De frumento ==utrubi== bona, ==utrubi== mala gratia capiatur*. #Plaut. Stich. V. 5. 9#: *==Utrubi== accumbo? ==utrubi== tu vis*. #Ulpianus ad Edictum 62. I. D.#: *Praetor ait: ==Utrubi== hic homo, quo de agitur, maiore parte huiusce anni fuit*. #Theophilus, Graecus Institutionum# interpres, +utrubi+ interpretatur παρ᾽ ὁποτέρῳ.
+
+$$1821$$
++Vado+. V. %Incedit%.
+
+$$1822$$
++Vale+. V. %Ave%.
+
+$$1823$$
++Valgus+ et +Vatius+, item +vatrax+ et +vatricosus+ (a βάτραχος, rana, quasi qui pedibus tortis est instar ranae) est, qui habet pedes distortos et diversos, ita ut pars introrsus exstet, pars extrorsus procedat, quales cancrorum et lacertorum; +Varus+ est, qui habet crura incurva, pedesque introrsus figit. #Plaut. Fragm. ap. Fest.#: *Aut ==varum==, aut ==valgum==, aut compernem*. #Varro R. R. II. 9#: *Sint cruribus rectis, ac potius ==varis== quam ==vatiis==*. #Ulpianus ad edictum Aedil. Curul. XXI. 1. 10. de Aedil. Edictis#: *Quaesitum est, an balbus et blaesus, et atypus, isque, qui tardius loquitur, et ==varus== et ==vatius==, sanus sit*.
+
+$$1824$$
++Vallamus+ proprie castrum, +sepimus+ ovile. #R.#
+
+$$1825$$
++Vallum+ dicitur ipsa munitio et quidem ex aggesta terra a βάλλω iacio; +Valli+ sunt pali, fustes, quibus in terram destitutis et farcinatis vallum munitur, seu sunt sudes humi defixae ad valli praemunimen. #Serv.# #Virgil. Georg. I. 264#: *Exacuunt alii ==vallos==*.
+
+$$1826$$
++Vanus+ est (1), qui etiam sine utilitate mentitur, +mendax+, qui tantum ad decipiendum. Sane +vanus+ apud idoneos scriptores stultus invenitur. Ut #Iuvenal. III. 159#: *Sic libitum ==vano==, qui non distinxit, Othoni*. #Serv.# #R.#
+(1) +Vani+ dicuntur, non, ut vulgus dicit, desipientes aut hebetes aut inepti: sed, ut veterum doctissimi dixerunt, mendaces et infidi et levia inaniaque pro gravibus et veris astutissime componentes. +Stolidi+ non tam vocantur stulti et excories, quam tetri et molesti et illepidi. #A. Gell. XVIII. 4.#
+
+$$1827$$
++Varicus+ et +Varicosus+ differunt. Illa vox indicat eum, qui distortis est cruribus, ac descendit a _varus_, priore a poëtis producta, quare #Ovid. Art. am. III. 303#: *Ambulat, ingentes ==varica== fertque gradus*. At haec, nempe +varicosus+ est, cuius venae in suris intumescunt, prima a poëtis correpta. #Persius Sat. V. 189#: *Dixeris haec inter ==varicosos== centuriones*; et #Iuvenalis Sat. VI. 395#: *==Varicosus== fiet haruspex*. Ad quem locum #B. Autumnus# ita: Haruspex multum stando, dum deos et exta consulit, evadet varis et obtortis plantis, vel retortis introrsum pedibus varus fiet, dum diutissime stare et exta inspicere et consulere cogitur. Vel potius +varicosus+, cui varices sunt tumidi, et qui venas tumidiores habet, quod fit diuturna statione, cum sanguis deorsum in pedum venas decumbit #(Hippocr. Aphor. VI. 21. F.)#. Porro varus primam producit, unde prior explicatio non constat.
+
+$$1828$$
++Variegata+ et +Clavata+ vestis differunt. _Haec_ insuendo clavos suo loco, _illa_ per totum intexendo fiebat. De hoc discrimine agit #Quintilianus VIII. 5#: *Ut afferent lumen clavus et purpurae in loco insertae, ita certe neminem deceat intertexta pluribus notis vestis*; id est vestis purpureis et albis liciis intertexta, scilicet circumquaque et per totum, quales vestes +variegatae+ erant et muliebres, v. #Ferrarius Anal. ad rem vest. p. 9#.
+
+$$1829$$
++Vectigalia+ inter et +Reditus+ videtur distinguere #Svet. Cal. XVI#: *Ac si quibus regna restituit, adiecit et fructum omnem ==vectigaliorum== et ==redituum== medii temporis*. #Beroaldus# sequens statuit discrimen. +Vectigalia+ sunt publici reditus, +reditus+ vero sunt privata vectigalia. Et ita utrumque distinxit #Tranquillus# perinde ac diversa, quamvis et interdum vectigalia pro reditibus privatis accipiantur. #Hor. Sat. II. 2. 100#: *Ego ==vectigalia== magna, Divitiasque habeo tribus amplas regibus*. #Cic. Parad. VI.# *Ex meo tenui ==vectigali== aliquid etiam redundat*. Enimvero bene monet #Ernestius ad Suet. I. c.# distinctiones #Beroaldi# in principe quidem romano fieri posse, ubi aerarium publicum fuit patrimonium, fiscus principis res privata. Sed aliter est in regno, quale erat Antiochi Commageni, de cuius vectigalibus et reditibus #Tranquillus# loquitur. Ac primum quidem, pergit #Ernestius#, non necesse est, subtiliter ista verba sensu distinguere; quippe saepe scriptores duo verba eadem vi iungunt. Apud #Tac.# quidem #Ann. II. 42#: "Fructus regni" simpliciter dicuntur. Sed potest commode +vectigaliorum+ nomine intelligi ea pecunia, quae venit ex portoriis, decumis, scriptura, etc.; +reditus+ autem ea, quae venit e metallis regiis, tributis etc. V. %Stipendium%. %Tributum%.
+
+$$1830$$
++Vector+ est ille, qui portat, et qui portatur. #Agraet.# #R.#
+
+$$1831$$
++Vegere+ est movere, impellere et agitare, ut "ventus ==veget== undas", "spiritus vitalis ==veget== herbas et stirpes"; +Vigere+ est florere, et pollere. Hinc +vegetus+ dicitur sanus et incolumis; +Vigens+ est fortis atque robustus. Nam +vegetum+ de corpore, +vigens+ etiam de animo dicitur, auctore #Nonio#.
+
+$$1832$$
++Velocitas+ corporis, +celeritas+ animi est. #Agr.# #H.#
+
+$$1833$$
++Velut+, +uti quasi+, +tamquam+, +ceu+ significant saepe imaginem: +Sicut+, +sicuti+, ut similitudinem. #H.#
+
+$$1834$$
++Venale+ expositum; +vendibile+ facile venditu. #H.#
+
+$$1835$$
++Venalicii+ dicuntur ipsi servi venales: +Venaliciarii+ autem sunt mangones, qui servorum negotiationem exercent. #Africanus Quaestion 3. I. 107. D. de Verb. sign.#: *Mangones non mercatores, sed ==venaliciarios== appellari*; a quo dissentit vetus inscriptio romana: *L. Valerius . Zabdae . mercatori . venaliciario*. Interdum tamen +venalicii+ pro +venaliciariis+ accipiuntur. #Cic. Orat. LXX.#: *Neque me divitiae movent, quibus omnes Africanos et Laelios multi ==venalicii== mercatoresque superarunt*. #Svet. de claris Rhetor. I#: *==Venalicii== cum Brundisii gregem venalium navi educerent*.
+
+$$1836$$
++Veniunt+, qui accedunt, +veneunt+, qui venduntur. #Agraet.# #R.#
+
+$$1837$$
++Venustas+ muliebris; +Dignitas+ virilis pulcritudo. #H.#
+
+$$1838$$
++Verbum+ est dictio articulata et significabilis; +vox+ est quilibet sonus ore prolatus. #Tac. Hist. III. 65.#: *==Verba== ==vocesque== duos testes habebant*. #Hor. Ep. I. I. 34#: *Sunt ==verba== et ==voces==*: ubi +verba+ (1) sunt disputationes et orationes philosophicae, ut in antiqua formula: "==Verba== habere et orationem": +Voces+ sunt sententia et dicta.
+(1) +Verbum+ proprie ἀξίωμα, id est, sententia vel enunciatio, quae uno ligatur et distringitur verbo, a veteribus dicebatur. #Donat.# #R.#
+
+$$1839$$
++Verecundia+ est custos virtutum omnium, dedecus fugiens, laudemque maxime consequens. #Cic. in Partit. Orator. p. 442.# #R.#
+
+$$1840$$
++Verendi+ maior quaedam vis est, quam +colendi+. #Cic. Amic. XXII#: *Neque solum inter se ==colent== amici, sed etiam ==verebuntur==. Nam maximum ornamentum amicitiae tollit, qui ex ea tollit verecundiam*. #Vavassor.#
+
+$$1841$$
++Vereor+ plus est; +metuo+ minus, #Goclen.# #H.#
+
+$$1842$$
++Veritatem+ amicus debet, +obsequium+ assentator. #Donat.# #R.#
+
+$$1843$$
++Versura+ a +Foeneratione+ aliquid differt. +Foeneratur+ enim, qui dat; +versuram+ facit, qui accipit mutuo, teste #Festo#. Plura dabit #Sigonius de A. I. civ. R. II. 11. p. 118#. <del hand="transcriber">v. %Versura%.</del>
+
+$$1844$$
++Vertex+ capitis est et in primis eius summitas, ubi capilli gyrant, +vortex+ flumins. #Clar.# V. %Iugum%.
+
+$$1845$$
++Vestibulum+. V. %Atrium%.
+
+$$1846$$
++Vetus+ est, quod habet aetatem: +Vetustum+ est, quod hominum memoriam excedit; sicut vetustas significat tempus infinitum, cuius scilicet memoria non exstat. #Plaut. Curcul. I. 2. 4#: *Ut ==veteris== ==vetusti== cupida sum*. +Vetus+ plerumque refertur ad laudem, interdum ad vituperationem. #Donat.# #R.# +Vetus+ ad nova; +vetustum+ ad antiquitatem refertur; +Antiquum+ excessit memoriam patrum. Sed +senex+ ab annis dicitur. #H.#
+
+$$1847$$
++<choice><sic>Vetusticare</sic><corr>Vetustiscere</corr></choice>+ et +Veterascere+ #Nigid. Gramm. X.# differre ostendit. Dicimus enim, quae vetustate deteriora fiunt, +vetustiscere+, quae meliora, +veterascere+.
+
+$$1848$$
++Vexillum+. V. %Signum%.
+
+$$1849$$
++Via+ est quilibet locus per quem ire licet; +Vicus+ est via in urbe; +Limes+ et +Trames+, via transversa et compendiaria, italice: <span lang="it">una scorciatoia</span>; +Semita+, via angustior, ital. <span lang="it">un sentiero, marciapiede</span>; +Callis+, via angustior inter montes, pecorum vestigiis trita. #Iuv. Sal. III. 236#: *Rhedarum transitus arcto ==Vicorum== in flexu et stantis convicia mandrae Eripient somnos urso vitulisque marinis*. #Svet. Iul. XXXIX#: *Ut plenique advenae aut inter ==vicos== aut inter ==vias==, tabernaculis positis manerent*. #Id. Ner. XXVI#: *Circumque ==vicos== vagabatur ludibundus*. #Liv. XXXI. 39#: *Profectus inde transversis ==limitibus==, terrorem praebuit subitum hosti*. #Sall. Iugur. LII#: *Per ==tramites== occultos exercitum Metelli antevenit*. #Liv. XXII. 14#: *Simul in silvam ventum est, ubi plures diversae ==semitae== erant, cum perpaucis ==via== divertit*. #Plaut. Trin. II. 4. 80#: *Decedam ego illi de ==via== de ==semita==*. #Liv. XXII. 14#: *Nos hic, pecorum more, per aestivos saltus, deviosque ==calles== exercitum ducimus*. #Curt. VII. 11#: *Qui per ==calles== et pene invias rupes domi pecora agere consueverint*. V. %Iter%. #Th. Vall.#
+
+$$1850$$
++Viaticum+ erat certa pecunia, quae imperatoribus ad bellum proficiscentibus constituebatur; +Vasarium+ vero proconsulibus in provincias abeuntibus ad necessaria itineris comparanda. #R.#
+
+$$1851$$
++Vicinia+ (1) significat locum, ubi plures vicini habitant; +vicinitas+ est vicinorum propinquitas, vel multitudo. _Haec_ est conversationis coniunctio; _illa_ vicinorum. #Ter. And. I. 1. 43#: *Commigravit huc ==viciniae==*. #Id. Heaut. I. 4#: *Virtus tua me, vel ==vicinitas==*. #Cic. Verr. VI#: *Signum, quod notum erat, ==vicinitati== buccina datur*.
+(1) +Vicinia+ vicorum coniunctio, +vicinitas+ hominum conversatio est propter vicorum coniunctionem. #Front.# #R.#
+
+$$1852$$
++Victima+ maior est, et tauris constat; +Hostia+ minor, et capras, oves offert. #Front.# #R.#
+
+$$1853$$
++Vicus+. V. %Via%. %Pagi%.
+
+$$1854$$
++Videmus+ quod in promtu est, +investigamus+, quod non videmus. #Ped.# #R.#
+
+$$1855$$
++Videre+ est cognitionis et curae, proprie autem est oculis per<choice><sic>r</sic><corr>c</corr></choice>ipere, ut "==videre== quid agatur", "==videre==, ne res pereat"; +visere+ est officii, ut "==visere== aegrotum, amicum", vel "==visere== ad aegrotum, amicum", ideoque in hoc sensu sumtum, idem est ac "saepius ==videre==, quid quis agat". Nam utrumque veteres dixerunt. #Ter. Hec. I. 2. 113#: *Nostra illico it ==visere== ad eam*. #Varro R. R. II.#: *Cum proretam fessum ==visere== venissemus*. Frequenter tamen +visere+ pro +videre+ usurpatur. Alias +videmus+ natura; +spectamus+ voluntate; +intuemur+ cura; +aspicimus+ ex improviso; +animadvertimus+ animo; +cernimus+ oculis. #Fronto.#
+
+$$1856$$
++Videte+ est imperativum; +videtote+ mandativum. #Corn. Front.# #R.#
+
+$$1857$$
++Villa+ est domus extra urbem, in qua vel agri colendi, vel valetudinis et animi relaxandi causa habitamus. Italice: <span lang="it">una casa di campagna</span>. +Rus+ latius patet, et significat agrum sive cultum sive incultum, et domum ipsam in agro positam. Itali: <span lang="it">un podere con una casa di campagna</span>. #Cic. Rosc. Com. XII#: *Qui ager neque ==villam== habuit, neque ex ulla parte fuit cultus*. #Ter. Eun. II. 1. 10#: *Ego ==rus== ibo, atque ibi manebo*. #Th. Vall.#
+
+$$1858$$
++Vincere+ est probare, confirmare et argumentis docere; +Evincere+ autem est obtinere, ut in iudicio dicitur +evincere+, qui legitimo certamine apud iudicem obtinet, et sic rem iure dominii ab aliquo aufert, ut "==evincere== haeredilatem", et "==evincere== per bonorum possessionem". Nam prima libera hic auget significationem, ut in emigro, elaboro, emereor, et aliis multis. #Lucret. VI. 497#: *Multa simul ==vincam== consurgere nubibus ipsis*. #Idem ibid. 708#: *Nam neque eum ferro, nec frigore ==vincere== possis*. Aliud est +vincere seiuge+, aliud +vincere seiuges+. +Vincit seiuge+ qui hoc genere currus certans, fit superior. +Vincit seiuges+, qui seiuges habet adversarios, quibuscum cursu contendit. #Schefferus de re veh. II. 14. 183.# ubi errorem quoque #Onuphrii# notat, qui hoc discrimen non observarat.
+
+$$1859$$
++Vindicta+ vel +Vindicatio+ factum punit, vel futurum prohibet atque propulsat; +ultio+ persequitur contumeliam, vel iniuriam factam, aut damnum datum, vel vindicat factum, et +vindicta+ etiam legitima est, et pertinet ad animadversionem magistratus in reos. +Ultio+ aliorum quorumlibet est. #Comenius# +ultionem+ imprimis Deo adscribit his verbis: *Vis ulcisci iniurias tuas? non inultae manebunt, si ==ultionem== permittas ultori Deo*. #Cato Originum IV#: *Si quis membrum rupit aut os fregit, talione ==vindicta== proximus cognatus ulciscitur*. #Varro R. R. III. 9#: *Lux pinguetudinis ==vindicta==*.
+
+$$1860$$
++Violare+ et +Offendere+ differunt. #Cic. off. I. 99#: *Iustitiae partes sunt non ==violare== homines, verecundiae non ==offendere==*. Facile patet, gravius esse +violare+ quam +offendere+.
+
+$$1861$$
++Virgae+, +Ferulae+, +Flagella+, differunt. #Cic. Rab. perd. III#: *Porcia lex ==virgas== ab omnium corpore amovit, hic misericors ==flagella== retulit*. #Acerr. II. 24.# #R.#
+
+$$1862$$
++Virgulta+ sunt, quae de radice pullulant, +viburna+ autem minuta silva, humilia virgulta, ut genistae et huiusmodi. #Anton. in Virg. Eclog. I.# #R.#
+
+$$1863$$
++Viridarium+ differt ab +horto+ et +hortis+. Est autem locus, virentibus arboribus et plantis consitus, atque herbis amoenus. Italice: <span lang="it">un verziere</span>. Ita apud nos proprio nomine "regium ==viridarium== ad Valentinum" appellabis <span lang="it">L'orto botanico del Valentino</span>, quem "==horti== botanici" nomine perperam donatum video. V. %Hortus%. #Th. Vall.#
+
+$$1864$$
++Virtus+ hominis summum bonum est, quae et in oratione et in cursu potest videri; +fortitudo+ vis corporis ad sustinendos labores; +vigor+ animi habet elationem; +velocitas+ corporalis celeritas, quasi velox et cita; +vehementia+ a vi, id est impetu mentis. #Corn. Fronto.#
+
+$$1865$$
++Virtutes+ animi sunt; +vires+ corporis. H. 
+
+$$1866$$
++Vis+ et iuris, +potestas+ exercitii iuris apud iurisc. +Vis+ est corporis et potentis, +nequitia+ vero consilii. #Phaedr. II. 6#: *==Vis== et ==nequitia== quidquid oppugnant, ruit*. #R.#
+
+$$1867$$
++Visere+ (1) semel; +Visitare+ visionum frequentiam indicat. #Fronto.#
+(1) +Visere+ officii est, +videre+ quaerentis aliquem. +Visere+ officii est apud aegrotos, +videre+ cognitionis. #Donat.# #R.#
+
+$$1868$$
++Visus+ naturalem videndi facultatem designat, et intransitive sumitur; +conspectus+ actum oculorum notat, quo adiicitur ad alios, et propterea transitive sumitur.
+
+$$1869$$
++Visus+ genere _masculino_ utimur, cum de his loquimur, quibus videmus. Ut si dicam: "Nubecula abest ==visibus== meis". Sin _neutro_ utamur, ea, quae videntur significamus. #Serv.# #R.#
+
+$$1870$$
++Vites+. "Sub ==vitem== hastas iacere" dicitur veles, cum eas sub manu sursum mittit: "Sub ==vitem== proeliari" dicuntur milites, cum sub vinea militari pugnant: "Sub ==vineam== iacere" dicuntur cum adstantibus centurionibus iacere coguntur sudes. #Fest.# #R.#
+
+$$1871$$
++Vitium+ (1) et +Vitiositas+ sunt generaliora; +malitia+ est specialius. Exempla Ciceroniana leg. apud #Goclen. in Observ. LL. 250#. #H.#
+(1) +Vitia+ proprie sunt in ipsa natura et habitu, +peccata+ vero proprie in affectu sine actione. #Goclen.# +Vitium+ est, si tonat tantum, +calamitas+, si tonat et grandinat et etiam fulminat. #Donat.# #R.#
+
+$$1872$$
++Vittae+ sacerdotis sunt, +laurus+ vero etiam imperatoris victoris. #Serv.# #R.#
+
+$$1873$$
++Vituperatio+ vitium parit; +Culpatio+ a culpa incipit.
+
+$$1874$$
++Vivere+ est vitam secure agere, +vitam vivere+ est vitam iucunde agere, +vitam trahere+ est duriter vitam agere. #H.#
+
+$$1875$$
++Vivum+ de victuro dicimus, +viventem+ de morituro. #Agr.# #R.#
+
+$$1876$$
++Volema+ ab eo, quod volam seu palmam impleant, dicta sunt. Gallis pira bona et grandia; +Vola+ autem est cavitas manus; seu medietas palmae, vel pedis. Unde et involare dicimus.
+
+$$1877$$
++Volones+ erant servi, qui bello punico II militare volebant interrogati; +Voluntarii+ erant emeriti, qui iterum militare volebant. #Salmas. ad Florum II. 6. 23.# #R.#
+
+$$1878$$
++Volventia+, quae volvunt, +volubilia+, quae volvuntur.
+
+$$1879$$
++Volucris+. V. %Avis%.
+
+$$1880$$
++Voluntas+ facto gaudet; +Voluptas+ fieri cupit. #Fronto.#
+
+$$1881$$
++Voti damnatus+ est, cum quis ob impetratam rem, cuius causa votum ante susceperat, obstrictus tenetur, votum sive rem Deo promissam persolvere. +Voti reus+ diis in eventum conditionis promisit; iure adpellari potest voti debitor, ea videlicet ratione, ut si quando eventus optato responderit, _votum_, id est, res promissa, ab eo, quamvis invito, exigi queat. #Macrobius Saturn. III. 2#: *Haec vox proprie sacrorum est, ut ==reus== vocetur, qui suscepto voto se numinibus obligat, ==damnatus== autem, qui promissa non solvit*. #Is. Pontanus ad cit. Macrobii locum.# Macrobius intelligit, eum proprie +voti damnatum+ adpellari, qui promissum votum cum non solvit, damnatus habeatur, ut solvat. Itaque praecedit obligatio quam qui praestitit, +voti reus+ dicitur. Qui autem +reus voti+ non solvit, is +damnatus voti+ est, ad id solvendum. #Iac. Perizonius ad Sanctii Minerv. IV. 4. 14.# Est +voti reus+, qui se obligavit diis ad praestandum aliquid, si consequatur id, quod petit. Id vero ubi iam consecutus est, dicitur +voti damnatus+, hoc est, damnatus ad praestandum id, quod voto promisit. +Compotem voti aliquem facere+ est efficere, ut aliquis consequatur id, et in potestate quasi habeat, quod ipsi fuerat ante in optatis. V. #Io. Ad. Emmrich. diatrib. de vera notione locutionis voti damnatum esse#.
+
+$$1882$$
++Votum faciebant+ sine multa cognitione in periculo praesenti, +vota concipiebant+ vel +suscipiebant+ etiam extra periculum, re ante bene considerata. #R.#
+
+$$1883$$
++Vulnus+ illatum; +Ulcus+ innatum. #H.#
+
+$$1884$$
++Vulnus+ a +Plaga+ differt. #Salmas. exerc. Plin. p. 355#. +Plaga+ est ἐντομή, ubi cutis tantum laxatur et scinditur. +Vulnus+, τὸ ἕλκος, cum distrahitur et tollitur ac separatur a corpore. Sed differentia neque a prosae orationis scriptoribus, neque a poëtis observata est. #Celsus#, quem passim evolvi, his verbis promiscue utitur. Ipse #Cicero# "mortiferam ==plagam== infligere" dicit, in #Vatin.#
+
+$$1885$$
++Vultus+ proprie hominis; +Os+ omnium; +Facies+ plurium. +Vultus+ mutatur; +Facies+ permanet. +Vultus+ est voluntas, quae pro motu animi in facie ostenditur. Italice: <span lang="it">L'aria, la fisionomia</span>; +Facies+, ipsa oris species. Nos: <span lang="it">le fattezze</span>. #Sallust. Catil. XV#: *Prorsus in ==facie== ==vultuque== vecordia inerat*. #Cic. Brut. LXV#: *Quamquam et ex ==facie== et ex ==vultu== videbatur*.
 
 $$1886$$ 
 +Xenia+ et +Strenas+ alii distinguunt, alii interdum pro iisdem habent. #Fabr. lex.#: *==Xenium== quoque ==strenam== possis interpretari, quae dabatur calendis ianuariis*. At contrarium defendit #Demsterus# in #notis ad Rosinum p. 32#: *Sunt qui putent, idem esse ==strenas== et ==xenia==. Sed perperam. ==Xenia== enim pro minervali advocatorum usurpantur, vel pro donis, quae hostibus olim fuerunt oblata*. +Xeniae+ in plurali numero sunt balneae hospitales. #Cic. Coel. XXV#: *Constitui iussit balneas ==xenias==, ut eo mitteret amicos, qui delitescerent*.
